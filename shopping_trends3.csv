@@ -21,7 +21,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 20,66,Homem,Calcas,Roupas,90,Rhode Island,M,Verde,Verao,33,Sim,Standard,Sim,Sim,46,PIX,Quinzenalmente
 21,21,Homem,Calcas,Roupas,51,Louisiana,M,Preto,Inverno,28,Sim,Expresso,Sim,Sim,50,Cartao de Credito,A cada 3 meses
 22,31,Homem,Calcas,Roupas,62,North Carolina,M,Carvao,Inverno,41,Sim,Retirado na loja,Sim,Sim,22,Cartao de Credito,Trimestralmente
-23,56,Homem,Calcas,Roupas,37,California,M,Peach,Verao,32,Sim,Retirado na loja,Sim,Sim,32,Em dinheiro,Anualmente
+23,56,Homem,Calcas,Roupas,37,California,M,Pessego,Verao,32,Sim,Retirado na loja,Sim,Sim,32,Em dinheiro,Anualmente
 24,31,Homem,Calcas,Roupas,88,Oklahoma,XG,Branco,Inverno,44,Sim,Expresso,Sim,Sim,40,Cartao de Credito,Semanalmente
 25,18,Homem,Jaqueta,Agasalhos,22,Florida,M,Verde,Outono,29,Sim,Retirado na loja,Sim,Sim,16,Em dinheiro,Semanalmente
 26,18,Homem,Moletom,Roupas,25,Texas,M,Prateado,Verao,36,Sim,Expresso,Sim,Sim,14,Transferencia bancaria,Anualmente
@@ -52,7 +52,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 51,49,Homem,Blusa,Roupas,28,Maryland,M,Vermelho,Primavera,37,Sim,Retirado na loja,Sim,Sim,39,Em dinheiro,Quinzenalmente
 52,59,Homem,Saia,Roupas,59,Vermont,XG,Cinza,Inverno,47,Sim,Frete em 2 dias,Sim,Sim,7,PayPal,Trimestralmente
 53,42,Homem,T-shirt,Roupas,20,Alaska,M,Verde,Verao,26,Sim,Free Shipping,Sim,Sim,26,Cartao de Credito,Semanalmente
-54,29,Homem,Saia,Roupas,24,Mississippi,P,Peach,Inverno,39,Sim,Next Day Air,Sim,Sim,35,Cartao de Debito,Semanalmente
+54,29,Homem,Saia,Roupas,24,Mississippi,P,Pessego,Inverno,39,Sim,Next Day Air,Sim,Sim,35,Cartao de Debito,Semanalmente
 55,47,Homem,Casaco,Agasalhos,94,New Mexico,M,Marrom,Verao,42,Sim,Next Day Air,Sim,Sim,35,Transferencia bancaria,Quinzenalmente
 56,40,Homem,Jaqueta,Agasalhos,28,South Carolina,M,Lavanda,Inverno,30,Sim,Frete em 2 dias,Sim,Sim,49,PIX,Anualmente
 57,41,Homem,Mochila,Acessorios,73,Mississippi,XG,Marrom,Verao,47,Sim,Retirado na loja,Sim,Sim,46,PayPal,Semanalmente
@@ -83,7 +83,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 82,67,Homem,Sapatos,Calcados,96,Virginia,G,Marrom,Verao,26,Sim,Expresso,Sim,Sim,36,PayPal,A cada 3 meses
 83,19,Homem,Calcas,Roupas,28,Georgia,P,Oliva,Primavera,40,Sim,Frete em 2 dias,Sim,Sim,21,Transferencia bancaria,A cada 3 meses
 84,36,Homem,Vestido,Roupas,40,Texas,M,Turquesa,Verao,41,Sim,Standard,Sim,Sim,34,Cartao de Debito,Semanalmente
-85,52,Homem,Casaco,Agasalhos,32,Arizona,P,Peach,Primavera,44,Sim,Standard,Sim,Sim,42,Em dinheiro,A cada 3 meses
+85,52,Homem,Casaco,Agasalhos,32,Arizona,P,Pessego,Primavera,44,Sim,Standard,Sim,Sim,42,Em dinheiro,A cada 3 meses
 86,53,Homem,Oculos de sol,Acessorios,95,New Mexico,M,Carvao,Inverno,45,Sim,Next Day Air,Sim,Sim,2,Cartao de Credito,Quinzenalmente
 87,24,Homem,Moletom,Roupas,41,Nevada,G,Rosa,Primavera,37,Sim,Frete em 2 dias,Sim,Sim,47,PIX,Quinzenalmente
 88,52,Homem,Sapatos,Calcados,53,Ohio,M,Verde,Outono,37,Sim,Frete em 2 dias,Sim,Sim,44,Cartao de Debito,Quinzenalmente
@@ -212,7 +212,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 211,45,Homem,Jaqueta,Agasalhos,22,Vermont,G,Verde-azulado,Outono,30,Sim,Frete em 2 dias,Sim,Sim,6,PIX,Quinzenalmente
 212,69,Homem,Saia,Roupas,92,South Dakota,G,Marrom,Outono,42,Sim,Frete em 2 dias,Sim,Sim,45,PIX,Quinzenalmente
 213,67,Homem,Bolsa,Acessorios,84,Virginia,G,Azul,Outono,42,Sim,Expresso,Sim,Sim,7,PIX,Anualmente
-214,30,Homem,Bolsa,Acessorios,93,Nevada,G,Peach,Outono,44,Sim,Retirado na loja,Sim,Sim,11,Em dinheiro,A cada 3 meses
+214,30,Homem,Bolsa,Acessorios,93,Nevada,G,Pessego,Outono,44,Sim,Retirado na loja,Sim,Sim,11,Em dinheiro,A cada 3 meses
 215,24,Homem,Jaqueta,Agasalhos,50,Hawaii,G,Azul,Verao,42,Sim,Next Day Air,Sim,Sim,41,Em dinheiro,A cada 3 meses
 216,62,Homem,Cachecol,Acessorios,64,New Jersey,P,Laranja,Primavera,28,Sim,Frete em 2 dias,Sim,Sim,24,Transferencia bancaria,Quinzenalmente
 217,43,Homem,Shorts,Roupas,61,Massachusetts,G,Amarelo,Primavera,37,Sim,Free Shipping,Sim,Sim,21,Em dinheiro,Semanalmente
@@ -237,10 +237,10 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 236,43,Homem,Oculos de sol,Acessorios,89,New Jersey,M,Ciano,Inverno,37,Sim,Free Shipping,Sim,Sim,31,Em dinheiro,Trimestralmente
 237,38,Homem,Casaco,Agasalhos,68,North Dakota,G,Verde,Inverno,34,Sim,Next Day Air,Sim,Sim,39,Cartao de Debito,Quinzenalmente
 238,50,Homem,Vestido,Roupas,90,Iowa,M,Bege,Verao,30,Sim,Retirado na loja,Sim,Sim,36,PIX,Quinzenalmente
-239,64,Homem,Saia,Roupas,34,Ohio,M,Peach,Outono,42,Sim,Free Shipping,Sim,Sim,5,Cartao de Debito,Anualmente
+239,64,Homem,Saia,Roupas,34,Ohio,M,Pessego,Outono,42,Sim,Free Shipping,Sim,Sim,5,Cartao de Debito,Anualmente
 240,49,Homem,Calcas,Roupas,51,Vermont,G,Amarelo,Verao,29,Sim,Expresso,Sim,Sim,47,PayPal,Quinzenalmente
 241,47,Homem,Sueter,Roupas,45,Montana,XG,Turquesa,Inverno,35,Sim,Free Shipping,Sim,Sim,29,Cartao de Credito,Quinzenalmente
-242,36,Homem,Moletom,Roupas,88,Delaware,M,Peach,Inverno,41,Sim,Free Shipping,Sim,Sim,43,PayPal,Quinzenalmente
+242,36,Homem,Moletom,Roupas,88,Delaware,M,Pessego,Inverno,41,Sim,Free Shipping,Sim,Sim,43,PayPal,Quinzenalmente
 243,55,Homem,Casaco,Agasalhos,85,New York,G,Cinza,Verao,43,Sim,Retirado na loja,Sim,Sim,40,Cartao de Credito,A cada 3 meses
 244,25,Homem,Joias,Acessorios,100,Kentucky,M,Oliva,Inverno,28,Sim,Frete em 2 dias,Sim,Sim,4,Cartao de Credito,Mensalmente
 245,53,Homem,Cinto,Acessorios,42,Oregon,P,Indigo,Primavera,49,Sim,Frete em 2 dias,Sim,Sim,39,Cartao de Debito,Semanalmente
@@ -381,7 +381,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 380,32,Homem,T-shirt,Roupas,29,Montana,P,Magenta,Outono,47,Sim,Frete em 2 dias,Sim,Sim,46,Cartao de Debito,Quinzenalmente
 381,39,Homem,Mochila,Acessorios,69,New Hampshire,XG,Bege,Outono,30,Sim,Retirado na loja,Sim,Sim,19,PayPal,Semanalmente
 382,66,Homem,Joias,Acessorios,25,Maine,G,Lavanda,Inverno,34,Sim,Retirado na loja,Sim,Sim,3,Cartao de Debito,A cada 3 meses
-383,28,Homem,Jeans,Roupas,76,California,M,Peach,Inverno,32,Sim,Retirado na loja,Sim,Sim,47,PayPal,Trimestralmente
+383,28,Homem,Jeans,Roupas,76,California,M,Pessego,Inverno,32,Sim,Retirado na loja,Sim,Sim,47,PayPal,Trimestralmente
 384,50,Homem,Oculos de sol,Acessorios,77,West Virginia,P,Magenta,Outono,29,Sim,Standard,Sim,Sim,6,Cartao de Credito,Trimestralmente
 385,70,Homem,Sueter,Roupas,33,California,M,Bege,Outono,45,Sim,Frete em 2 dias,Sim,Sim,6,Cartao de Credito,Anualmente
 386,67,Homem,Shorts,Roupas,93,West Virginia,P,Amarelo,Outono,27,Sim,Next Day Air,Sim,Sim,12,Cartao de Credito,Quinzenalmente
@@ -405,7 +405,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 404,19,Homem,Tenis,Calcados,45,Nevada,M,Laranja,Inverno,45,Sim,Next Day Air,Sim,Sim,12,Cartao de Credito,Anualmente
 405,35,Homem,T-shirt,Roupas,93,Delaware,M,Indigo,Primavera,48,Sim,Retirado na loja,Sim,Sim,11,Cartao de Credito,Mensalmente
 406,41,Homem,Jeans,Roupas,74,South Carolina,P,Prateado,Verao,38,Sim,Standard,Sim,Sim,15,Cartao de Debito,Anualmente
-407,52,Homem,Gloves,Acessorios,55,Maryland,M,Peach,Primavera,46,Sim,Expresso,Sim,Sim,13,Cartao de Debito,Mensalmente
+407,52,Homem,Gloves,Acessorios,55,Maryland,M,Pessego,Primavera,46,Sim,Expresso,Sim,Sim,13,Cartao de Debito,Mensalmente
 408,45,Homem,Moletom,Roupas,76,North Carolina,XG,Verde-azulado,Primavera,31,Sim,Next Day Air,Sim,Sim,5,Cartao de Debito,Quinzenalmente
 409,34,Homem,Tenis,Calcados,66,Alabama,G,Branco,Primavera,34,Sim,Expresso,Sim,Sim,36,Cartao de Credito,Quinzenalmente
 410,35,Homem,Shorts,Roupas,51,Minnesota,M,Marrom,Inverno,33,Sim,Frete em 2 dias,Sim,Sim,32,Cartao de Debito,Mensalmente
@@ -419,7 +419,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 418,23,Homem,Sandalhas,Calcados,81,Mississippi,G,Bege,Outono,45,Sim,Free Shipping,Sim,Sim,48,PayPal,Trimestralmente
 419,18,Homem,Sueter,Roupas,73,Illinois,G,Roxo,Primavera,30,Sim,Standard,Sim,Sim,27,Em dinheiro,Quinzenalmente
 420,53,Homem,Shorts,Roupas,91,Utah,P,Verde-azulado,Inverno,35,Sim,Free Shipping,Sim,Sim,14,Cartao de Credito,A cada 3 meses
-421,32,Homem,Socks,Roupas,54,North Carolina,P,Peach,Primavera,38,Sim,Free Shipping,Sim,Sim,18,Cartao de Credito,Quinzenalmente
+421,32,Homem,Socks,Roupas,54,North Carolina,P,Pessego,Primavera,38,Sim,Free Shipping,Sim,Sim,18,Cartao de Credito,Quinzenalmente
 422,38,Homem,Shirt,Roupas,40,Kentucky,M,Violeta,Inverno,35,Sim,Standard,Sim,Sim,48,Em dinheiro,Quinzenalmente
 423,47,Homem,Calcas,Roupas,59,Minnesota,M,Roxo,Outono,31,Sim,Retirado na loja,Sim,Sim,32,Transferencia bancaria,Anualmente
 424,46,Homem,Cachecol,Acessorios,26,New York,G,Verde-azulado,Primavera,30,Sim,Retirado na loja,Sim,Sim,21,Transferencia bancaria,Quinzenalmente
@@ -436,7 +436,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 435,50,Homem,Sapatos,Calcados,52,Oklahoma,G,Rosa,Primavera,40,Sim,Retirado na loja,Sim,Sim,39,Transferencia bancaria,A cada 3 meses
 436,51,Homem,Casaco,Agasalhos,28,Montana,XG,Oliva,Inverno,36,Sim,Next Day Air,Sim,Sim,42,PayPal,Mensalmente
 437,40,Homem,Calcas,Roupas,46,Tennessee,G,Ciano,Verao,46,Sim,Free Shipping,Sim,Sim,41,Em dinheiro,Semanalmente
-438,45,Homem,Joias,Acessorios,50,New Mexico,M,Peach,Verao,26,Sim,Next Day Air,Sim,Sim,41,Cartao de Credito,Anualmente
+438,45,Homem,Joias,Acessorios,50,New Mexico,M,Pessego,Verao,26,Sim,Next Day Air,Sim,Sim,41,Cartao de Credito,Anualmente
 439,52,Homem,Cinto,Acessorios,23,Iowa,M,Turquesa,Inverno,43,Sim,Expresso,Sim,Sim,12,Em dinheiro,Quinzenalmente
 440,62,Homem,Jaqueta,Agasalhos,50,Idaho,M,Turquesa,Verao,34,Sim,Free Shipping,Sim,Sim,31,PayPal,Mensalmente
 441,20,Homem,Shirt,Roupas,89,Oklahoma,XG,Marrom,Inverno,35,Sim,Retirado na loja,Sim,Sim,34,Cartao de Debito,Quinzenalmente
@@ -448,11 +448,11 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 447,19,Homem,Shirt,Roupas,74,West Virginia,M,Prateado,Verao,41,Sim,Retirado na loja,Sim,Sim,15,Transferencia bancaria,Mensalmente
 448,60,Homem,Shorts,Roupas,82,Washington,P,Turquesa,Primavera,36,Sim,Standard,Sim,Sim,7,PIX,A cada 3 meses
 449,32,Homem,Gloves,Acessorios,23,Missouri,M,Amarelo,Verao,34,Sim,Next Day Air,Sim,Sim,35,Cartao de Credito,Quinzenalmente
-450,26,Homem,Joias,Acessorios,45,New York,G,Peach,Verao,29,Sim,Frete em 2 dias,Sim,Sim,35,PayPal,Mensalmente
+450,26,Homem,Joias,Acessorios,45,New York,G,Pessego,Verao,29,Sim,Frete em 2 dias,Sim,Sim,35,PayPal,Mensalmente
 451,25,Homem,Botas,Calcados,21,Connecticut,G,Bege,Verao,27,Sim,Retirado na loja,Sim,Sim,19,PIX,Mensalmente
 452,66,Homem,Joias,Acessorios,31,Virginia,M,Rosa,Verao,43,Sim,Expresso,Sim,Sim,26,Em dinheiro,Quinzenalmente
 453,45,Homem,Calcas,Roupas,45,Missouri,M,Violeta,Verao,33,Sim,Expresso,Sim,Sim,39,Cartao de Debito,Quinzenalmente
-454,54,Homem,Joias,Acessorios,56,Nebraska,XG,Peach,Inverno,28,Sim,Next Day Air,Sim,Sim,22,Em dinheiro,Semanalmente
+454,54,Homem,Joias,Acessorios,56,Nebraska,XG,Pessego,Inverno,28,Sim,Next Day Air,Sim,Sim,22,Em dinheiro,Semanalmente
 455,37,Homem,Jaqueta,Agasalhos,97,New Jersey,P,Gold,Verao,32,Sim,Next Day Air,Sim,Sim,14,Cartao de Debito,Quinzenalmente
 456,54,Homem,Blusa,Roupas,100,Utah,XG,Gold,Outono,36,Sim,Retirado na loja,Sim,Sim,50,Cartao de Credito,Quinzenalmente
 457,50,Homem,Blusa,Roupas,96,North Carolina,P,Indigo,Outono,40,Sim,Frete em 2 dias,Sim,Sim,33,Transferencia bancaria,Trimestralmente
@@ -467,7 +467,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 466,54,Homem,Saia,Roupas,88,Oklahoma,M,Rosa,Verao,28,Sim,Next Day Air,Sim,Sim,25,Em dinheiro,Trimestralmente
 467,38,Homem,Jeans,Roupas,24,Vermont,G,Turquesa,Inverno,46,Sim,Free Shipping,Sim,Sim,25,Cartao de Credito,Semanalmente
 468,19,Homem,Mochila,Acessorios,51,Nebraska,P,Laranja,Primavera,45,Sim,Frete em 2 dias,Sim,Sim,37,Cartao de Credito,A cada 3 meses
-469,34,Homem,Mochila,Acessorios,38,Georgia,P,Peach,Outono,50,Sim,Free Shipping,Sim,Sim,16,Transferencia bancaria,Trimestralmente
+469,34,Homem,Mochila,Acessorios,38,Georgia,P,Pessego,Outono,50,Sim,Free Shipping,Sim,Sim,16,Transferencia bancaria,Trimestralmente
 470,21,Homem,Shorts,Roupas,46,Alabama,G,Rosa,Outono,41,Sim,Frete em 2 dias,Sim,Sim,30,Cartao de Debito,Quinzenalmente
 471,50,Homem,Vestido,Roupas,63,Minnesota,G,Verde-azulado,Verao,46,Sim,Expresso,Sim,Sim,6,Em dinheiro,A cada 3 meses
 472,55,Homem,Cachecol,Acessorios,72,Missouri,XG,Branco,Inverno,49,Sim,Frete em 2 dias,Sim,Sim,36,Cartao de Credito,Trimestralmente
@@ -480,7 +480,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 479,35,Homem,Joias,Acessorios,43,Kansas,XG,Turquesa,Inverno,32,Sim,Free Shipping,Sim,Sim,48,Cartao de Debito,Anualmente
 480,39,Homem,Bolsa,Acessorios,84,Iowa,G,Amarelo,Inverno,33,Sim,Retirado na loja,Sim,Sim,43,Transferencia bancaria,Mensalmente
 481,68,Homem,Moletom,Roupas,88,Vermont,M,Cinza,Verao,48,Sim,Standard,Sim,Sim,30,Cartao de Credito,Quinzenalmente
-482,46,Homem,Chapeu,Acessorios,88,Wisconsin,G,Peach,Outono,32,Sim,Frete em 2 dias,Sim,Sim,10,PayPal,Quinzenalmente
+482,46,Homem,Chapeu,Acessorios,88,Wisconsin,G,Pessego,Outono,32,Sim,Frete em 2 dias,Sim,Sim,10,PayPal,Quinzenalmente
 483,41,Homem,Cinto,Acessorios,42,Connecticut,M,Amarelo,Inverno,25,Sim,Frete em 2 dias,Sim,Sim,11,PayPal,Anualmente
 484,23,Homem,Moletom,Roupas,73,Oklahoma,M,Branco,Outono,39,Sim,Retirado na loja,Sim,Sim,12,PIX,Semanalmente
 485,68,Homem,Chapeu,Acessorios,73,Missouri,G,Lavanda,Verao,47,Sim,Free Shipping,Sim,Sim,28,Cartao de Credito,Trimestralmente
@@ -511,8 +511,8 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 510,41,Homem,T-shirt,Roupas,80,Delaware,G,Ciano,Verao,39,Sim,Free Shipping,Sim,Sim,17,Transferencia bancaria,Semanalmente
 511,21,Homem,Shirt,Roupas,87,West Virginia,M,Verde-azulado,Outono,39,Sim,Frete em 2 dias,Sim,Sim,22,Cartao de Credito,Anualmente
 512,61,Homem,Shirt,Roupas,46,Hawaii,G,Amarelo,Outono,31,Sim,Free Shipping,Sim,Sim,8,Cartao de Debito,Anualmente
-513,19,Homem,Gloves,Acessorios,49,New York,G,Peach,Inverno,33,Sim,Next Day Air,Sim,Sim,2,Cartao de Credito,Mensalmente
-514,22,Homem,Cachecol,Acessorios,65,New Mexico,M,Peach,Outono,36,Sim,Retirado na loja,Sim,Sim,45,PayPal,Anualmente
+513,19,Homem,Gloves,Acessorios,49,New York,G,Pessego,Inverno,33,Sim,Next Day Air,Sim,Sim,2,Cartao de Credito,Mensalmente
+514,22,Homem,Cachecol,Acessorios,65,New Mexico,M,Pessego,Outono,36,Sim,Retirado na loja,Sim,Sim,45,PayPal,Anualmente
 515,64,Homem,Saia,Roupas,62,Indiana,P,Oliva,Inverno,43,Sim,Standard,Sim,Sim,47,Cartao de Debito,Trimestralmente
 516,28,Homem,Chapeu,Acessorios,67,Kentucky,G,Carvao,Primavera,45,Sim,Next Day Air,Sim,Sim,7,Cartao de Credito,Mensalmente
 517,34,Homem,Moletom,Roupas,41,West Virginia,G,Indigo,Outono,28,Sim,Frete em 2 dias,Sim,Sim,19,Em dinheiro,Quinzenalmente
@@ -551,7 +551,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 550,31,Homem,Mochila,Acessorios,29,Arizona,P,Oliva,Outono,36,Sim,Expresso,Sim,Sim,37,Em dinheiro,Quinzenalmente
 551,62,Homem,Cinto,Acessorios,62,Georgia,M,Oliva,Verao,33,Sim,Retirado na loja,Sim,Sim,12,Em dinheiro,Semanalmente
 552,29,Homem,Casaco,Agasalhos,78,Idaho,XG,Verde,Outono,31,Sim,Frete em 2 dias,Sim,Sim,27,PIX,Quinzenalmente
-553,24,Homem,T-shirt,Roupas,94,Missouri,M,Peach,Outono,35,Sim,Expresso,Sim,Sim,18,Transferencia bancaria,Semanalmente
+553,24,Homem,T-shirt,Roupas,94,Missouri,M,Pessego,Outono,35,Sim,Expresso,Sim,Sim,18,Transferencia bancaria,Semanalmente
 554,63,Homem,Oculos de sol,Acessorios,59,Florida,M,Branco,Inverno,32,Sim,Expresso,Sim,Sim,15,PIX,Trimestralmente
 555,56,Homem,Tenis,Calcados,47,Minnesota,M,Vermelho,Verao,30,Sim,Expresso,Sim,Sim,34,PayPal,Semanalmente
 556,63,Homem,Gloves,Acessorios,57,Maine,M,Branco,Outono,48,Sim,Expresso,Sim,Sim,37,Transferencia bancaria,Anualmente
@@ -574,7 +574,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 573,56,Homem,Cachecol,Acessorios,97,South Carolina,XG,Ciano,Verao,46,Sim,Next Day Air,Sim,Sim,26,Cartao de Credito,Anualmente
 574,58,Homem,Calcas,Roupas,68,California,M,Carvao,Verao,32,Sim,Frete em 2 dias,Sim,Sim,23,Em dinheiro,Quinzenalmente
 575,54,Homem,Tenis,Calcados,79,Maine,G,Vermelho,Outono,48,Sim,Free Shipping,Sim,Sim,20,PayPal,Quinzenalmente
-576,58,Homem,Jeans,Roupas,86,Nebraska,M,Peach,Outono,48,Sim,Expresso,Sim,Sim,38,PIX,Mensalmente
+576,58,Homem,Jeans,Roupas,86,Nebraska,M,Pessego,Outono,48,Sim,Expresso,Sim,Sim,38,PIX,Mensalmente
 577,48,Homem,Chapeu,Acessorios,68,Washington,M,Preto,Inverno,50,Sim,Frete em 2 dias,Sim,Sim,5,PIX,A cada 3 meses
 578,19,Homem,Saia,Roupas,52,Alabama,M,Preto,Outono,37,Sim,Retirado na loja,Sim,Sim,41,PayPal,Anualmente
 579,69,Homem,Sandalhas,Calcados,90,Maine,M,Roxo,Outono,46,Sim,Next Day Air,Sim,Sim,22,Cartao de Debito,Quinzenalmente
@@ -621,7 +621,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 620,19,Homem,Mochila,Acessorios,34,Nebraska,M,Carvao,Verao,46,Sim,Retirado na loja,Sim,Sim,1,Cartao de Debito,A cada 3 meses
 621,33,Homem,Mochila,Acessorios,89,Rhode Island,M,Preto,Outono,37,Sim,Frete em 2 dias,Sim,Sim,10,PayPal,A cada 3 meses
 622,51,Homem,Oculos de sol,Acessorios,27,Kansas,P,Vermelho,Outono,44,Sim,Retirado na loja,Sim,Sim,45,Cartao de Debito,Semanalmente
-623,69,Homem,Socks,Roupas,63,Georgia,P,Peach,Primavera,40,Sim,Next Day Air,Sim,Sim,44,Cartao de Credito,Quinzenalmente
+623,69,Homem,Socks,Roupas,63,Georgia,P,Pessego,Primavera,40,Sim,Next Day Air,Sim,Sim,44,Cartao de Credito,Quinzenalmente
 624,19,Homem,Sapatos,Calcados,70,Nevada,M,Branco,Outono,47,Sim,Standard,Sim,Sim,48,Transferencia bancaria,Quinzenalmente
 625,55,Homem,Calcas,Roupas,87,South Carolina,XG,Rosa,Outono,34,Sim,Expresso,Sim,Sim,21,PIX,Anualmente
 626,49,Homem,Joias,Acessorios,79,Delaware,M,Vermelho,Outono,40,Sim,Next Day Air,Sim,Sim,1,PIX,Semanalmente
@@ -664,18 +664,18 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 663,24,Homem,Gloves,Acessorios,98,Illinois,G,Magenta,Outono,28,Sim,Expresso,Sim,Sim,39,Cartao de Debito,Quinzenalmente
 664,59,Homem,Vestido,Roupas,83,Alaska,M,Carvao,Outono,47,Sim,Expresso,Sim,Sim,23,Em dinheiro,Mensalmente
 665,63,Homem,Calcas,Roupas,83,Colorado,M,Indigo,Inverno,44,Sim,Expresso,Sim,Sim,41,Em dinheiro,Quinzenalmente
-666,41,Homem,Calcas,Roupas,55,New Mexico,M,Peach,Primavera,49,Sim,Frete em 2 dias,Sim,Sim,50,Em dinheiro,Anualmente
+666,41,Homem,Calcas,Roupas,55,New Mexico,M,Pessego,Primavera,49,Sim,Frete em 2 dias,Sim,Sim,50,Em dinheiro,Anualmente
 667,35,Homem,Moletom,Roupas,26,Colorado,G,Turquesa,Inverno,31,Sim,Free Shipping,Sim,Sim,30,Em dinheiro,Trimestralmente
 668,34,Homem,Oculos de sol,Acessorios,76,Arizona,P,Azul,Inverno,26,Sim,Standard,Sim,Sim,32,Cartao de Debito,Trimestralmente
 669,49,Homem,T-shirt,Roupas,85,Hawaii,P,Turquesa,Outono,29,Sim,Expresso,Sim,Sim,35,Cartao de Credito,Mensalmente
 670,43,Homem,Jaqueta,Agasalhos,89,Illinois,M,Cinza,Primavera,33,Sim,Free Shipping,Sim,Sim,45,PayPal,Quinzenalmente
 671,63,Homem,Sueter,Roupas,41,Louisiana,XG,Roxo,Primavera,48,Sim,Next Day Air,Sim,Sim,37,Cartao de Credito,Quinzenalmente
 672,38,Homem,Jaqueta,Agasalhos,30,Iowa,G,Preto,Inverno,47,Sim,Expresso,Sim,Sim,45,PayPal,Semanalmente
-673,59,Homem,Socks,Roupas,53,Washington,M,Peach,Inverno,33,Sim,Frete em 2 dias,Sim,Sim,29,Em dinheiro,Trimestralmente
+673,59,Homem,Socks,Roupas,53,Washington,M,Pessego,Inverno,33,Sim,Frete em 2 dias,Sim,Sim,29,Em dinheiro,Trimestralmente
 674,35,Homem,Shirt,Roupas,66,Oklahoma,M,Indigo,Primavera,42,Sim,Free Shipping,Sim,Sim,27,Em dinheiro,Quinzenalmente
 675,48,Homem,Joias,Acessorios,33,Washington,XG,Bege,Inverno,47,Sim,Retirado na loja,Sim,Sim,36,PIX,Anualmente
 676,64,Homem,Oculos de sol,Acessorios,86,Arkansas,M,Amarelo,Primavera,26,Sim,Frete em 2 dias,Sim,Sim,9,Cartao de Credito,Anualmente
-677,28,Homem,Calcas,Roupas,60,Connecticut,M,Peach,Inverno,29,Sim,Frete em 2 dias,Sim,Sim,38,Cartao de Debito,Quinzenalmente
+677,28,Homem,Calcas,Roupas,60,Connecticut,M,Pessego,Inverno,29,Sim,Frete em 2 dias,Sim,Sim,38,Cartao de Debito,Quinzenalmente
 678,60,Homem,Socks,Roupas,62,Washington,P,Turquesa,Verao,27,Sim,Expresso,Sim,Sim,41,PayPal,Anualmente
 679,27,Homem,Blusa,Roupas,74,Maine,M,Verde-azulado,Outono,33,Sim,Retirado na loja,Sim,Sim,25,Cartao de Credito,A cada 3 meses
 680,56,Homem,Sandalhas,Calcados,95,Michigan,M,Turquesa,Outono,34,Sim,Expresso,Sim,Sim,37,PayPal,Quinzenalmente
@@ -687,14 +687,14 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 686,70,Homem,Blusa,Roupas,71,Massachusetts,XG,Magenta,Inverno,35,Sim,Standard,Sim,Sim,32,Cartao de Credito,Quinzenalmente
 687,70,Homem,Sueter,Roupas,35,Indiana,G,Bege,Outono,30,Sim,Frete em 2 dias,Sim,Sim,33,PayPal,Quinzenalmente
 688,19,Homem,Gloves,Acessorios,38,West Virginia,XG,Turquesa,Inverno,33,Sim,Free Shipping,Sim,Sim,46,Em dinheiro,Trimestralmente
-689,25,Homem,Cachecol,Acessorios,59,Michigan,P,Peach,Verao,47,Sim,Retirado na loja,Sim,Sim,44,Em dinheiro,Mensalmente
+689,25,Homem,Cachecol,Acessorios,59,Michigan,P,Pessego,Verao,47,Sim,Retirado na loja,Sim,Sim,44,Em dinheiro,Mensalmente
 690,19,Homem,Moletom,Roupas,91,Pennsylvania,M,Laranja,Verao,47,Sim,Expresso,Sim,Sim,35,Em dinheiro,A cada 3 meses
 691,25,Homem,Shorts,Roupas,68,Alaska,XG,Vermelho,Primavera,48,Sim,Standard,Sim,Sim,45,Transferencia bancaria,Semanalmente
 692,60,Homem,Mochila,Acessorios,21,Massachusetts,G,Prateado,Verao,29,Sim,Standard,Sim,Sim,37,Cartao de Credito,Quinzenalmente
 693,35,Homem,Oculos de sol,Acessorios,95,North Dakota,M,Ciano,Primavera,40,Sim,Frete em 2 dias,Sim,Sim,40,PIX,A cada 3 meses
 694,46,Homem,Shorts,Roupas,52,Vermont,G,Turquesa,Primavera,31,Sim,Free Shipping,Sim,Sim,30,Cartao de Credito,A cada 3 meses
 695,41,Homem,Vestido,Roupas,21,Kentucky,P,Carvao,Outono,35,Sim,Frete em 2 dias,Sim,Sim,38,PIX,A cada 3 meses
-696,30,Homem,Shorts,Roupas,67,Nevada,XG,Peach,Verao,37,Sim,Next Day Air,Sim,Sim,15,Transferencia bancaria,A cada 3 meses
+696,30,Homem,Shorts,Roupas,67,Nevada,XG,Pessego,Verao,37,Sim,Next Day Air,Sim,Sim,15,Transferencia bancaria,A cada 3 meses
 697,44,Homem,Cinto,Acessorios,42,Utah,G,Verde,Outono,28,Sim,Standard,Sim,Sim,49,Transferencia bancaria,Mensalmente
 698,61,Homem,Cachecol,Acessorios,63,North Dakota,XG,Marrom,Verao,46,Sim,Free Shipping,Sim,Sim,40,Transferencia bancaria,Trimestralmente
 699,55,Homem,Botas,Calcados,41,Iowa,M,Amarelo,Inverno,38,Sim,Standard,Sim,Sim,40,PayPal,Semanalmente
@@ -717,7 +717,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 716,33,Homem,Jeans,Roupas,63,Delaware,G,Verde,Primavera,26,Sim,Expresso,Sim,Sim,37,PIX,Trimestralmente
 717,30,Homem,Joias,Acessorios,29,Missouri,M,Oliva,Primavera,36,Sim,Expresso,Sim,Sim,9,PayPal,Quinzenalmente
 718,21,Homem,Socks,Roupas,90,Alaska,G,Verde,Primavera,42,Sim,Expresso,Sim,Sim,7,Cartao de Debito,A cada 3 meses
-719,22,Homem,Shirt,Roupas,22,Florida,M,Peach,Verao,46,Sim,Standard,Sim,Sim,25,Transferencia bancaria,Anualmente
+719,22,Homem,Shirt,Roupas,22,Florida,M,Pessego,Verao,46,Sim,Standard,Sim,Sim,25,Transferencia bancaria,Anualmente
 720,63,Homem,Shorts,Roupas,22,Mississippi,G,Turquesa,Verao,33,Sim,Next Day Air,Sim,Sim,42,PIX,Quinzenalmente
 721,33,Homem,Joias,Acessorios,62,New Mexico,G,Laranja,Outono,34,Sim,Free Shipping,Sim,Sim,19,Transferencia bancaria,Semanalmente
 722,43,Homem,Blusa,Roupas,57,California,G,Prateado,Verao,44,Sim,Next Day Air,Sim,Sim,41,Cartao de Debito,A cada 3 meses
@@ -757,7 +757,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 756,66,Homem,Casaco,Agasalhos,24,Florida,M,Violeta,Primavera,33,Sim,Free Shipping,Sim,Sim,22,PIX,Semanalmente
 757,62,Homem,Cinto,Acessorios,99,Montana,P,Laranja,Verao,48,Sim,Standard,Sim,Sim,24,Em dinheiro,Quinzenalmente
 758,41,Homem,Moletom,Roupas,32,Minnesota,M,Vermelho,Outono,38,Sim,Retirado na loja,Sim,Sim,18,Cartao de Debito,Trimestralmente
-759,66,Homem,Sapatos,Calcados,71,Massachusetts,G,Peach,Verao,46,Sim,Frete em 2 dias,Sim,Sim,39,Transferencia bancaria,A cada 3 meses
+759,66,Homem,Sapatos,Calcados,71,Massachusetts,G,Pessego,Verao,46,Sim,Frete em 2 dias,Sim,Sim,39,Transferencia bancaria,A cada 3 meses
 760,51,Homem,Vestido,Roupas,49,Rhode Island,XG,Verde,Inverno,26,Sim,Next Day Air,Sim,Sim,25,Transferencia bancaria,Quinzenalmente
 761,33,Homem,Gloves,Acessorios,50,Minnesota,XG,Violeta,Outono,34,Sim,Free Shipping,Sim,Sim,6,Cartao de Credito,Anualmente
 762,57,Homem,Joias,Acessorios,91,Nevada,G,Amarelo,Outono,42,Sim,Expresso,Sim,Sim,26,Cartao de Credito,Semanalmente
@@ -783,7 +783,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 782,30,Homem,Cachecol,Acessorios,44,Vermont,G,Indigo,Inverno,30,Sim,Retirado na loja,Sim,Sim,12,PayPal,Quinzenalmente
 783,28,Homem,Moletom,Roupas,57,Hawaii,M,Verde,Verao,45,Sim,Standard,Sim,Sim,15,PayPal,Semanalmente
 784,63,Homem,T-shirt,Roupas,65,Louisiana,G,Roxo,Inverno,45,Sim,Next Day Air,Sim,Sim,38,Cartao de Debito,Quinzenalmente
-785,31,Homem,Jeans,Roupas,72,Alabama,M,Peach,Inverno,32,Sim,Retirado na loja,Sim,Sim,41,Cartao de Debito,A cada 3 meses
+785,31,Homem,Jeans,Roupas,72,Alabama,M,Pessego,Inverno,32,Sim,Retirado na loja,Sim,Sim,41,Cartao de Debito,A cada 3 meses
 786,46,Homem,Shorts,Roupas,62,Louisiana,P,Roxo,Primavera,40,Sim,Next Day Air,Sim,Sim,37,Transferencia bancaria,Quinzenalmente
 787,70,Homem,Chapeu,Acessorios,21,Indiana,P,Verde-azulado,Inverno,48,Sim,Expresso,Sim,Sim,16,Cartao de Credito,A cada 3 meses
 788,53,Homem,Bolsa,Acessorios,85,Michigan,P,Verde,Primavera,37,Sim,Free Shipping,Sim,Sim,25,Transferencia bancaria,Semanalmente
@@ -817,7 +817,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 816,30,Homem,Chapeu,Acessorios,84,West Virginia,G,Verde-azulado,Primavera,30,Sim,Next Day Air,Sim,Sim,27,Em dinheiro,Quinzenalmente
 817,26,Homem,Sueter,Roupas,24,Illinois,G,Ciano,Verao,39,Sim,Retirado na loja,Sim,Sim,24,Cartao de Credito,Mensalmente
 818,25,Homem,Bolsa,Acessorios,21,Nevada,P,Cinza,Primavera,47,Sim,Retirado na loja,Sim,Sim,30,Cartao de Credito,Quinzenalmente
-819,59,Homem,Shirt,Roupas,91,Idaho,M,Peach,Inverno,49,Sim,Retirado na loja,Sim,Sim,34,Em dinheiro,Mensalmente
+819,59,Homem,Shirt,Roupas,91,Idaho,M,Pessego,Inverno,49,Sim,Retirado na loja,Sim,Sim,34,Em dinheiro,Mensalmente
 820,55,Homem,Oculos de sol,Acessorios,36,Colorado,P,Verde-azulado,Inverno,48,Sim,Next Day Air,Sim,Sim,28,Transferencia bancaria,Trimestralmente
 821,56,Homem,Tenis,Calcados,39,Louisiana,M,Turquesa,Primavera,25,Sim,Frete em 2 dias,Sim,Sim,27,Em dinheiro,Mensalmente
 822,62,Homem,Moletom,Roupas,39,Vermont,M,Verde,Primavera,39,Sim,Standard,Sim,Sim,31,Em dinheiro,Quinzenalmente
@@ -827,7 +827,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 826,27,Homem,Cinto,Acessorios,94,Nebraska,XG,Marrom,Outono,36,Sim,Next Day Air,Sim,Sim,17,PIX,Mensalmente
 827,54,Homem,Vestido,Roupas,94,Massachusetts,M,Roxo,Inverno,36,Sim,Standard,Sim,Sim,36,Cartao de Credito,Semanalmente
 828,31,Homem,Sapatos,Calcados,51,Colorado,P,Verde,Outono,41,Sim,Free Shipping,Sim,Sim,33,Cartao de Credito,Quinzenalmente
-829,24,Homem,Socks,Roupas,62,Nevada,M,Peach,Outono,37,Sim,Frete em 2 dias,Sim,Sim,27,Transferencia bancaria,Quinzenalmente
+829,24,Homem,Socks,Roupas,62,Nevada,M,Pessego,Outono,37,Sim,Frete em 2 dias,Sim,Sim,27,Transferencia bancaria,Quinzenalmente
 830,42,Homem,Socks,Roupas,57,Idaho,P,Prateado,Primavera,31,Sim,Frete em 2 dias,Sim,Sim,14,Cartao de Debito,Quinzenalmente
 831,41,Homem,Shorts,Roupas,76,Wyoming,M,Marrom,Outono,42,Sim,Expresso,Sim,Sim,5,Em dinheiro,Anualmente
 832,66,Homem,Gloves,Acessorios,63,Washington,M,Vermelho,Verao,43,Sim,Expresso,Sim,Sim,47,Cartao de Debito,A cada 3 meses
@@ -898,7 +898,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 897,69,Homem,Joias,Acessorios,29,Arkansas,M,Lavanda,Primavera,47,Sim,Expresso,Sim,Sim,38,Cartao de Credito,Quinzenalmente
 898,29,Homem,Shirt,Roupas,91,Illinois,M,Cinza,Primavera,34,Sim,Expresso,Sim,Sim,46,PayPal,Semanalmente
 899,54,Homem,Cinto,Acessorios,70,Nevada,G,Vermelho,Primavera,35,Sim,Frete em 2 dias,Sim,Sim,19,Cartao de Credito,A cada 3 meses
-900,65,Homem,Sueter,Roupas,58,Rhode Island,M,Peach,Verao,40,Sim,Standard,Sim,Sim,20,Cartao de Debito,Anualmente
+900,65,Homem,Sueter,Roupas,58,Rhode Island,M,Pessego,Verao,40,Sim,Standard,Sim,Sim,20,Cartao de Debito,Anualmente
 901,54,Homem,Chapeu,Acessorios,98,West Virginia,G,Cinza,Outono,33,Sim,Free Shipping,Sim,Sim,42,Em dinheiro,Trimestralmente
 902,60,Homem,Cachecol,Acessorios,68,Missouri,G,Violeta,Verao,47,Sim,Frete em 2 dias,Sim,Sim,34,Cartao de Debito,Mensalmente
 903,43,Homem,Chapeu,Acessorios,44,Kentucky,M,Bege,Verao,28,Sim,Next Day Air,Sim,Sim,5,Cartao de Debito,Mensalmente
@@ -985,14 +985,14 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 984,24,Homem,Chapeu,Acessorios,45,New Mexico,G,Indigo,Inverno,35,Sim,Free Shipping,Sim,Sim,40,Cartao de Credito,Quinzenalmente
 985,26,Homem,Sapatos,Calcados,78,Utah,M,Verde,Verao,34,Sim,Free Shipping,Sim,Sim,8,Em dinheiro,Quinzenalmente
 986,32,Homem,Bolsa,Acessorios,80,West Virginia,M,Cinza,Outono,50,Sim,Expresso,Sim,Sim,12,Cartao de Credito,Anualmente
-987,54,Homem,Cachecol,Acessorios,96,Connecticut,P,Peach,Primavera,45,Sim,Retirado na loja,Sim,Sim,36,Cartao de Credito,Mensalmente
+987,54,Homem,Cachecol,Acessorios,96,Connecticut,P,Pessego,Primavera,45,Sim,Retirado na loja,Sim,Sim,36,Cartao de Credito,Mensalmente
 988,62,Homem,Bolsa,Acessorios,47,West Virginia,M,Carvao,Verao,28,Sim,Expresso,Sim,Sim,48,PayPal,Semanalmente
 989,50,Homem,Calcas,Roupas,84,Ohio,M,Laranja,Inverno,49,Sim,Frete em 2 dias,Sim,Sim,47,PIX,Quinzenalmente
 990,70,Homem,Sapatos,Calcados,31,Texas,M,Bege,Primavera,31,Sim,Retirado na loja,Sim,Sim,2,Transferencia bancaria,Mensalmente
 991,48,Homem,Oculos de sol,Acessorios,63,Washington,P,Amarelo,Primavera,48,Sim,Retirado na loja,Sim,Sim,24,PayPal,Semanalmente
 992,20,Homem,Shorts,Roupas,97,Wisconsin,XG,Branco,Primavera,27,Sim,Standard,Sim,Sim,40,Cartao de Debito,Quinzenalmente
 993,46,Homem,Jaqueta,Agasalhos,99,Louisiana,M,Cinza,Inverno,46,Sim,Expresso,Sim,Sim,50,Cartao de Credito,Semanalmente
-994,51,Homem,Sandalhas,Calcados,90,Iowa,M,Peach,Inverno,44,Sim,Retirado na loja,Sim,Sim,25,Em dinheiro,Semanalmente
+994,51,Homem,Sandalhas,Calcados,90,Iowa,M,Pessego,Inverno,44,Sim,Retirado na loja,Sim,Sim,25,Em dinheiro,Semanalmente
 995,53,Homem,Sapatos,Calcados,68,New York,G,Violeta,Outono,32,Sim,Expresso,Sim,Sim,20,PayPal,Mensalmente
 996,44,Homem,Joias,Acessorios,80,Idaho,M,Magenta,Primavera,30,Sim,Frete em 2 dias,Sim,Sim,10,PIX,Semanalmente
 997,29,Homem,Sandalhas,Calcados,91,Delaware,G,Marrom,Verao,49,Sim,Standard,Sim,Sim,32,Transferencia bancaria,Trimestralmente
@@ -1066,7 +1066,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1065,34,Homem,Chapeu,Acessorios,28,Wyoming,M,Violeta,Primavera,35,Nao,Expresso,Sim,Sim,42,Cartao de Debito,A cada 3 meses
 1066,59,Homem,T-shirt,Roupas,20,Alabama,XG,Azul,Primavera,41,Nao,Retirado na loja,Sim,Sim,3,Em dinheiro,A cada 3 meses
 1067,49,Homem,Casaco,Agasalhos,96,Mississippi,M,Vermelho,Inverno,40,Nao,Retirado na loja,Sim,Sim,11,Cartao de Credito,Quinzenalmente
-1068,18,Homem,Vestido,Roupas,43,Pennsylvania,P,Peach,Verao,27,Nao,Frete em 2 dias,Sim,Sim,22,PIX,Trimestralmente
+1068,18,Homem,Vestido,Roupas,43,Pennsylvania,P,Pessego,Verao,27,Nao,Frete em 2 dias,Sim,Sim,22,PIX,Trimestralmente
 1069,55,Homem,Shirt,Roupas,94,Wyoming,M,Oliva,Outono,25,Nao,Standard,Sim,Sim,47,Transferencia bancaria,Semanalmente
 1070,38,Homem,Saia,Roupas,81,Maryland,XG,Branco,Outono,43,Nao,Next Day Air,Sim,Sim,33,Cartao de Credito,A cada 3 meses
 1071,50,Homem,Joias,Acessorios,75,North Carolina,M,Magenta,Verao,33,Nao,Free Shipping,Sim,Sim,50,PIX,Semanalmente
@@ -1094,19 +1094,19 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1093,68,Homem,Joias,Acessorios,50,South Dakota,G,Magenta,Primavera,41,Nao,Frete em 2 dias,Sim,Sim,20,Cartao de Credito,Trimestralmente
 1094,60,Homem,Tenis,Calcados,48,Delaware,P,Indigo,Inverno,42,Nao,Frete em 2 dias,Sim,Sim,46,PayPal,A cada 3 meses
 1095,25,Homem,Joias,Acessorios,40,Connecticut,M,Preto,Inverno,48,Nao,Next Day Air,Sim,Sim,25,Cartao de Credito,Trimestralmente
-1096,19,Homem,Casaco,Agasalhos,34,Tennessee,P,Peach,Verao,30,Nao,Free Shipping,Sim,Sim,30,Cartao de Debito,Trimestralmente
+1096,19,Homem,Casaco,Agasalhos,34,Tennessee,P,Pessego,Verao,30,Nao,Free Shipping,Sim,Sim,30,Cartao de Debito,Trimestralmente
 1097,57,Homem,Casaco,Agasalhos,46,New Hampshire,P,Bege,Outono,26,Nao,Standard,Sim,Sim,48,Cartao de Credito,Anualmente
 1098,58,Homem,Oculos de sol,Acessorios,27,Vermont,M,Preto,Verao,32,Nao,Retirado na loja,Sim,Sim,47,PIX,Semanalmente
 1099,49,Homem,Bolsa,Acessorios,98,Idaho,P,Turquesa,Primavera,36,Nao,Next Day Air,Sim,Sim,27,PayPal,Semanalmente
-1100,19,Homem,Sueter,Roupas,73,North Carolina,M,Peach,Outono,26,Nao,Next Day Air,Sim,Sim,45,Em dinheiro,Quinzenalmente
+1100,19,Homem,Sueter,Roupas,73,North Carolina,M,Pessego,Outono,26,Nao,Next Day Air,Sim,Sim,45,Em dinheiro,Quinzenalmente
 1101,50,Homem,Calcas,Roupas,28,Nevada,G,Gold,Primavera,44,Nao,Expresso,Sim,Sim,2,Cartao de Debito,Semanalmente
 1102,30,Homem,Gloves,Acessorios,76,Delaware,XG,Prateado,Outono,30,Nao,Free Shipping,Sim,Sim,39,Em dinheiro,Quinzenalmente
-1103,52,Homem,Sueter,Roupas,83,Texas,M,Peach,Outono,29,Nao,Expresso,Sim,Sim,24,Cartao de Credito,Quinzenalmente
+1103,52,Homem,Sueter,Roupas,83,Texas,M,Pessego,Outono,29,Nao,Expresso,Sim,Sim,24,Cartao de Credito,Quinzenalmente
 1104,35,Homem,Moletom,Roupas,23,Tennessee,P,Carvao,Primavera,43,Nao,Free Shipping,Sim,Sim,8,Cartao de Debito,Quinzenalmente
 1105,35,Homem,Chapeu,Acessorios,28,Delaware,M,Bege,Outono,31,Nao,Expresso,Sim,Sim,8,Transferencia bancaria,Trimestralmente
 1106,33,Homem,T-shirt,Roupas,83,Massachusetts,P,Oliva,Primavera,30,Nao,Next Day Air,Sim,Sim,6,Cartao de Credito,A cada 3 meses
 1107,52,Homem,Saia,Roupas,96,Minnesota,G,Violeta,Inverno,36,Nao,Retirado na loja,Sim,Sim,12,Cartao de Credito,Quinzenalmente
-1108,69,Homem,Tenis,Calcados,62,Texas,M,Peach,Outono,28,Nao,Retirado na loja,Sim,Sim,26,PIX,Semanalmente
+1108,69,Homem,Tenis,Calcados,62,Texas,M,Pessego,Outono,28,Nao,Retirado na loja,Sim,Sim,26,PIX,Semanalmente
 1109,27,Homem,Shorts,Roupas,25,Nebraska,M,Verde-azulado,Outono,28,Nao,Standard,Sim,Sim,50,PIX,Quinzenalmente
 1110,66,Homem,Moletom,Roupas,97,Oklahoma,G,Violeta,Inverno,49,Nao,Next Day Air,Sim,Sim,2,Cartao de Debito,Semanalmente
 1111,28,Homem,Moletom,Roupas,61,Texas,G,Ciano,Outono,30,Nao,Standard,Sim,Sim,31,Cartao de Debito,Quinzenalmente
@@ -1114,13 +1114,13 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1113,69,Homem,Moletom,Roupas,67,Washington,XG,Rosa,Primavera,46,Nao,Free Shipping,Sim,Sim,32,Cartao de Credito,Trimestralmente
 1114,28,Homem,Oculos de sol,Acessorios,80,Maryland,M,Roxo,Verao,48,Nao,Next Day Air,Sim,Sim,11,Em dinheiro,Quinzenalmente
 1115,55,Homem,Saia,Roupas,25,New Hampshire,G,Violeta,Outono,26,Nao,Next Day Air,Sim,Sim,47,Em dinheiro,A cada 3 meses
-1116,30,Homem,Chapeu,Acessorios,58,New York,P,Peach,Outono,40,Nao,Frete em 2 dias,Sim,Sim,37,Transferencia bancaria,Semanalmente
+1116,30,Homem,Chapeu,Acessorios,58,New York,P,Pessego,Outono,40,Nao,Frete em 2 dias,Sim,Sim,37,Transferencia bancaria,Semanalmente
 1117,67,Homem,Mochila,Acessorios,96,Hawaii,M,Carvao,Inverno,42,Nao,Expresso,Sim,Sim,39,PIX,Quinzenalmente
 1118,25,Homem,Oculos de sol,Acessorios,77,California,G,Lavanda,Primavera,45,Nao,Retirado na loja,Sim,Sim,24,PayPal,Mensalmente
 1119,49,Homem,Cinto,Acessorios,65,Indiana,M,Roxo,Verao,49,Nao,Standard,Sim,Sim,11,Cartao de Debito,A cada 3 meses
 1120,34,Homem,Joias,Acessorios,36,Louisiana,M,Indigo,Primavera,31,Nao,Standard,Sim,Sim,36,PIX,Semanalmente
 1121,22,Homem,Tenis,Calcados,84,Pennsylvania,M,Magenta,Inverno,40,Nao,Next Day Air,Sim,Sim,40,PIX,Mensalmente
-1122,63,Homem,T-shirt,Roupas,58,Florida,XG,Peach,Outono,32,Nao,Expresso,Sim,Sim,25,Em dinheiro,Trimestralmente
+1122,63,Homem,T-shirt,Roupas,58,Florida,XG,Pessego,Outono,32,Nao,Expresso,Sim,Sim,25,Em dinheiro,Trimestralmente
 1123,70,Homem,Bolsa,Acessorios,62,North Carolina,P,Carvao,Primavera,43,Nao,Frete em 2 dias,Sim,Sim,12,PayPal,Anualmente
 1124,36,Homem,Chapeu,Acessorios,67,Massachusetts,P,Roxo,Outono,25,Nao,Retirado na loja,Sim,Sim,38,Cartao de Debito,Mensalmente
 1125,42,Homem,Sueter,Roupas,20,Iowa,M,Laranja,Primavera,49,Nao,Expresso,Sim,Sim,40,Cartao de Debito,Trimestralmente
@@ -1134,7 +1134,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1133,50,Homem,Moletom,Roupas,98,North Carolina,P,Verde-azulado,Primavera,43,Nao,Retirado na loja,Sim,Sim,25,PayPal,Quinzenalmente
 1134,36,Homem,Sapatos,Calcados,36,Connecticut,XG,Magenta,Inverno,41,Nao,Frete em 2 dias,Sim,Sim,29,PayPal,Semanalmente
 1135,62,Homem,T-shirt,Roupas,81,Wisconsin,M,Marrom,Verao,46,Nao,Expresso,Sim,Sim,2,Transferencia bancaria,A cada 3 meses
-1136,65,Homem,Saia,Roupas,90,Massachusetts,G,Peach,Inverno,36,Nao,Frete em 2 dias,Sim,Sim,32,PayPal,Trimestralmente
+1136,65,Homem,Saia,Roupas,90,Massachusetts,G,Pessego,Inverno,36,Nao,Frete em 2 dias,Sim,Sim,32,PayPal,Trimestralmente
 1137,23,Homem,Bolsa,Acessorios,83,Illinois,P,Ciano,Verao,48,Nao,Free Shipping,Sim,Sim,37,Cartao de Debito,Mensalmente
 1138,46,Homem,Shirt,Roupas,91,New Mexico,XG,Rosa,Inverno,28,Nao,Frete em 2 dias,Sim,Sim,16,Cartao de Credito,A cada 3 meses
 1139,18,Homem,Calcas,Roupas,36,Iowa,M,Roxo,Verao,47,Nao,Expresso,Sim,Sim,32,PIX,Quinzenalmente
@@ -1171,7 +1171,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1170,25,Homem,Mochila,Acessorios,94,Wyoming,P,Cinza,Outono,45,Nao,Frete em 2 dias,Sim,Sim,3,PIX,Anualmente
 1171,57,Homem,Saia,Roupas,62,Illinois,P,Vermelho,Primavera,32,Nao,Expresso,Sim,Sim,33,Transferencia bancaria,Quinzenalmente
 1172,41,Homem,Socks,Roupas,55,Louisiana,M,Lavanda,Primavera,39,Nao,Next Day Air,Sim,Sim,15,Transferencia bancaria,Anualmente
-1173,59,Homem,Casaco,Agasalhos,68,Oregon,G,Peach,Primavera,46,Nao,Retirado na loja,Sim,Sim,42,Cartao de Credito,Quinzenalmente
+1173,59,Homem,Casaco,Agasalhos,68,Oregon,G,Pessego,Primavera,46,Nao,Retirado na loja,Sim,Sim,42,Cartao de Credito,Quinzenalmente
 1174,44,Homem,Joias,Acessorios,76,South Dakota,M,Indigo,Inverno,25,Nao,Expresso,Sim,Sim,42,Cartao de Credito,Quinzenalmente
 1175,42,Homem,Mochila,Acessorios,31,Michigan,M,Preto,Inverno,43,Nao,Expresso,Sim,Sim,19,Em dinheiro,Quinzenalmente
 1176,35,Homem,Cinto,Acessorios,81,New Jersey,M,Bege,Primavera,41,Nao,Retirado na loja,Sim,Sim,26,Cartao de Credito,Trimestralmente
@@ -1248,13 +1248,13 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1247,27,Homem,Moletom,Roupas,60,Louisiana,M,Carvao,Inverno,27,Nao,Standard,Sim,Sim,27,Cartao de Credito,Mensalmente
 1248,65,Homem,T-shirt,Roupas,99,Virginia,M,Carvao,Primavera,35,Nao,Expresso,Sim,Sim,18,Transferencia bancaria,Quinzenalmente
 1249,62,Homem,Chapeu,Acessorios,37,Wisconsin,XG,Vermelho,Inverno,30,Nao,Free Shipping,Sim,Sim,8,Cartao de Credito,Anualmente
-1250,62,Homem,Botas,Calcados,50,Oregon,M,Peach,Inverno,45,Nao,Expresso,Sim,Sim,48,PayPal,Quinzenalmente
+1250,62,Homem,Botas,Calcados,50,Oregon,M,Pessego,Inverno,45,Nao,Expresso,Sim,Sim,48,PayPal,Quinzenalmente
 1251,52,Homem,Jeans,Roupas,26,New Hampshire,XG,Roxo,Inverno,41,Nao,Free Shipping,Sim,Sim,24,Em dinheiro,Mensalmente
 1252,56,Homem,Shorts,Roupas,86,Indiana,XG,Laranja,Primavera,50,Nao,Next Day Air,Sim,Sim,43,Cartao de Debito,Mensalmente
 1253,28,Homem,Sandalhas,Calcados,41,Massachusetts,G,Magenta,Outono,40,Nao,Standard,Sim,Sim,8,PIX,Trimestralmente
 1254,39,Homem,Sandalhas,Calcados,23,Montana,XG,Vermelho,Inverno,49,Nao,Expresso,Sim,Sim,49,PIX,Anualmente
 1255,54,Homem,Tenis,Calcados,56,California,XG,Preto,Primavera,33,Nao,Frete em 2 dias,Sim,Sim,2,Em dinheiro,Quinzenalmente
-1256,30,Homem,Chapeu,Acessorios,68,Indiana,M,Peach,Outono,41,Nao,Standard,Sim,Sim,38,Cartao de Credito,Quinzenalmente
+1256,30,Homem,Chapeu,Acessorios,68,Indiana,M,Pessego,Outono,41,Nao,Standard,Sim,Sim,38,Cartao de Credito,Quinzenalmente
 1257,45,Homem,Casaco,Agasalhos,48,West Virginia,P,Oliva,Inverno,36,Nao,Expresso,Sim,Sim,4,Em dinheiro,Quinzenalmente
 1258,68,Homem,Vestido,Roupas,67,Minnesota,G,Gold,Primavera,30,Nao,Free Shipping,Sim,Sim,31,Em dinheiro,A cada 3 meses
 1259,47,Homem,Botas,Calcados,87,Ohio,XG,Gold,Primavera,41,Nao,Frete em 2 dias,Sim,Sim,34,Cartao de Debito,A cada 3 meses
@@ -1265,7 +1265,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1264,41,Homem,Moletom,Roupas,70,Delaware,G,Marrom,Inverno,46,Nao,Frete em 2 dias,Sim,Sim,1,Transferencia bancaria,Quinzenalmente
 1265,52,Homem,Sueter,Roupas,92,Vermont,P,Azul,Inverno,25,Nao,Next Day Air,Sim,Sim,1,PIX,Quinzenalmente
 1266,32,Homem,Shirt,Roupas,79,Louisiana,M,Lavanda,Primavera,27,Nao,Next Day Air,Sim,Sim,27,Transferencia bancaria,Semanalmente
-1267,20,Homem,Blusa,Roupas,31,North Dakota,M,Peach,Outono,40,Nao,Standard,Sim,Sim,14,Em dinheiro,A cada 3 meses
+1267,20,Homem,Blusa,Roupas,31,North Dakota,M,Pessego,Outono,40,Nao,Standard,Sim,Sim,14,Em dinheiro,A cada 3 meses
 1268,47,Homem,T-shirt,Roupas,83,Oregon,P,Cinza,Primavera,27,Nao,Standard,Sim,Sim,41,Cartao de Credito,Semanalmente
 1269,23,Homem,Jaqueta,Agasalhos,88,Idaho,XG,Carvao,Inverno,29,Nao,Next Day Air,Sim,Sim,25,PIX,Quinzenalmente
 1270,43,Homem,Joias,Acessorios,53,Vermont,M,Lavanda,Primavera,30,Nao,Standard,Sim,Sim,47,PayPal,Trimestralmente
@@ -1304,7 +1304,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1303,23,Homem,Tenis,Calcados,25,Idaho,M,Gold,Outono,29,Nao,Next Day Air,Sim,Sim,37,Transferencia bancaria,Mensalmente
 1304,34,Homem,Blusa,Roupas,32,New York,G,Prateado,Verao,31,Nao,Next Day Air,Sim,Sim,10,PIX,Anualmente
 1305,64,Homem,Mochila,Acessorios,63,Montana,P,Laranja,Primavera,40,Nao,Frete em 2 dias,Sim,Sim,18,Transferencia bancaria,A cada 3 meses
-1306,31,Homem,Calcas,Roupas,56,Mississippi,XG,Peach,Primavera,45,Nao,Expresso,Sim,Sim,2,PIX,A cada 3 meses
+1306,31,Homem,Calcas,Roupas,56,Mississippi,XG,Pessego,Primavera,45,Nao,Expresso,Sim,Sim,2,PIX,A cada 3 meses
 1307,54,Homem,Sueter,Roupas,33,Alaska,G,Marrom,Inverno,45,Nao,Next Day Air,Sim,Sim,40,Em dinheiro,Anualmente
 1308,23,Homem,Casaco,Agasalhos,32,Missouri,G,Preto,Verao,31,Nao,Expresso,Sim,Sim,43,PayPal,Anualmente
 1309,59,Homem,Vestido,Roupas,38,Rhode Island,G,Vermelho,Verao,44,Nao,Next Day Air,Sim,Sim,14,Cartao de Credito,A cada 3 meses
@@ -1339,7 +1339,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1338,37,Homem,Sueter,Roupas,86,Tennessee,G,Prateado,Primavera,34,Nao,Expresso,Sim,Sim,19,PIX,Quinzenalmente
 1339,56,Homem,Bolsa,Acessorios,51,Alabama,P,Amarelo,Inverno,26,Nao,Standard,Sim,Sim,43,Transferencia bancaria,Quinzenalmente
 1340,36,Homem,Cinto,Acessorios,56,Indiana,G,Oliva,Inverno,50,Nao,Next Day Air,Sim,Sim,5,PayPal,A cada 3 meses
-1341,40,Homem,Cinto,Acessorios,72,Idaho,M,Peach,Outono,44,Nao,Next Day Air,Sim,Sim,5,Cartao de Credito,A cada 3 meses
+1341,40,Homem,Cinto,Acessorios,72,Idaho,M,Pessego,Outono,44,Nao,Next Day Air,Sim,Sim,5,Cartao de Credito,A cada 3 meses
 1342,26,Homem,Moletom,Roupas,27,Rhode Island,XG,Amarelo,Outono,29,Nao,Standard,Sim,Sim,31,Cartao de Debito,Trimestralmente
 1343,57,Homem,Oculos de sol,Acessorios,43,Arizona,XG,Amarelo,Verao,34,Nao,Frete em 2 dias,Sim,Sim,11,Em dinheiro,Mensalmente
 1344,68,Homem,Tenis,Calcados,56,Florida,M,Indigo,Primavera,34,Nao,Standard,Sim,Sim,34,PIX,Mensalmente
@@ -1369,7 +1369,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1368,60,Homem,Cinto,Acessorios,63,Iowa,P,Preto,Outono,38,Nao,Expresso,Sim,Sim,25,PIX,Trimestralmente
 1369,21,Homem,Shirt,Roupas,36,Wisconsin,G,Laranja,Verao,49,Nao,Expresso,Sim,Sim,2,PIX,Semanalmente
 1370,32,Homem,Sapatos,Calcados,75,Iowa,M,Verde,Inverno,32,Nao,Standard,Sim,Sim,48,Em dinheiro,Quinzenalmente
-1371,27,Homem,Cachecol,Acessorios,67,Montana,G,Peach,Verao,29,Nao,Frete em 2 dias,Sim,Sim,41,PayPal,A cada 3 meses
+1371,27,Homem,Cachecol,Acessorios,67,Montana,G,Pessego,Verao,29,Nao,Frete em 2 dias,Sim,Sim,41,PayPal,A cada 3 meses
 1372,40,Homem,Calcas,Roupas,64,Mississippi,M,Carvao,Primavera,28,Nao,Retirado na loja,Sim,Sim,42,PayPal,Mensalmente
 1373,64,Homem,Blusa,Roupas,61,Michigan,M,Cinza,Outono,40,Nao,Frete em 2 dias,Sim,Sim,44,Cartao de Credito,Quinzenalmente
 1374,18,Homem,Gloves,Acessorios,40,Virginia,G,Turquesa,Inverno,26,Nao,Retirado na loja,Sim,Sim,6,Cartao de Credito,Trimestralmente
@@ -1402,9 +1402,9 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1401,36,Homem,Mochila,Acessorios,23,Nevada,M,Vermelho,Outono,36,Nao,Next Day Air,Sim,Sim,22,PIX,A cada 3 meses
 1402,23,Homem,Sandalhas,Calcados,59,Indiana,M,Azul,Outono,35,Nao,Frete em 2 dias,Sim,Sim,1,Em dinheiro,Semanalmente
 1403,62,Homem,Oculos de sol,Acessorios,21,North Dakota,G,Branco,Verao,31,Nao,Expresso,Sim,Sim,47,Transferencia bancaria,Mensalmente
-1404,26,Homem,Mochila,Acessorios,20,Georgia,M,Peach,Primavera,36,Nao,Retirado na loja,Sim,Sim,20,Transferencia bancaria,Quinzenalmente
+1404,26,Homem,Mochila,Acessorios,20,Georgia,M,Pessego,Primavera,36,Nao,Retirado na loja,Sim,Sim,20,Transferencia bancaria,Quinzenalmente
 1405,36,Homem,Joias,Acessorios,28,New Mexico,M,Carvao,Inverno,35,Nao,Next Day Air,Sim,Sim,10,PIX,Semanalmente
-1406,33,Homem,Socks,Roupas,100,New Hampshire,M,Peach,Inverno,27,Nao,Retirado na loja,Sim,Sim,39,Em dinheiro,Mensalmente
+1406,33,Homem,Socks,Roupas,100,New Hampshire,M,Pessego,Inverno,27,Nao,Retirado na loja,Sim,Sim,39,Em dinheiro,Mensalmente
 1407,32,Homem,Shirt,Roupas,46,Washington,G,Turquesa,Primavera,36,Nao,Expresso,Sim,Sim,15,PIX,Mensalmente
 1408,56,Homem,Bolsa,Acessorios,61,Nevada,XG,Carvao,Primavera,45,Nao,Expresso,Sim,Sim,11,Em dinheiro,Anualmente
 1409,58,Homem,Blusa,Roupas,58,Maine,M,Amarelo,Inverno,41,Nao,Free Shipping,Sim,Sim,38,Cartao de Debito,Semanalmente
@@ -1457,13 +1457,13 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1456,60,Homem,Calcas,Roupas,79,Alabama,G,Prateado,Outono,49,Nao,Expresso,Sim,Sim,1,Cartao de Debito,A cada 3 meses
 1457,59,Homem,Casaco,Agasalhos,100,Montana,P,Oliva,Primavera,27,Nao,Retirado na loja,Sim,Sim,30,PIX,A cada 3 meses
 1458,58,Homem,Shirt,Roupas,57,Pennsylvania,P,Cinza,Primavera,47,Nao,Expresso,Sim,Sim,47,Transferencia bancaria,Quinzenalmente
-1459,35,Homem,Sueter,Roupas,28,Missouri,M,Peach,Primavera,29,Nao,Frete em 2 dias,Sim,Sim,34,Cartao de Debito,Semanalmente
+1459,35,Homem,Sueter,Roupas,28,Missouri,M,Pessego,Primavera,29,Nao,Frete em 2 dias,Sim,Sim,34,Cartao de Debito,Semanalmente
 1460,20,Homem,Sapatos,Calcados,35,Maine,G,Amarelo,Inverno,48,Nao,Expresso,Sim,Sim,18,PayPal,Quinzenalmente
 1461,70,Homem,Botas,Calcados,85,Pennsylvania,G,Violeta,Outono,46,Nao,Standard,Sim,Sim,33,PIX,Quinzenalmente
 1462,54,Homem,Oculos de sol,Acessorios,95,Oregon,P,Vermelho,Verao,50,Nao,Frete em 2 dias,Sim,Sim,42,PayPal,Trimestralmente
 1463,38,Homem,Tenis,Calcados,90,Utah,P,Carvao,Verao,48,Nao,Frete em 2 dias,Sim,Sim,2,PIX,Trimestralmente
 1464,54,Homem,Joias,Acessorios,49,Oklahoma,M,Bege,Verao,49,Nao,Retirado na loja,Sim,Sim,1,Cartao de Credito,Mensalmente
-1465,33,Homem,Cinto,Acessorios,92,Montana,M,Peach,Inverno,46,Nao,Frete em 2 dias,Sim,Sim,23,Transferencia bancaria,Trimestralmente
+1465,33,Homem,Cinto,Acessorios,92,Montana,M,Pessego,Inverno,46,Nao,Frete em 2 dias,Sim,Sim,23,Transferencia bancaria,Trimestralmente
 1466,46,Homem,Gloves,Acessorios,72,Nebraska,XG,Violeta,Inverno,39,Nao,Retirado na loja,Sim,Sim,42,Transferencia bancaria,Quinzenalmente
 1467,58,Homem,Shorts,Roupas,71,Alabama,M,Verde,Verao,45,Nao,Retirado na loja,Sim,Sim,3,PayPal,Anualmente
 1468,30,Homem,Joias,Acessorios,27,Ohio,XG,Oliva,Inverno,47,Nao,Retirado na loja,Sim,Sim,16,Cartao de Credito,Quinzenalmente
@@ -1564,7 +1564,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1563,37,Homem,Cachecol,Acessorios,75,Alabama,M,Roxo,Inverno,32,Nao,Next Day Air,Sim,Sim,23,Cartao de Credito,Quinzenalmente
 1564,68,Homem,Calcas,Roupas,44,Kansas,M,Verde-azulado,Outono,43,Nao,Next Day Air,Sim,Sim,8,Cartao de Credito,Semanalmente
 1565,22,Homem,Mochila,Acessorios,33,California,XG,Turquesa,Verao,45,Nao,Next Day Air,Sim,Sim,30,Em dinheiro,A cada 3 meses
-1566,58,Homem,Oculos de sol,Acessorios,93,Idaho,G,Peach,Outono,42,Nao,Free Shipping,Sim,Sim,48,PIX,Anualmente
+1566,58,Homem,Oculos de sol,Acessorios,93,Idaho,G,Pessego,Outono,42,Nao,Free Shipping,Sim,Sim,48,PIX,Anualmente
 1567,48,Homem,Tenis,Calcados,99,Wyoming,P,Verde,Inverno,30,Nao,Free Shipping,Sim,Sim,21,Cartao de Credito,Quinzenalmente
 1568,30,Homem,Mochila,Acessorios,33,Minnesota,M,Turquesa,Primavera,41,Nao,Standard,Sim,Sim,9,PIX,Mensalmente
 1569,51,Homem,Tenis,Calcados,76,Washington,G,Amarelo,Primavera,46,Nao,Retirado na loja,Sim,Sim,8,PIX,Mensalmente
@@ -1616,7 +1616,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1615,30,Homem,T-shirt,Roupas,41,Kansas,P,Cinza,Verao,34,Nao,Free Shipping,Sim,Sim,22,Em dinheiro,Quinzenalmente
 1616,64,Homem,Joias,Acessorios,62,New York,M,Indigo,Outono,32,Nao,Standard,Sim,Sim,45,PayPal,Quinzenalmente
 1617,26,Homem,Chapeu,Acessorios,41,Colorado,M,Verde,Primavera,34,Nao,Standard,Sim,Sim,50,Transferencia bancaria,Trimestralmente
-1618,43,Homem,Blusa,Roupas,64,Wisconsin,M,Peach,Inverno,43,Nao,Standard,Sim,Sim,50,PayPal,Quinzenalmente
+1618,43,Homem,Blusa,Roupas,64,Wisconsin,M,Pessego,Inverno,43,Nao,Standard,Sim,Sim,50,PayPal,Quinzenalmente
 1619,63,Homem,Sandalhas,Calcados,72,Michigan,G,Roxo,Verao,50,Nao,Standard,Sim,Sim,39,PIX,Trimestralmente
 1620,57,Homem,Bolsa,Acessorios,78,Hawaii,G,Bege,Inverno,35,Nao,Retirado na loja,Sim,Sim,50,Em dinheiro,Quinzenalmente
 1621,25,Homem,Chapeu,Acessorios,47,Virginia,M,Carvao,Inverno,31,Nao,Frete em 2 dias,Sim,Sim,27,Transferencia bancaria,A cada 3 meses
@@ -1632,11 +1632,11 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1631,63,Homem,Sapatos,Calcados,48,New Jersey,M,Gold,Verao,29,Nao,Retirado na loja,Sim,Sim,29,Cartao de Debito,A cada 3 meses
 1632,65,Homem,Sueter,Roupas,36,Indiana,G,Violeta,Verao,39,Nao,Frete em 2 dias,Sim,Sim,7,PayPal,Quinzenalmente
 1633,35,Homem,Gloves,Acessorios,28,Oregon,P,Branco,Verao,47,Nao,Frete em 2 dias,Sim,Sim,50,PayPal,A cada 3 meses
-1634,54,Homem,Socks,Roupas,80,North Dakota,M,Peach,Primavera,44,Nao,Frete em 2 dias,Sim,Sim,33,Transferencia bancaria,Quinzenalmente
+1634,54,Homem,Socks,Roupas,80,North Dakota,M,Pessego,Primavera,44,Nao,Frete em 2 dias,Sim,Sim,33,Transferencia bancaria,Quinzenalmente
 1635,28,Homem,Casaco,Agasalhos,23,South Carolina,P,Laranja,Verao,36,Nao,Retirado na loja,Sim,Sim,30,Cartao de Debito,A cada 3 meses
 1636,68,Homem,Oculos de sol,Acessorios,24,North Carolina,G,Violeta,Verao,32,Nao,Standard,Sim,Sim,40,Em dinheiro,Anualmente
 1637,58,Homem,Botas,Calcados,22,North Dakota,G,Verde,Outono,40,Nao,Free Shipping,Sim,Sim,49,Cartao de Credito,Quinzenalmente
-1638,35,Homem,Vestido,Roupas,21,Massachusetts,M,Peach,Primavera,35,Nao,Next Day Air,Sim,Sim,32,Transferencia bancaria,Quinzenalmente
+1638,35,Homem,Vestido,Roupas,21,Massachusetts,M,Pessego,Primavera,35,Nao,Next Day Air,Sim,Sim,32,Transferencia bancaria,Quinzenalmente
 1639,68,Homem,Jaqueta,Agasalhos,51,Tennessee,M,Preto,Primavera,46,Nao,Free Shipping,Sim,Sim,18,PayPal,Semanalmente
 1640,41,Homem,Gloves,Acessorios,65,Missouri,G,Azul,Verao,33,Nao,Free Shipping,Sim,Sim,50,Transferencia bancaria,Anualmente
 1641,65,Homem,Cachecol,Acessorios,51,Tennessee,P,Magenta,Primavera,40,Nao,Frete em 2 dias,Sim,Sim,13,Cartao de Debito,Semanalmente
@@ -1673,7 +1673,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1672,31,Homem,Moletom,Roupas,22,Utah,M,Oliva,Inverno,40,Nao,Free Shipping,Sim,Sim,25,PayPal,Semanalmente
 1673,18,Homem,Botas,Calcados,73,South Carolina,G,Gold,Outono,38,Nao,Free Shipping,Sim,Sim,15,Cartao de Debito,Trimestralmente
 1674,21,Homem,Blusa,Roupas,62,Hawaii,M,Violeta,Outono,34,Nao,Next Day Air,Sim,Sim,49,Cartao de Debito,Quinzenalmente
-1675,35,Homem,Casaco,Agasalhos,56,Alaska,M,Peach,Inverno,32,Nao,Free Shipping,Sim,Sim,10,PayPal,Quinzenalmente
+1675,35,Homem,Casaco,Agasalhos,56,Alaska,M,Pessego,Inverno,32,Nao,Free Shipping,Sim,Sim,10,PayPal,Quinzenalmente
 1676,35,Homem,Calcas,Roupas,90,Colorado,M,Bege,Primavera,47,Nao,Next Day Air,Sim,Sim,21,PIX,Anualmente
 1677,27,Homem,Oculos de sol,Acessorios,44,West Virginia,M,Ciano,Inverno,31,Nao,Next Day Air,Sim,Sim,34,PayPal,Semanalmente
 1678,65,Homem,Jeans,Roupas,35,Oregon,G,Prateado,Verao,33,Nao,Next Day Air,Nao,No,41,PayPal,Semanalmente
@@ -1687,7 +1687,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1686,33,Homem,Blusa,Roupas,48,Minnesota,M,Rosa,Inverno,46,Nao,Standard,Nao,No,43,PIX,Quinzenalmente
 1687,22,Homem,Gloves,Acessorios,75,Illinois,G,Vermelho,Outono,42,Nao,Retirado na loja,Nao,No,25,Cartao de Credito,Anualmente
 1688,67,Homem,Saia,Roupas,70,Georgia,P,Magenta,Inverno,37,Nao,Free Shipping,Nao,No,4,PIX,Anualmente
-1689,28,Homem,Bolsa,Acessorios,26,Mississippi,P,Peach,Inverno,30,Nao,Next Day Air,Nao,No,13,Cartao de Credito,Quinzenalmente
+1689,28,Homem,Bolsa,Acessorios,26,Mississippi,P,Pessego,Inverno,30,Nao,Next Day Air,Nao,No,13,Cartao de Credito,Quinzenalmente
 1690,32,Homem,Shirt,Roupas,73,North Carolina,G,Turquesa,Inverno,46,Nao,Retirado na loja,Nao,No,32,Cartao de Credito,Mensalmente
 1691,40,Homem,Casaco,Agasalhos,30,Nevada,M,Preto,Verao,32,Nao,Free Shipping,Nao,No,1,Em dinheiro,Anualmente
 1692,64,Homem,Sapatos,Calcados,61,Connecticut,G,Azul,Verao,35,Nao,Next Day Air,Nao,No,4,Cartao de Credito,Anualmente
@@ -1759,7 +1759,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1758,19,Homem,Vestido,Roupas,94,Michigan,G,Amarelo,Outono,36,Nao,Standard,Nao,No,48,Transferencia bancaria,Anualmente
 1759,27,Homem,Chapeu,Acessorios,56,Pennsylvania,M,Prateado,Inverno,43,Nao,Free Shipping,Nao,No,17,Cartao de Debito,Quinzenalmente
 1760,68,Homem,Sueter,Roupas,58,Louisiana,G,Verde,Primavera,40,Nao,Next Day Air,Nao,No,1,PIX,Semanalmente
-1761,20,Homem,Saia,Roupas,44,Minnesota,XG,Peach,Primavera,35,Nao,Standard,Nao,No,39,Cartao de Credito,Semanalmente
+1761,20,Homem,Saia,Roupas,44,Minnesota,XG,Pessego,Primavera,35,Nao,Standard,Nao,No,39,Cartao de Credito,Semanalmente
 1762,21,Homem,Moletom,Roupas,95,Hawaii,P,Verde,Outono,49,Nao,Frete em 2 dias,Nao,No,24,PayPal,Semanalmente
 1763,36,Homem,Sandalhas,Calcados,42,Idaho,M,Marrom,Verao,31,Nao,Expresso,Nao,No,41,Cartao de Credito,Quinzenalmente
 1764,37,Homem,Joias,Acessorios,93,Vermont,M,Lavanda,Inverno,39,Nao,Retirado na loja,Nao,No,28,PIX,Anualmente
@@ -1784,14 +1784,14 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1783,52,Homem,Calcas,Roupas,88,Utah,M,Lavanda,Outono,27,Nao,Next Day Air,Nao,No,40,Cartao de Credito,Quinzenalmente
 1784,42,Homem,Bolsa,Acessorios,49,Ohio,G,Lavanda,Inverno,33,Nao,Free Shipping,Nao,No,30,Em dinheiro,Mensalmente
 1785,32,Homem,Mochila,Acessorios,31,Louisiana,G,Amarelo,Verao,48,Nao,Standard,Nao,No,4,Em dinheiro,Trimestralmente
-1786,47,Homem,Gloves,Acessorios,29,Iowa,P,Peach,Outono,41,Nao,Next Day Air,Nao,No,22,Transferencia bancaria,Mensalmente
+1786,47,Homem,Gloves,Acessorios,29,Iowa,P,Pessego,Outono,41,Nao,Next Day Air,Nao,No,22,Transferencia bancaria,Mensalmente
 1787,45,Homem,Jaqueta,Agasalhos,34,Maryland,M,Marrom,Primavera,46,Nao,Frete em 2 dias,Nao,No,22,Cartao de Debito,Mensalmente
 1788,20,Homem,Sueter,Roupas,38,Montana,G,Gold,Outono,49,Nao,Frete em 2 dias,Nao,No,10,Transferencia bancaria,Trimestralmente
 1789,66,Homem,Blusa,Roupas,41,Illinois,G,Rosa,Verao,31,Nao,Retirado na loja,Nao,No,23,PayPal,Quinzenalmente
-1790,52,Homem,Blusa,Roupas,34,Arizona,G,Peach,Primavera,30,Nao,Frete em 2 dias,Nao,No,43,PayPal,Trimestralmente
+1790,52,Homem,Blusa,Roupas,34,Arizona,G,Pessego,Primavera,30,Nao,Frete em 2 dias,Nao,No,43,PayPal,Trimestralmente
 1791,50,Homem,Gloves,Acessorios,26,North Carolina,P,Violeta,Verao,37,Nao,Retirado na loja,Nao,No,31,Cartao de Credito,Quinzenalmente
 1792,62,Homem,Jeans,Roupas,98,Montana,P,Roxo,Inverno,40,Nao,Retirado na loja,Nao,No,38,Cartao de Debito,Anualmente
-1793,38,Homem,Tenis,Calcados,59,Iowa,M,Peach,Outono,30,Nao,Expresso,Nao,No,22,Transferencia bancaria,A cada 3 meses
+1793,38,Homem,Tenis,Calcados,59,Iowa,M,Pessego,Outono,30,Nao,Expresso,Nao,No,22,Transferencia bancaria,A cada 3 meses
 1794,65,Homem,Chapeu,Acessorios,92,Iowa,P,Branco,Outono,38,Nao,Retirado na loja,Nao,No,45,Cartao de Debito,A cada 3 meses
 1795,60,Homem,Mochila,Acessorios,40,Ohio,G,Indigo,Primavera,37,Nao,Expresso,Nao,No,21,Transferencia bancaria,Quinzenalmente
 1796,68,Homem,Jeans,Roupas,20,Wisconsin,P,Violeta,Outono,40,Nao,Frete em 2 dias,Nao,No,9,Cartao de Debito,Quinzenalmente
@@ -1803,7 +1803,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1802,33,Homem,Sueter,Roupas,57,New Jersey,M,Turquesa,Primavera,39,Nao,Expresso,Nao,No,48,Cartao de Credito,Quinzenalmente
 1803,57,Homem,Shorts,Roupas,96,Rhode Island,G,Turquesa,Inverno,26,Nao,Retirado na loja,Nao,No,31,Transferencia bancaria,Quinzenalmente
 1804,60,Homem,Tenis,Calcados,97,New Hampshire,P,Cinza,Verao,35,Nao,Free Shipping,Nao,No,33,PayPal,Quinzenalmente
-1805,30,Homem,Sueter,Roupas,42,Louisiana,G,Peach,Inverno,44,Nao,Next Day Air,Nao,No,39,Cartao de Debito,Semanalmente
+1805,30,Homem,Sueter,Roupas,42,Louisiana,G,Pessego,Inverno,44,Nao,Next Day Air,Nao,No,39,Cartao de Debito,Semanalmente
 1806,41,Homem,T-shirt,Roupas,62,Arizona,G,Gold,Primavera,49,Nao,Retirado na loja,Nao,No,46,PIX,Semanalmente
 1807,58,Homem,Bolsa,Acessorios,67,Rhode Island,M,Verde,Outono,39,Nao,Standard,Nao,No,24,Cartao de Credito,Anualmente
 1808,34,Homem,Tenis,Calcados,46,Vermont,G,Gold,Verao,35,Nao,Standard,Nao,No,37,PayPal,Quinzenalmente
@@ -1818,7 +1818,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1817,26,Homem,Chapeu,Acessorios,79,Virginia,M,Roxo,Verao,40,Nao,Expresso,Nao,No,4,PIX,Semanalmente
 1818,32,Homem,T-shirt,Roupas,27,Delaware,M,Branco,Verao,47,Nao,Free Shipping,Nao,No,20,Cartao de Credito,Semanalmente
 1819,58,Homem,Oculos de sol,Acessorios,39,North Carolina,M,Branco,Outono,38,Nao,Expresso,Nao,No,47,Cartao de Credito,A cada 3 meses
-1820,51,Homem,Socks,Roupas,86,Nevada,P,Peach,Primavera,45,Nao,Next Day Air,Nao,No,50,Em dinheiro,Trimestralmente
+1820,51,Homem,Socks,Roupas,86,Nevada,P,Pessego,Primavera,45,Nao,Next Day Air,Nao,No,50,Em dinheiro,Trimestralmente
 1821,19,Homem,Shirt,Roupas,94,Washington,XG,Gold,Outono,50,Nao,Expresso,Nao,No,31,PayPal,Mensalmente
 1822,57,Homem,Shorts,Roupas,53,Maine,M,Verde-azulado,Primavera,28,Nao,Expresso,Nao,No,29,Cartao de Credito,Trimestralmente
 1823,66,Homem,Shirt,Roupas,85,Connecticut,P,Ciano,Verao,44,Nao,Standard,Nao,No,4,Em dinheiro,Anualmente
@@ -1857,10 +1857,10 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1856,60,Homem,Shirt,Roupas,76,Rhode Island,XG,Verde-azulado,Primavera,47,Nao,Standard,Nao,No,9,Transferencia bancaria,Anualmente
 1857,63,Homem,Joias,Acessorios,55,Arizona,XG,Bege,Verao,32,Nao,Free Shipping,Nao,No,30,PIX,Quinzenalmente
 1858,51,Homem,T-shirt,Roupas,85,Colorado,G,Marrom,Verao,40,Nao,Next Day Air,Nao,No,33,Em dinheiro,Mensalmente
-1859,22,Homem,Cachecol,Acessorios,69,Maine,P,Peach,Primavera,49,Nao,Frete em 2 dias,Nao,No,8,PIX,Anualmente
+1859,22,Homem,Cachecol,Acessorios,69,Maine,P,Pessego,Primavera,49,Nao,Frete em 2 dias,Nao,No,8,PIX,Anualmente
 1860,54,Homem,Cinto,Acessorios,26,New Jersey,G,Bege,Verao,37,Nao,Retirado na loja,Nao,No,29,Cartao de Credito,Quinzenalmente
 1861,18,Homem,T-shirt,Roupas,64,Kansas,M,Prateado,Verao,48,Nao,Next Day Air,Nao,No,4,Cartao de Credito,Mensalmente
-1862,29,Homem,Tenis,Calcados,60,South Dakota,P,Peach,Outono,36,Nao,Standard,Nao,No,19,Transferencia bancaria,Mensalmente
+1862,29,Homem,Tenis,Calcados,60,South Dakota,P,Pessego,Outono,36,Nao,Standard,Nao,No,19,Transferencia bancaria,Mensalmente
 1863,59,Homem,Gloves,Acessorios,36,New Hampshire,M,Turquesa,Inverno,46,Nao,Expresso,Nao,No,10,Cartao de Debito,Quinzenalmente
 1864,25,Homem,Sandalhas,Calcados,21,Connecticut,G,Laranja,Primavera,43,Nao,Frete em 2 dias,Nao,No,39,PIX,Mensalmente
 1865,19,Homem,Mochila,Acessorios,72,Wyoming,P,Ciano,Outono,32,Nao,Frete em 2 dias,Nao,No,21,Transferencia bancaria,Trimestralmente
@@ -1888,7 +1888,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1887,18,Homem,Gloves,Acessorios,91,Arkansas,G,Bege,Primavera,44,Nao,Next Day Air,Nao,No,46,Em dinheiro,Quinzenalmente
 1888,64,Homem,Moletom,Roupas,44,North Dakota,XG,Gold,Outono,35,Nao,Expresso,Nao,No,3,Em dinheiro,Mensalmente
 1889,62,Homem,Moletom,Roupas,89,South Dakota,XG,Turquesa,Inverno,34,Nao,Free Shipping,Nao,No,48,Transferencia bancaria,Semanalmente
-1890,59,Homem,Saia,Roupas,57,North Carolina,G,Peach,Primavera,25,Nao,Next Day Air,Nao,No,27,Cartao de Debito,Semanalmente
+1890,59,Homem,Saia,Roupas,57,North Carolina,G,Pessego,Primavera,25,Nao,Next Day Air,Nao,No,27,Cartao de Debito,Semanalmente
 1891,36,Homem,Oculos de sol,Acessorios,57,Hawaii,M,Lavanda,Primavera,34,Nao,Retirado na loja,Nao,No,5,Cartao de Debito,Semanalmente
 1892,69,Homem,Joias,Acessorios,74,New Hampshire,M,Cinza,Verao,26,Nao,Next Day Air,Nao,No,48,PIX,Trimestralmente
 1893,39,Homem,Jaqueta,Agasalhos,30,California,M,Azul,Outono,46,Nao,Frete em 2 dias,Nao,No,12,Transferencia bancaria,Semanalmente
@@ -1912,7 +1912,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1911,29,Homem,Sandalhas,Calcados,38,New York,P,Amarelo,Outono,38,Nao,Expresso,Nao,No,13,PIX,Trimestralmente
 1912,65,Homem,Joias,Acessorios,81,Arizona,M,Cinza,Primavera,49,Nao,Expresso,Nao,No,32,Cartao de Credito,Quinzenalmente
 1913,29,Homem,Sueter,Roupas,56,Colorado,P,Carvao,Inverno,34,Nao,Frete em 2 dias,Nao,No,5,Em dinheiro,Quinzenalmente
-1914,49,Homem,Saia,Roupas,48,Kentucky,M,Peach,Inverno,36,Nao,Expresso,Nao,No,29,PIX,Anualmente
+1914,49,Homem,Saia,Roupas,48,Kentucky,M,Pessego,Inverno,36,Nao,Expresso,Nao,No,29,PIX,Anualmente
 1915,28,Homem,Shorts,Roupas,97,Alaska,G,Verde,Outono,34,Nao,Standard,Nao,No,40,PIX,Quinzenalmente
 1916,51,Homem,Mochila,Acessorios,74,Alabama,M,Magenta,Outono,47,Nao,Frete em 2 dias,Nao,No,44,PayPal,Semanalmente
 1917,26,Homem,Moletom,Roupas,50,Connecticut,P,Bege,Inverno,30,Nao,Next Day Air,Nao,No,3,PayPal,Quinzenalmente
@@ -1921,7 +1921,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1920,34,Homem,Mochila,Acessorios,56,Virginia,M,Oliva,Verao,31,Nao,Expresso,Nao,No,20,Cartao de Credito,Quinzenalmente
 1921,51,Homem,Blusa,Roupas,84,Connecticut,M,Roxo,Primavera,28,Nao,Standard,Nao,No,40,Transferencia bancaria,A cada 3 meses
 1922,47,Homem,Shirt,Roupas,36,Michigan,M,Verde,Outono,35,Nao,Retirado na loja,Nao,No,13,Em dinheiro,Anualmente
-1923,18,Homem,Gloves,Acessorios,63,Kentucky,P,Peach,Verao,46,Nao,Standard,Nao,No,9,PayPal,Mensalmente
+1923,18,Homem,Gloves,Acessorios,63,Kentucky,P,Pessego,Verao,46,Nao,Standard,Nao,No,9,PayPal,Mensalmente
 1924,64,Homem,Sandalhas,Calcados,36,Nebraska,XG,Azul,Verao,43,Nao,Standard,Nao,No,7,PayPal,Anualmente
 1925,30,Homem,Jaqueta,Agasalhos,63,Michigan,M,Cinza,Outono,48,Nao,Free Shipping,Nao,No,42,PIX,Trimestralmente
 1926,59,Homem,Tenis,Calcados,32,Utah,G,Preto,Inverno,29,Nao,Expresso,Nao,No,44,PIX,Quinzenalmente
@@ -1940,7 +1940,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1939,46,Homem,Jeans,Roupas,23,Kentucky,G,Azul,Primavera,38,Nao,Standard,Nao,No,39,Transferencia bancaria,Quinzenalmente
 1940,66,Homem,Gloves,Acessorios,57,Ohio,G,Magenta,Inverno,37,Nao,Retirado na loja,Nao,No,20,Transferencia bancaria,A cada 3 meses
 1941,50,Homem,Chapeu,Acessorios,89,Alaska,G,Cinza,Outono,39,Nao,Frete em 2 dias,Nao,No,48,PIX,Quinzenalmente
-1942,55,Homem,Sapatos,Calcados,99,Vermont,XG,Peach,Inverno,33,Nao,Standard,Nao,No,46,PayPal,Trimestralmente
+1942,55,Homem,Sapatos,Calcados,99,Vermont,XG,Pessego,Inverno,33,Nao,Standard,Nao,No,46,PayPal,Trimestralmente
 1943,63,Homem,Calcas,Roupas,28,Alabama,M,Ciano,Outono,34,Nao,Expresso,Nao,No,22,Cartao de Credito,Mensalmente
 1944,32,Homem,Socks,Roupas,53,Wisconsin,G,Violeta,Verao,38,Nao,Next Day Air,Nao,No,45,Cartao de Debito,Anualmente
 1945,30,Homem,Moletom,Roupas,45,Arkansas,M,Gold,Inverno,27,Nao,Free Shipping,Nao,No,49,Cartao de Debito,A cada 3 meses
@@ -1973,7 +1973,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 1972,54,Homem,Chapeu,Acessorios,29,Pennsylvania,XG,Indigo,Primavera,34,Nao,Next Day Air,Nao,No,1,PayPal,Mensalmente
 1973,54,Homem,Mochila,Acessorios,31,Louisiana,M,Prateado,Verao,33,Nao,Expresso,Nao,No,48,Cartao de Debito,A cada 3 meses
 1974,24,Homem,Saia,Roupas,20,Maryland,XG,Vermelho,Outono,45,Nao,Standard,Nao,No,9,Cartao de Debito,A cada 3 meses
-1975,27,Homem,Gloves,Acessorios,44,Tennessee,M,Peach,Inverno,46,Nao,Frete em 2 dias,Nao,No,2,Cartao de Credito,Quinzenalmente
+1975,27,Homem,Gloves,Acessorios,44,Tennessee,M,Pessego,Inverno,46,Nao,Frete em 2 dias,Nao,No,2,Cartao de Credito,Quinzenalmente
 1976,53,Homem,Jaqueta,Agasalhos,77,Illinois,G,Turquesa,Outono,29,Nao,Expresso,Nao,No,4,Cartao de Credito,Trimestralmente
 1977,32,Homem,Bolsa,Acessorios,51,Wyoming,M,Rosa,Primavera,32,Nao,Next Day Air,Nao,No,43,Cartao de Debito,Quinzenalmente
 1978,24,Homem,Sandalhas,Calcados,49,Florida,M,Verde-azulado,Verao,26,Nao,Free Shipping,Nao,No,32,Cartao de Debito,Anualmente
@@ -2012,7 +2012,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2011,24,Homem,Sueter,Roupas,21,Texas,M,Marrom,Verao,44,Nao,Frete em 2 dias,Nao,No,3,PIX,Quinzenalmente
 2012,57,Homem,Sandalhas,Calcados,94,West Virginia,M,Bege,Primavera,37,Nao,Expresso,Nao,No,4,Cartao de Debito,Mensalmente
 2013,48,Homem,Jeans,Roupas,53,Nevada,G,Verde,Outono,32,Nao,Retirado na loja,Nao,No,5,Transferencia bancaria,Quinzenalmente
-2014,39,Homem,Mochila,Acessorios,70,Virginia,M,Peach,Inverno,49,Nao,Standard,Nao,No,25,PayPal,Trimestralmente
+2014,39,Homem,Mochila,Acessorios,70,Virginia,M,Pessego,Inverno,49,Nao,Standard,Nao,No,25,PayPal,Trimestralmente
 2015,51,Homem,Saia,Roupas,26,Wisconsin,G,Preto,Verao,39,Nao,Standard,Nao,No,47,PIX,Quinzenalmente
 2016,57,Homem,Cinto,Acessorios,82,Virginia,P,Rosa,Verao,45,Nao,Next Day Air,Nao,No,8,Cartao de Debito,Quinzenalmente
 2017,53,Homem,Sapatos,Calcados,47,Maine,P,Violeta,Inverno,34,Nao,Standard,Nao,No,20,Cartao de Credito,Quinzenalmente
@@ -2033,7 +2033,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2032,21,Homem,Socks,Roupas,51,North Carolina,G,Carvao,Primavera,40,Nao,Standard,Nao,No,2,Cartao de Credito,Mensalmente
 2033,46,Homem,Blusa,Roupas,36,South Carolina,M,Marrom,Inverno,42,Nao,Next Day Air,Nao,No,13,Cartao de Credito,Anualmente
 2034,57,Homem,Jeans,Roupas,55,Illinois,G,Oliva,Verao,36,Nao,Expresso,Nao,No,33,Em dinheiro,Anualmente
-2035,61,Homem,Shorts,Roupas,30,Alabama,M,Peach,Primavera,29,Nao,Retirado na loja,Nao,No,27,Cartao de Credito,Mensalmente
+2035,61,Homem,Shorts,Roupas,30,Alabama,M,Pessego,Primavera,29,Nao,Retirado na loja,Nao,No,27,Cartao de Credito,Mensalmente
 2036,53,Homem,T-shirt,Roupas,70,Oklahoma,P,Amarelo,Verao,41,Nao,Expresso,Nao,No,43,PIX,Semanalmente
 2037,37,Homem,Blusa,Roupas,63,Minnesota,P,Lavanda,Inverno,31,Nao,Next Day Air,Nao,No,46,PayPal,Semanalmente
 2038,39,Homem,Cinto,Acessorios,87,Illinois,P,Verde,Verao,43,Nao,Expresso,Nao,No,7,Em dinheiro,Quinzenalmente
@@ -2108,7 +2108,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2107,60,Homem,Joias,Acessorios,34,Vermont,M,Cinza,Outono,44,Nao,Standard,Nao,No,40,Em dinheiro,A cada 3 meses
 2108,46,Homem,Calcas,Roupas,75,Delaware,M,Preto,Inverno,33,Nao,Standard,Nao,No,35,PayPal,Trimestralmente
 2109,54,Homem,Moletom,Roupas,46,North Dakota,XG,Bege,Inverno,42,Nao,Expresso,Nao,No,4,Cartao de Debito,Trimestralmente
-2110,59,Homem,Joias,Acessorios,31,California,G,Peach,Outono,27,Nao,Free Shipping,Nao,No,28,Em dinheiro,A cada 3 meses
+2110,59,Homem,Joias,Acessorios,31,California,G,Pessego,Outono,27,Nao,Free Shipping,Nao,No,28,Em dinheiro,A cada 3 meses
 2111,52,Homem,Socks,Roupas,93,Montana,G,Ciano,Primavera,39,Nao,Retirado na loja,Nao,No,36,Em dinheiro,A cada 3 meses
 2112,41,Homem,Oculos de sol,Acessorios,85,Missouri,XG,Rosa,Primavera,26,Nao,Free Shipping,Nao,No,15,Cartao de Credito,Anualmente
 2113,43,Homem,Cinto,Acessorios,68,Tennessee,M,Lavanda,Outono,45,Nao,Frete em 2 dias,Nao,No,7,Cartao de Credito,Quinzenalmente
@@ -2140,7 +2140,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2139,67,Homem,Sueter,Roupas,42,Mississippi,M,Verde-azulado,Outono,28,Nao,Next Day Air,Nao,No,36,PIX,Trimestralmente
 2140,40,Homem,Botas,Calcados,95,New York,M,Vermelho,Inverno,30,Nao,Free Shipping,Nao,No,33,Cartao de Credito,Semanalmente
 2141,53,Homem,Bolsa,Acessorios,90,New Mexico,M,Marrom,Outono,37,Nao,Standard,Nao,No,36,Em dinheiro,Quinzenalmente
-2142,24,Homem,Vestido,Roupas,98,Kentucky,M,Peach,Inverno,41,Nao,Frete em 2 dias,Nao,No,32,Cartao de Credito,Anualmente
+2142,24,Homem,Vestido,Roupas,98,Kentucky,M,Pessego,Inverno,41,Nao,Frete em 2 dias,Nao,No,32,Cartao de Credito,Anualmente
 2143,47,Homem,Chapeu,Acessorios,39,North Dakota,M,Marrom,Inverno,43,Nao,Next Day Air,Nao,No,21,PIX,Trimestralmente
 2144,53,Homem,Sandalhas,Calcados,66,Arkansas,G,Vermelho,Outono,38,Nao,Next Day Air,Nao,No,48,Cartao de Debito,Quinzenalmente
 2145,47,Homem,Sapatos,Calcados,23,Maryland,G,Laranja,Inverno,37,Nao,Free Shipping,Nao,No,25,Em dinheiro,Trimestralmente
@@ -2158,9 +2158,9 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2157,38,Homem,Saia,Roupas,83,Missouri,M,Marrom,Inverno,36,Nao,Next Day Air,Nao,No,41,PayPal,Quinzenalmente
 2158,41,Homem,Bolsa,Acessorios,68,Mississippi,G,Turquesa,Inverno,40,Nao,Next Day Air,Nao,No,41,Cartao de Debito,Quinzenalmente
 2159,19,Homem,Gloves,Acessorios,84,Massachusetts,XG,Oliva,Primavera,46,Nao,Standard,Nao,No,9,Cartao de Credito,Quinzenalmente
-2160,18,Homem,Shirt,Roupas,58,Louisiana,M,Peach,Outono,30,Nao,Free Shipping,Nao,No,34,PayPal,Anualmente
+2160,18,Homem,Shirt,Roupas,58,Louisiana,M,Pessego,Outono,30,Nao,Free Shipping,Nao,No,34,PayPal,Anualmente
 2161,45,Homem,Blusa,Roupas,92,West Virginia,G,Carvao,Inverno,33,Nao,Expresso,Nao,No,21,Transferencia bancaria,Anualmente
-2162,23,Homem,Vestido,Roupas,69,Washington,P,Peach,Verao,38,Nao,Expresso,Nao,No,5,Cartao de Credito,Quinzenalmente
+2162,23,Homem,Vestido,Roupas,69,Washington,P,Pessego,Verao,38,Nao,Expresso,Nao,No,5,Cartao de Credito,Quinzenalmente
 2163,60,Homem,Shorts,Roupas,48,Oregon,P,Preto,Verao,27,Nao,Free Shipping,Nao,No,32,Cartao de Credito,Semanalmente
 2164,52,Homem,Sapatos,Calcados,60,New York,G,Cinza,Primavera,45,Nao,Expresso,Nao,No,44,Transferencia bancaria,Mensalmente
 2165,42,Homem,Sandalhas,Calcados,20,Iowa,P,Oliva,Inverno,48,Nao,Next Day Air,Nao,No,46,PIX,Quinzenalmente
@@ -2200,7 +2200,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2199,57,Homem,Cachecol,Acessorios,80,New York,G,Turquesa,Verao,35,Nao,Free Shipping,Nao,No,35,Em dinheiro,Mensalmente
 2200,39,Homem,Cachecol,Acessorios,47,North Carolina,M,Marrom,Verao,49,Nao,Retirado na loja,Nao,No,40,Transferencia bancaria,Mensalmente
 2201,60,Homem,Gloves,Acessorios,51,Wyoming,G,Carvao,Verao,47,Nao,Next Day Air,Nao,No,27,PayPal,A cada 3 meses
-2202,39,Homem,Calcas,Roupas,25,Ohio,G,Peach,Primavera,49,Nao,Frete em 2 dias,Nao,No,10,Transferencia bancaria,Anualmente
+2202,39,Homem,Calcas,Roupas,25,Ohio,G,Pessego,Primavera,49,Nao,Frete em 2 dias,Nao,No,10,Transferencia bancaria,Anualmente
 2203,42,Homem,Vestido,Roupas,36,Alabama,M,Vermelho,Verao,43,Nao,Next Day Air,Nao,No,23,PayPal,Semanalmente
 2204,53,Homem,Vestido,Roupas,79,Rhode Island,M,Indigo,Inverno,31,Nao,Free Shipping,Nao,No,32,PIX,Trimestralmente
 2205,20,Homem,Jeans,Roupas,41,Oregon,P,Lavanda,Inverno,34,Nao,Frete em 2 dias,Nao,No,6,PIX,Mensalmente
@@ -2364,7 +2364,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2363,27,Homem,Jeans,Roupas,41,Virginia,M,Marrom,Outono,27,Nao,Standard,Nao,No,24,PIX,Mensalmente
 2364,60,Homem,Socks,Roupas,79,Pennsylvania,XG,Rosa,Inverno,42,Nao,Expresso,Nao,No,38,PayPal,Quinzenalmente
 2365,62,Homem,Oculos de sol,Acessorios,60,Mississippi,G,Marrom,Inverno,42,Nao,Free Shipping,Nao,No,4,Cartao de Credito,Trimestralmente
-2366,52,Homem,Tenis,Calcados,91,Wyoming,P,Peach,Inverno,25,Nao,Next Day Air,Nao,No,32,Em dinheiro,Mensalmente
+2366,52,Homem,Tenis,Calcados,91,Wyoming,P,Pessego,Inverno,25,Nao,Next Day Air,Nao,No,32,Em dinheiro,Mensalmente
 2367,30,Homem,Sapatos,Calcados,66,New Mexico,G,Marrom,Inverno,36,Nao,Expresso,Nao,No,32,PayPal,Quinzenalmente
 2368,66,Homem,Socks,Roupas,85,North Dakota,G,Verde,Inverno,34,Nao,Standard,Nao,No,28,Transferencia bancaria,Quinzenalmente
 2369,29,Homem,Oculos de sol,Acessorios,38,New Jersey,M,Lavanda,Verao,33,Nao,Standard,Nao,No,6,Cartao de Credito,A cada 3 meses
@@ -2373,12 +2373,12 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2372,67,Homem,Socks,Roupas,25,Indiana,M,Carvao,Inverno,37,Nao,Next Day Air,Nao,No,28,PayPal,Anualmente
 2373,50,Homem,Botas,Calcados,39,Alabama,XG,Prateado,Primavera,31,Nao,Expresso,Nao,No,9,Cartao de Debito,Quinzenalmente
 2374,37,Homem,Moletom,Roupas,20,Michigan,M,Cinza,Primavera,49,Nao,Expresso,Nao,No,21,Transferencia bancaria,A cada 3 meses
-2375,69,Homem,Gloves,Acessorios,73,Washington,G,Peach,Inverno,47,Nao,Standard,Nao,No,31,Em dinheiro,Mensalmente
-2376,60,Homem,Mochila,Acessorios,63,Virginia,G,Peach,Outono,29,Nao,Next Day Air,Nao,No,18,PayPal,Trimestralmente
+2375,69,Homem,Gloves,Acessorios,73,Washington,G,Pessego,Inverno,47,Nao,Standard,Nao,No,31,Em dinheiro,Mensalmente
+2376,60,Homem,Mochila,Acessorios,63,Virginia,G,Pessego,Outono,29,Nao,Next Day Air,Nao,No,18,PayPal,Trimestralmente
 2377,21,Homem,Gloves,Acessorios,94,Tennessee,XG,Ciano,Primavera,41,Nao,Expresso,Nao,No,5,PIX,Semanalmente
 2378,44,Homem,Blusa,Roupas,94,South Dakota,G,Magenta,Outono,40,Nao,Next Day Air,Nao,No,22,PIX,Anualmente
 2379,26,Homem,Cachecol,Acessorios,71,New Hampshire,G,Verde-azulado,Verao,27,Nao,Retirado na loja,Nao,No,37,Cartao de Debito,Quinzenalmente
-2380,40,Homem,Chapeu,Acessorios,77,South Dakota,M,Peach,Primavera,40,Nao,Frete em 2 dias,Nao,No,22,Cartao de Credito,Mensalmente
+2380,40,Homem,Chapeu,Acessorios,77,South Dakota,M,Pessego,Primavera,40,Nao,Frete em 2 dias,Nao,No,22,Cartao de Credito,Mensalmente
 2381,41,Homem,Cachecol,Acessorios,66,Pennsylvania,M,Preto,Outono,25,Nao,Next Day Air,Nao,No,36,Cartao de Credito,Quinzenalmente
 2382,62,Homem,Sandalhas,Calcados,23,Wisconsin,M,Verde-azulado,Verao,45,Nao,Free Shipping,Nao,No,23,Transferencia bancaria,Anualmente
 2383,39,Homem,Sueter,Roupas,60,California,M,Turquesa,Primavera,39,Nao,Expresso,Nao,No,44,Cartao de Debito,Semanalmente
@@ -2387,19 +2387,19 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2386,41,Homem,Cachecol,Acessorios,31,Oklahoma,M,Marrom,Outono,38,Nao,Expresso,Nao,No,12,PIX,Semanalmente
 2387,19,Homem,Socks,Roupas,33,Illinois,G,Azul,Verao,29,Nao,Standard,Nao,No,14,Cartao de Credito,Mensalmente
 2388,36,Homem,Chapeu,Acessorios,95,Tennessee,M,Gold,Verao,40,Nao,Frete em 2 dias,Nao,No,14,Cartao de Credito,Mensalmente
-2389,21,Homem,Vestido,Roupas,68,Alabama,M,Peach,Outono,41,Nao,Retirado na loja,Nao,No,10,Cartao de Credito,Anualmente
+2389,21,Homem,Vestido,Roupas,68,Alabama,M,Pessego,Outono,41,Nao,Retirado na loja,Nao,No,10,Cartao de Credito,Anualmente
 2390,25,Homem,Casaco,Agasalhos,87,Kansas,M,Violeta,Primavera,31,Nao,Retirado na loja,Nao,No,17,Em dinheiro,A cada 3 meses
 2391,65,Homem,Shirt,Roupas,64,Arizona,XG,Amarelo,Inverno,46,Nao,Expresso,Nao,No,24,Cartao de Debito,Quinzenalmente
 2392,42,Homem,Shirt,Roupas,74,Michigan,M,Preto,Inverno,46,Nao,Next Day Air,Nao,No,31,PayPal,Trimestralmente
 2393,40,Homem,Jeans,Roupas,62,Missouri,G,Prateado,Primavera,26,Nao,Frete em 2 dias,Nao,No,36,Em dinheiro,Anualmente
 2394,58,Homem,Socks,Roupas,97,Louisiana,M,Marrom,Inverno,50,Nao,Frete em 2 dias,Nao,No,38,Cartao de Debito,A cada 3 meses
-2395,40,Homem,Sandalhas,Calcados,47,Connecticut,G,Peach,Outono,29,Nao,Frete em 2 dias,Nao,No,23,Em dinheiro,Quinzenalmente
+2395,40,Homem,Sandalhas,Calcados,47,Connecticut,G,Pessego,Outono,29,Nao,Frete em 2 dias,Nao,No,23,Em dinheiro,Quinzenalmente
 2396,62,Homem,Blusa,Roupas,83,Connecticut,M,Ciano,Inverno,35,Nao,Frete em 2 dias,Nao,No,47,Cartao de Debito,Quinzenalmente
 2397,38,Homem,Shirt,Roupas,82,Oregon,M,Oliva,Primavera,37,Nao,Frete em 2 dias,Nao,No,20,Cartao de Credito,Semanalmente
 2398,37,Homem,Oculos de sol,Acessorios,26,West Virginia,G,Preto,Outono,29,Nao,Retirado na loja,Nao,No,41,Transferencia bancaria,Mensalmente
 2399,65,Homem,Jaqueta,Agasalhos,81,Florida,M,Laranja,Inverno,43,Nao,Free Shipping,Nao,No,44,PayPal,Quinzenalmente
 2400,55,Homem,Vestido,Roupas,44,New Hampshire,G,Bege,Primavera,32,Nao,Retirado na loja,Nao,No,31,Cartao de Debito,Mensalmente
-2401,43,Homem,Oculos de sol,Acessorios,88,Oregon,M,Peach,Inverno,42,Nao,Next Day Air,Nao,No,11,PayPal,Quinzenalmente
+2401,43,Homem,Oculos de sol,Acessorios,88,Oregon,M,Pessego,Inverno,42,Nao,Next Day Air,Nao,No,11,PayPal,Quinzenalmente
 2402,43,Homem,Botas,Calcados,76,Oregon,M,Rosa,Inverno,42,Nao,Standard,Nao,No,25,Em dinheiro,Quinzenalmente
 2403,45,Homem,Cachecol,Acessorios,89,Utah,M,Marrom,Inverno,38,Nao,Free Shipping,Nao,No,31,PayPal,Semanalmente
 2404,64,Homem,Shorts,Roupas,22,Missouri,M,Magenta,Outono,44,Nao,Standard,Nao,No,40,Transferencia bancaria,Semanalmente
@@ -2421,9 +2421,9 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2420,26,Homem,Sueter,Roupas,40,North Carolina,M,Azul,Outono,27,Nao,Next Day Air,Nao,No,11,PIX,A cada 3 meses
 2421,41,Homem,Jaqueta,Agasalhos,87,North Carolina,P,Verde,Inverno,42,Nao,Free Shipping,Nao,No,28,PayPal,Anualmente
 2422,37,Homem,Tenis,Calcados,46,Minnesota,G,Rosa,Primavera,46,Nao,Standard,Nao,No,2,PayPal,A cada 3 meses
-2423,30,Homem,Joias,Acessorios,82,Georgia,M,Peach,Inverno,48,Nao,Retirado na loja,Nao,No,45,Cartao de Credito,Semanalmente
+2423,30,Homem,Joias,Acessorios,82,Georgia,M,Pessego,Inverno,48,Nao,Retirado na loja,Nao,No,45,Cartao de Credito,Semanalmente
 2424,49,Homem,Mochila,Acessorios,81,West Virginia,M,Roxo,Verao,28,Nao,Free Shipping,Nao,No,7,PayPal,A cada 3 meses
-2425,49,Homem,Joias,Acessorios,57,Delaware,M,Peach,Inverno,45,Nao,Next Day Air,Nao,No,28,Cartao de Debito,Quinzenalmente
+2425,49,Homem,Joias,Acessorios,57,Delaware,M,Pessego,Inverno,45,Nao,Next Day Air,Nao,No,28,Cartao de Debito,Quinzenalmente
 2426,58,Homem,Sapatos,Calcados,49,North Dakota,P,Oliva,Verao,30,Nao,Frete em 2 dias,Nao,No,34,PIX,Trimestralmente
 2427,70,Homem,Jaqueta,Agasalhos,42,Florida,M,Oliva,Outono,46,Nao,Free Shipping,Nao,No,26,PIX,A cada 3 meses
 2428,27,Homem,Jaqueta,Agasalhos,26,Oregon,M,Roxo,Primavera,33,Nao,Standard,Nao,No,45,Cartao de Debito,Trimestralmente
@@ -2431,7 +2431,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2430,57,Homem,Tenis,Calcados,57,Virginia,XG,Marrom,Verao,44,Nao,Standard,Nao,No,47,PayPal,Quinzenalmente
 2431,20,Homem,Jaqueta,Agasalhos,100,North Dakota,XG,Branco,Verao,43,Nao,Expresso,Nao,No,42,Em dinheiro,Trimestralmente
 2432,34,Homem,Moletom,Roupas,73,Alabama,P,Oliva,Outono,34,Nao,Expresso,Nao,No,27,Em dinheiro,A cada 3 meses
-2433,59,Homem,Jaqueta,Agasalhos,66,Hawaii,M,Peach,Inverno,28,Nao,Retirado na loja,Nao,No,43,PayPal,Mensalmente
+2433,59,Homem,Jaqueta,Agasalhos,66,Hawaii,M,Pessego,Inverno,28,Nao,Retirado na loja,Nao,No,43,PayPal,Mensalmente
 2434,54,Homem,T-shirt,Roupas,73,Oregon,M,Azul,Primavera,34,Nao,Standard,Nao,No,16,Em dinheiro,Quinzenalmente
 2435,36,Homem,Gloves,Acessorios,45,Utah,M,Marrom,Primavera,50,Nao,Retirado na loja,Nao,No,40,Em dinheiro,Mensalmente
 2436,21,Homem,Tenis,Calcados,27,Hawaii,P,Preto,Outono,45,Nao,Free Shipping,Nao,No,29,Em dinheiro,Quinzenalmente
@@ -2445,8 +2445,8 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2444,24,Homem,Mochila,Acessorios,30,South Dakota,M,Verde,Primavera,34,Nao,Frete em 2 dias,Nao,No,24,PIX,Quinzenalmente
 2445,47,Homem,Cachecol,Acessorios,65,West Virginia,P,Gold,Outono,37,Nao,Expresso,Nao,No,15,Em dinheiro,Quinzenalmente
 2446,63,Homem,Cachecol,Acessorios,96,Tennessee,M,Marrom,Verao,41,Nao,Retirado na loja,Nao,No,50,PayPal,Semanalmente
-2447,38,Homem,Shirt,Roupas,65,Alaska,G,Peach,Primavera,29,Nao,Frete em 2 dias,Nao,No,7,Em dinheiro,Mensalmente
-2448,59,Homem,Calcas,Roupas,47,South Dakota,G,Peach,Outono,32,Nao,Retirado na loja,Nao,No,10,PIX,Quinzenalmente
+2447,38,Homem,Shirt,Roupas,65,Alaska,G,Pessego,Primavera,29,Nao,Frete em 2 dias,Nao,No,7,Em dinheiro,Mensalmente
+2448,59,Homem,Calcas,Roupas,47,South Dakota,G,Pessego,Outono,32,Nao,Retirado na loja,Nao,No,10,PIX,Quinzenalmente
 2449,54,Homem,Chapeu,Acessorios,25,Tennessee,P,Violeta,Outono,30,Nao,Free Shipping,Nao,No,38,Transferencia bancaria,Quinzenalmente
 2450,26,Homem,Casaco,Agasalhos,56,Alabama,P,Violeta,Outono,41,Nao,Expresso,Nao,No,31,Cartao de Debito,Quinzenalmente
 2451,68,Homem,T-shirt,Roupas,76,North Carolina,M,Magenta,Outono,45,Nao,Standard,Nao,No,7,PIX,Trimestralmente
@@ -2471,7 +2471,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2470,68,Homem,Sandalhas,Calcados,92,Maryland,M,Amarelo,Outono,50,Nao,Standard,Nao,No,27,Em dinheiro,Anualmente
 2471,55,Homem,Blusa,Roupas,72,Arizona,XG,Rosa,Outono,27,Nao,Next Day Air,Nao,No,29,Em dinheiro,Quinzenalmente
 2472,30,Homem,Sandalhas,Calcados,83,Oklahoma,M,Cinza,Primavera,43,Nao,Retirado na loja,Nao,No,1,Em dinheiro,Anualmente
-2473,24,Homem,Shirt,Roupas,73,Utah,M,Peach,Verao,41,Nao,Standard,Nao,No,31,Transferencia bancaria,Anualmente
+2473,24,Homem,Shirt,Roupas,73,Utah,M,Pessego,Verao,41,Nao,Standard,Nao,No,31,Transferencia bancaria,Anualmente
 2474,57,Homem,Socks,Roupas,98,Arkansas,M,Vermelho,Inverno,26,Nao,Next Day Air,Nao,No,28,Em dinheiro,Trimestralmente
 2475,23,Homem,T-shirt,Roupas,76,North Carolina,M,Oliva,Outono,32,Nao,Retirado na loja,Nao,No,19,Em dinheiro,Trimestralmente
 2476,69,Homem,Vestido,Roupas,43,California,P,Lavanda,Verao,35,Nao,Next Day Air,Nao,No,36,Transferencia bancaria,Mensalmente
@@ -2481,7 +2481,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2480,37,Homem,Vestido,Roupas,98,Kansas,P,Oliva,Outono,42,Nao,Standard,Nao,No,26,PIX,A cada 3 meses
 2481,61,Homem,Socks,Roupas,91,Ohio,XG,Marrom,Verao,29,Nao,Next Day Air,Nao,No,7,Cartao de Debito,Quinzenalmente
 2482,41,Homem,Cinto,Acessorios,92,New Jersey,XG,Ciano,Outono,29,Nao,Free Shipping,Nao,No,35,PIX,Semanalmente
-2483,69,Homem,Bolsa,Acessorios,87,Arizona,P,Peach,Inverno,48,Nao,Next Day Air,Nao,No,46,PayPal,A cada 3 meses
+2483,69,Homem,Bolsa,Acessorios,87,Arizona,P,Pessego,Inverno,48,Nao,Next Day Air,Nao,No,46,PayPal,A cada 3 meses
 2484,32,Homem,Saia,Roupas,96,Arizona,P,Verde-azulado,Outono,29,Nao,Standard,Nao,No,8,PayPal,Mensalmente
 2485,60,Homem,Moletom,Roupas,97,New Hampshire,M,Verde,Verao,48,Nao,Frete em 2 dias,Nao,No,50,Transferencia bancaria,A cada 3 meses
 2486,43,Homem,Blusa,Roupas,55,Louisiana,M,Bege,Primavera,46,Nao,Frete em 2 dias,Nao,No,37,Cartao de Credito,Anualmente
@@ -2493,7 +2493,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2492,63,Homem,Bolsa,Acessorios,47,North Carolina,M,Magenta,Primavera,25,Nao,Expresso,Nao,No,15,Cartao de Debito,Mensalmente
 2493,50,Homem,Oculos de sol,Acessorios,96,South Dakota,P,Prateado,Verao,41,Nao,Next Day Air,Nao,No,34,PIX,Quinzenalmente
 2494,21,Homem,Socks,Roupas,23,Maine,P,Bege,Outono,48,Nao,Frete em 2 dias,Nao,No,6,Em dinheiro,A cada 3 meses
-2495,42,Homem,Sapatos,Calcados,27,Oklahoma,P,Peach,Inverno,26,Nao,Retirado na loja,Nao,No,26,PayPal,Anualmente
+2495,42,Homem,Sapatos,Calcados,27,Oklahoma,P,Pessego,Inverno,26,Nao,Retirado na loja,Nao,No,26,PayPal,Anualmente
 2496,40,Homem,Mochila,Acessorios,37,Nebraska,XG,Laranja,Primavera,31,Nao,Free Shipping,Nao,No,34,Transferencia bancaria,A cada 3 meses
 2497,67,Homem,Cachecol,Acessorios,79,Illinois,P,Amarelo,Verao,32,Nao,Retirado na loja,Nao,No,37,Transferencia bancaria,Semanalmente
 2498,35,Homem,Mochila,Acessorios,40,Colorado,M,Violeta,Verao,42,Nao,Standard,Nao,No,28,Transferencia bancaria,Anualmente
@@ -2525,9 +2525,9 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2524,43,Homem,Bolsa,Acessorios,24,New Jersey,P,Ciano,Primavera,34,Nao,Expresso,Nao,No,21,Em dinheiro,Anualmente
 2525,60,Homem,Casaco,Agasalhos,59,Kansas,M,Roxo,Primavera,37,Nao,Expresso,Nao,No,23,PIX,Trimestralmente
 2526,39,Homem,Sueter,Roupas,72,Kentucky,M,Roxo,Inverno,42,Nao,Standard,Nao,No,20,PayPal,Semanalmente
-2527,47,Homem,Shorts,Roupas,28,Rhode Island,P,Peach,Primavera,34,Nao,Expresso,Nao,No,30,Transferencia bancaria,Quinzenalmente
+2527,47,Homem,Shorts,Roupas,28,Rhode Island,P,Pessego,Primavera,34,Nao,Expresso,Nao,No,30,Transferencia bancaria,Quinzenalmente
 2528,19,Homem,Calcas,Roupas,36,Illinois,M,Gold,Outono,36,Nao,Expresso,Nao,No,33,Em dinheiro,A cada 3 meses
-2529,52,Homem,Joias,Acessorios,47,Alabama,P,Peach,Outono,47,Nao,Frete em 2 dias,Nao,No,31,Transferencia bancaria,Mensalmente
+2529,52,Homem,Joias,Acessorios,47,Alabama,P,Pessego,Outono,47,Nao,Frete em 2 dias,Nao,No,31,Transferencia bancaria,Mensalmente
 2530,34,Homem,Gloves,Acessorios,62,Tennessee,M,Magenta,Primavera,47,Nao,Next Day Air,Nao,No,48,Em dinheiro,Mensalmente
 2531,25,Homem,Saia,Roupas,98,Massachusetts,P,Ciano,Primavera,36,Nao,Free Shipping,Nao,No,28,Cartao de Debito,Semanalmente
 2532,43,Homem,Sandalhas,Calcados,28,Texas,M,Violeta,Verao,46,Nao,Free Shipping,Nao,No,7,PayPal,A cada 3 meses
@@ -2542,14 +2542,14 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2541,24,Homem,Cinto,Acessorios,42,New Jersey,M,Carvao,Verao,39,Nao,Free Shipping,Nao,No,11,PayPal,Trimestralmente
 2542,33,Homem,Cachecol,Acessorios,58,Washington,M,Prateado,Primavera,27,Nao,Next Day Air,Nao,No,13,PIX,A cada 3 meses
 2543,61,Homem,Joias,Acessorios,22,Arkansas,M,Branco,Inverno,37,Nao,Expresso,Nao,No,27,PayPal,Anualmente
-2544,27,Homem,Cachecol,Acessorios,56,West Virginia,G,Peach,Primavera,27,Nao,Next Day Air,Nao,No,30,Cartao de Debito,Quinzenalmente
+2544,27,Homem,Cachecol,Acessorios,56,West Virginia,G,Pessego,Primavera,27,Nao,Next Day Air,Nao,No,30,Cartao de Debito,Quinzenalmente
 2545,46,Homem,Calcas,Roupas,70,Delaware,M,Vermelho,Primavera,25,Nao,Next Day Air,Nao,No,39,Em dinheiro,Trimestralmente
 2546,38,Homem,Sapatos,Calcados,50,Texas,G,Oliva,Primavera,39,Nao,Free Shipping,Nao,No,10,Transferencia bancaria,Anualmente
 2547,63,Homem,Botas,Calcados,21,Texas,G,Cinza,Verao,30,Nao,Expresso,Nao,No,4,PIX,Trimestralmente
 2548,47,Homem,Jaqueta,Agasalhos,97,Mississippi,M,Bege,Verao,32,Nao,Frete em 2 dias,Nao,No,16,Transferencia bancaria,Semanalmente
 2549,42,Homem,Mochila,Acessorios,63,Texas,G,Rosa,Inverno,38,Nao,Standard,Nao,No,34,Cartao de Credito,Mensalmente
 2550,41,Homem,Jaqueta,Agasalhos,60,Virginia,M,Vermelho,Outono,27,Nao,Standard,Nao,No,11,Cartao de Credito,A cada 3 meses
-2551,53,Homem,Botas,Calcados,52,New Hampshire,XG,Peach,Outono,30,Nao,Retirado na loja,Nao,No,30,Cartao de Credito,Quinzenalmente
+2551,53,Homem,Botas,Calcados,52,New Hampshire,XG,Pessego,Outono,30,Nao,Retirado na loja,Nao,No,30,Cartao de Credito,Quinzenalmente
 2552,29,Homem,Sapatos,Calcados,32,Minnesota,M,Marrom,Inverno,41,Nao,Next Day Air,Nao,No,40,Em dinheiro,Anualmente
 2553,61,Homem,Cinto,Acessorios,48,Maryland,XG,Roxo,Primavera,32,Nao,Frete em 2 dias,Nao,No,13,Em dinheiro,Anualmente
 2554,69,Homem,Joias,Acessorios,25,Vermont,M,Marrom,Verao,45,Nao,Retirado na loja,Nao,No,28,Em dinheiro,A cada 3 meses
@@ -2587,11 +2587,11 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2586,57,Homem,Oculos de sol,Acessorios,37,Wisconsin,G,Marrom,Outono,44,Nao,Free Shipping,Nao,No,19,PIX,Semanalmente
 2587,20,Homem,Casaco,Agasalhos,28,Maine,G,Amarelo,Inverno,46,Nao,Expresso,Nao,No,1,PIX,A cada 3 meses
 2588,55,Homem,Cachecol,Acessorios,29,Connecticut,M,Roxo,Inverno,37,Nao,Expresso,Nao,No,29,PayPal,A cada 3 meses
-2589,44,Homem,Mochila,Acessorios,49,Delaware,M,Peach,Verao,32,Nao,Free Shipping,Nao,No,38,PIX,Quinzenalmente
+2589,44,Homem,Mochila,Acessorios,49,Delaware,M,Pessego,Verao,32,Nao,Free Shipping,Nao,No,38,PIX,Quinzenalmente
 2590,52,Homem,Calcas,Roupas,53,North Dakota,M,Prateado,Inverno,49,Nao,Frete em 2 dias,Nao,No,31,Transferencia bancaria,Anualmente
 2591,57,Homem,Gloves,Acessorios,66,California,M,Turquesa,Verao,50,Nao,Free Shipping,Nao,No,35,PayPal,Anualmente
 2592,40,Homem,Jaqueta,Agasalhos,61,New Mexico,P,Oliva,Primavera,33,Nao,Expresso,Nao,No,40,Cartao de Debito,Trimestralmente
-2593,23,Homem,Shorts,Roupas,23,Iowa,XG,Peach,Verao,44,Nao,Retirado na loja,Nao,No,13,Em dinheiro,Trimestralmente
+2593,23,Homem,Shorts,Roupas,23,Iowa,XG,Pessego,Verao,44,Nao,Retirado na loja,Nao,No,13,Em dinheiro,Trimestralmente
 2594,36,Homem,Calcas,Roupas,36,Colorado,P,Indigo,Outono,47,Nao,Retirado na loja,Nao,No,9,Cartao de Debito,A cada 3 meses
 2595,59,Homem,Saia,Roupas,81,Montana,G,Indigo,Outono,36,Nao,Free Shipping,Nao,No,25,Cartao de Credito,A cada 3 meses
 2596,29,Homem,Blusa,Roupas,56,Iowa,XG,Marrom,Verao,32,Nao,Free Shipping,Nao,No,3,Cartao de Credito,Quinzenalmente
@@ -2628,20 +2628,20 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2627,50,Homem,Jaqueta,Agasalhos,46,Rhode Island,XG,Prateado,Outono,42,Nao,Expresso,Nao,No,30,Transferencia bancaria,A cada 3 meses
 2628,66,Homem,Shirt,Roupas,26,Missouri,G,Prateado,Outono,36,Nao,Next Day Air,Nao,No,40,PayPal,Trimestralmente
 2629,25,Homem,Moletom,Roupas,51,Wyoming,M,Prateado,Verao,38,Nao,Next Day Air,Nao,No,42,PIX,Quinzenalmente
-2630,61,Homem,Cachecol,Acessorios,44,New Hampshire,M,Peach,Inverno,38,Nao,Free Shipping,Nao,No,25,PIX,Anualmente
+2630,61,Homem,Cachecol,Acessorios,44,New Hampshire,M,Pessego,Inverno,38,Nao,Free Shipping,Nao,No,25,PIX,Anualmente
 2631,29,Homem,Saia,Roupas,82,Maine,P,Rosa,Primavera,42,Nao,Free Shipping,Nao,No,20,Transferencia bancaria,Trimestralmente
 2632,53,Homem,Saia,Roupas,44,Connecticut,P,Violeta,Verao,27,Nao,Expresso,Nao,No,3,PayPal,Semanalmente
 2633,24,Homem,Cachecol,Acessorios,27,Alaska,M,Preto,Outono,50,Nao,Next Day Air,Nao,No,14,PIX,Anualmente
 2634,51,Homem,Oculos de sol,Acessorios,90,Alaska,M,Roxo,Outono,47,Nao,Next Day Air,Nao,No,32,PayPal,Quinzenalmente
 2635,26,Homem,Sandalhas,Calcados,58,North Carolina,P,Preto,Verao,32,Nao,Retirado na loja,Nao,No,20,Em dinheiro,A cada 3 meses
-2636,59,Homem,Moletom,Roupas,80,Colorado,XG,Peach,Primavera,29,Nao,Frete em 2 dias,Nao,No,34,PayPal,Quinzenalmente
+2636,59,Homem,Moletom,Roupas,80,Colorado,XG,Pessego,Primavera,29,Nao,Frete em 2 dias,Nao,No,34,PayPal,Quinzenalmente
 2637,41,Homem,Jaqueta,Agasalhos,40,Utah,P,Magenta,Inverno,42,Nao,Retirado na loja,Nao,No,6,PayPal,Anualmente
 2638,20,Homem,Calcas,Roupas,23,Alabama,M,Magenta,Primavera,37,Nao,Retirado na loja,Nao,No,2,Cartao de Credito,Anualmente
 2639,22,Homem,Shirt,Roupas,34,Hawaii,P,Preto,Primavera,42,Nao,Retirado na loja,Nao,No,35,PayPal,Anualmente
 2640,18,Homem,Blusa,Roupas,35,New Hampshire,XG,Rosa,Inverno,26,Nao,Free Shipping,Nao,No,33,Cartao de Debito,Trimestralmente
 2641,30,Homem,Saia,Roupas,75,Indiana,G,Oliva,Verao,40,Nao,Retirado na loja,Nao,No,45,Cartao de Debito,Quinzenalmente
 2642,25,Homem,Oculos de sol,Acessorios,60,Vermont,XG,Oliva,Inverno,27,Nao,Next Day Air,Nao,No,20,Cartao de Debito,A cada 3 meses
-2643,39,Homem,Cinto,Acessorios,87,Iowa,G,Peach,Verao,40,Nao,Retirado na loja,Nao,No,48,Cartao de Debito,Anualmente
+2643,39,Homem,Cinto,Acessorios,87,Iowa,G,Pessego,Verao,40,Nao,Retirado na loja,Nao,No,48,Cartao de Debito,Anualmente
 2644,49,Homem,Gloves,Acessorios,41,Maryland,P,Prateado,Primavera,29,Nao,Next Day Air,Nao,No,37,Cartao de Credito,Mensalmente
 2645,25,Homem,Calcas,Roupas,83,New Mexico,M,Turquesa,Primavera,33,Nao,Standard,Nao,No,4,PayPal,A cada 3 meses
 2646,23,Homem,Cachecol,Acessorios,81,Louisiana,G,Oliva,Primavera,40,Nao,Retirado na loja,Nao,No,24,Transferencia bancaria,Quinzenalmente
@@ -2674,7 +2674,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2673,56,Mulher,Botas,Calcados,28,West Virginia,M,Marrom,Primavera,29,Nao,Standard,Nao,No,13,Cartao de Debito,Anualmente
 2674,67,Mulher,Moletom,Roupas,21,Nevada,M,Oliva,Verao,26,Nao,Frete em 2 dias,Nao,No,4,Em dinheiro,Mensalmente
 2675,40,Mulher,Chapeu,Acessorios,41,Florida,P,Carvao,Outono,33,Nao,Expresso,Nao,No,15,Cartao de Debito,A cada 3 meses
-2676,24,Mulher,Shorts,Roupas,38,Virginia,M,Peach,Inverno,34,Nao,Free Shipping,Nao,No,38,Em dinheiro,Quinzenalmente
+2676,24,Mulher,Shorts,Roupas,38,Virginia,M,Pessego,Inverno,34,Nao,Free Shipping,Nao,No,38,Em dinheiro,Quinzenalmente
 2677,43,Mulher,Mochila,Acessorios,77,Kentucky,M,Marrom,Primavera,36,Nao,Free Shipping,Nao,No,3,PIX,Quinzenalmente
 2678,45,Mulher,Shorts,Roupas,43,Connecticut,G,Oliva,Primavera,38,Nao,Next Day Air,Nao,No,6,Cartao de Debito,A cada 3 meses
 2679,33,Mulher,Cinto,Acessorios,91,Montana,M,Magenta,Primavera,34,Nao,Frete em 2 dias,Nao,No,34,Em dinheiro,Quinzenalmente
@@ -2717,9 +2717,9 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2716,25,Mulher,Tenis,Calcados,92,Mississippi,XG,Rosa,Inverno,41,Nao,Expresso,Nao,No,29,Cartao de Debito,Quinzenalmente
 2717,47,Mulher,Sapatos,Calcados,40,Colorado,G,Preto,Primavera,27,Nao,Retirado na loja,Nao,No,21,Cartao de Debito,Semanalmente
 2718,18,Mulher,Oculos de sol,Acessorios,62,Nebraska,XG,Bege,Inverno,43,Nao,Free Shipping,Nao,No,19,Cartao de Debito,A cada 3 meses
-2719,22,Mulher,Shorts,Roupas,90,Virginia,M,Peach,Inverno,49,Nao,Next Day Air,Nao,No,10,Cartao de Credito,Quinzenalmente
-2720,69,Mulher,Moletom,Roupas,82,Louisiana,P,Peach,Outono,42,Nao,Free Shipping,Nao,No,4,PIX,Mensalmente
-2721,55,Mulher,Cachecol,Acessorios,52,Maryland,M,Peach,Primavera,28,Nao,Retirado na loja,Nao,No,45,Cartao de Debito,Trimestralmente
+2719,22,Mulher,Shorts,Roupas,90,Virginia,M,Pessego,Inverno,49,Nao,Next Day Air,Nao,No,10,Cartao de Credito,Quinzenalmente
+2720,69,Mulher,Moletom,Roupas,82,Louisiana,P,Pessego,Outono,42,Nao,Free Shipping,Nao,No,4,PIX,Mensalmente
+2721,55,Mulher,Cachecol,Acessorios,52,Maryland,M,Pessego,Primavera,28,Nao,Retirado na loja,Nao,No,45,Cartao de Debito,Trimestralmente
 2722,19,Mulher,Sandalhas,Calcados,70,Minnesota,P,Verde-azulado,Primavera,49,Nao,Free Shipping,Nao,No,17,Em dinheiro,Quinzenalmente
 2723,23,Mulher,Chapeu,Acessorios,83,Maine,M,Verde,Primavera,28,Nao,Frete em 2 dias,Nao,No,22,PayPal,Quinzenalmente
 2724,54,Mulher,Sapatos,Calcados,49,Texas,XG,Marrom,Verao,29,Nao,Retirado na loja,Nao,No,3,Transferencia bancaria,A cada 3 meses
@@ -2751,7 +2751,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2750,64,Mulher,Jaqueta,Agasalhos,53,Vermont,M,Ciano,Primavera,34,Nao,Standard,Nao,No,15,PIX,Anualmente
 2751,51,Mulher,Sandalhas,Calcados,66,Alaska,G,Rosa,Primavera,27,Nao,Frete em 2 dias,Nao,No,26,Em dinheiro,A cada 3 meses
 2752,27,Mulher,Vestido,Roupas,52,Minnesota,P,Indigo,Outono,31,Nao,Free Shipping,Nao,No,50,PIX,Mensalmente
-2753,48,Mulher,Sueter,Roupas,64,Colorado,P,Peach,Inverno,40,Nao,Free Shipping,Nao,No,30,Em dinheiro,Quinzenalmente
+2753,48,Mulher,Sueter,Roupas,64,Colorado,P,Pessego,Inverno,40,Nao,Free Shipping,Nao,No,30,Em dinheiro,Quinzenalmente
 2754,69,Mulher,Gloves,Acessorios,59,Rhode Island,M,Bege,Primavera,36,Nao,Next Day Air,Nao,No,48,Transferencia bancaria,Trimestralmente
 2755,59,Mulher,Oculos de sol,Acessorios,61,New Jersey,G,Gold,Verao,36,Nao,Free Shipping,Nao,No,21,PayPal,Quinzenalmente
 2756,59,Mulher,Cinto,Acessorios,97,Nevada,M,Indigo,Inverno,33,Nao,Retirado na loja,Nao,No,18,PIX,Anualmente
@@ -2897,7 +2897,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2896,56,Mulher,Moletom,Roupas,86,Montana,G,Verde,Verao,46,Nao,Standard,Nao,No,29,Cartao de Debito,Mensalmente
 2897,30,Mulher,Blusa,Roupas,91,Delaware,M,Prateado,Verao,33,Nao,Free Shipping,Nao,No,2,Cartao de Credito,A cada 3 meses
 2898,43,Mulher,Jaqueta,Agasalhos,59,Montana,G,Violeta,Outono,25,Nao,Free Shipping,Nao,No,2,Cartao de Credito,Quinzenalmente
-2899,23,Mulher,Tenis,Calcados,33,New Jersey,XG,Peach,Verao,46,Nao,Expresso,Nao,No,29,Cartao de Credito,Anualmente
+2899,23,Mulher,Tenis,Calcados,33,New Jersey,XG,Pessego,Verao,46,Nao,Expresso,Nao,No,29,Cartao de Credito,Anualmente
 2900,50,Mulher,Botas,Calcados,64,Nebraska,M,Gold,Primavera,42,Nao,Frete em 2 dias,Nao,No,22,PayPal,Quinzenalmente
 2901,41,Mulher,Blusa,Roupas,67,Maryland,XG,Violeta,Inverno,40,Nao,Standard,Nao,No,23,Transferencia bancaria,Quinzenalmente
 2902,41,Mulher,Blusa,Roupas,43,Alabama,G,Oliva,Inverno,26,Nao,Free Shipping,Nao,No,46,Cartao de Credito,Trimestralmente
@@ -2946,12 +2946,12 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2945,50,Mulher,Tenis,Calcados,95,New York,XG,Ciano,Verao,39,Nao,Free Shipping,Nao,No,4,Em dinheiro,A cada 3 meses
 2946,32,Mulher,Cinto,Acessorios,49,Delaware,M,Carvao,Verao,48,Nao,Free Shipping,Nao,No,1,PIX,A cada 3 meses
 2947,38,Mulher,Calcas,Roupas,77,Hawaii,G,Roxo,Primavera,28,Nao,Free Shipping,Nao,No,29,Cartao de Credito,Trimestralmente
-2948,52,Mulher,Joias,Acessorios,63,Nebraska,G,Peach,Primavera,44,Nao,Standard,Nao,No,50,PIX,Anualmente
+2948,52,Mulher,Joias,Acessorios,63,Nebraska,G,Pessego,Primavera,44,Nao,Standard,Nao,No,50,PIX,Anualmente
 2949,61,Mulher,Calcas,Roupas,83,Vermont,M,Violeta,Inverno,31,Nao,Standard,Nao,No,38,Cartao de Credito,Quinzenalmente
-2950,25,Mulher,Joias,Acessorios,93,Iowa,M,Peach,Primavera,38,Nao,Retirado na loja,Nao,No,15,Cartao de Credito,Anualmente
+2950,25,Mulher,Joias,Acessorios,93,Iowa,M,Pessego,Primavera,38,Nao,Retirado na loja,Nao,No,15,Cartao de Credito,Anualmente
 2951,22,Mulher,Jeans,Roupas,91,Iowa,P,Marrom,Inverno,41,Nao,Frete em 2 dias,Nao,No,44,Transferencia bancaria,A cada 3 meses
 2952,47,Mulher,Cachecol,Acessorios,99,Arkansas,G,Marrom,Outono,46,Nao,Free Shipping,Nao,No,14,Cartao de Credito,Semanalmente
-2953,50,Mulher,Cinto,Acessorios,24,Alabama,M,Peach,Primavera,49,Nao,Next Day Air,Nao,No,5,PayPal,Mensalmente
+2953,50,Mulher,Cinto,Acessorios,24,Alabama,M,Pessego,Primavera,49,Nao,Next Day Air,Nao,No,5,PayPal,Mensalmente
 2954,45,Mulher,Vestido,Roupas,82,Maryland,M,Prateado,Verao,48,Nao,Next Day Air,Nao,No,11,PayPal,Anualmente
 2955,33,Mulher,T-shirt,Roupas,28,South Dakota,M,Indigo,Inverno,39,Nao,Expresso,Nao,No,15,PayPal,Anualmente
 2956,42,Mulher,Botas,Calcados,67,Vermont,M,Prateado,Inverno,26,Nao,Free Shipping,Nao,No,46,PIX,Anualmente
@@ -2973,7 +2973,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 2972,30,Mulher,Bolsa,Acessorios,100,Utah,G,Amarelo,Outono,39,Nao,Next Day Air,Nao,No,9,Cartao de Credito,A cada 3 meses
 2973,31,Mulher,Jaqueta,Agasalhos,39,New York,P,Indigo,Outono,42,Nao,Free Shipping,Nao,No,11,PIX,A cada 3 meses
 2974,25,Mulher,Botas,Calcados,65,Indiana,M,Azul,Verao,27,Nao,Retirado na loja,Nao,No,3,PayPal,Quinzenalmente
-2975,57,Mulher,Tenis,Calcados,99,Tennessee,XG,Peach,Verao,41,Nao,Retirado na loja,Nao,No,34,Em dinheiro,Semanalmente
+2975,57,Mulher,Tenis,Calcados,99,Tennessee,XG,Pessego,Verao,41,Nao,Retirado na loja,Nao,No,34,Em dinheiro,Semanalmente
 2976,61,Mulher,Cachecol,Acessorios,68,Georgia,XG,Lavanda,Inverno,45,Nao,Frete em 2 dias,Nao,No,48,PayPal,A cada 3 meses
 2977,30,Mulher,Casaco,Agasalhos,97,Nebraska,M,Prateado,Verao,28,Nao,Expresso,Nao,No,28,Cartao de Debito,Quinzenalmente
 2978,38,Mulher,Shorts,Roupas,47,Washington,G,Gold,Inverno,34,Nao,Standard,Nao,No,20,PayPal,Anualmente
@@ -3012,7 +3012,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3011,70,Mulher,Cinto,Acessorios,45,Ohio,M,Violeta,Inverno,33,Nao,Free Shipping,Nao,No,15,Transferencia bancaria,Anualmente
 3012,20,Mulher,Cinto,Acessorios,70,Nevada,P,Marrom,Verao,30,Nao,Next Day Air,Nao,No,18,Transferencia bancaria,A cada 3 meses
 3013,42,Mulher,Cinto,Acessorios,65,Idaho,M,Verde-azulado,Outono,35,Nao,Standard,Nao,No,16,Cartao de Credito,Anualmente
-3014,41,Mulher,Saia,Roupas,55,Arizona,G,Peach,Verao,42,Nao,Retirado na loja,Nao,No,13,Cartao de Debito,Mensalmente
+3014,41,Mulher,Saia,Roupas,55,Arizona,G,Pessego,Verao,42,Nao,Retirado na loja,Nao,No,13,Cartao de Debito,Mensalmente
 3015,24,Mulher,T-shirt,Roupas,65,Utah,M,Marrom,Primavera,45,Nao,Expresso,Nao,No,38,Cartao de Credito,A cada 3 meses
 3016,37,Mulher,Cachecol,Acessorios,21,Wyoming,XG,Lavanda,Primavera,28,Nao,Expresso,Nao,No,27,PIX,Quinzenalmente
 3017,30,Mulher,Blusa,Roupas,26,Indiana,G,Lavanda,Verao,49,Nao,Retirado na loja,Nao,No,31,Cartao de Credito,Trimestralmente
@@ -3026,14 +3026,14 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3025,67,Mulher,Blusa,Roupas,82,Idaho,P,Branco,Primavera,40,Nao,Free Shipping,Nao,No,47,Cartao de Credito,A cada 3 meses
 3026,40,Mulher,Sapatos,Calcados,60,Montana,XG,Verde,Verao,34,Nao,Retirado na loja,Nao,No,7,Cartao de Debito,Mensalmente
 3027,55,Mulher,Shirt,Roupas,70,Tennessee,G,Magenta,Outono,25,Nao,Free Shipping,Nao,No,6,PIX,Anualmente
-3028,52,Mulher,Moletom,Roupas,26,West Virginia,XG,Peach,Inverno,28,Nao,Frete em 2 dias,Nao,No,47,Transferencia bancaria,Trimestralmente
+3028,52,Mulher,Moletom,Roupas,26,West Virginia,XG,Pessego,Inverno,28,Nao,Frete em 2 dias,Nao,No,47,Transferencia bancaria,Trimestralmente
 3029,62,Mulher,Vestido,Roupas,100,California,G,Carvao,Verao,30,Nao,Free Shipping,Nao,No,7,PayPal,A cada 3 meses
 3030,64,Mulher,Vestido,Roupas,82,Georgia,M,Gold,Verao,31,Nao,Free Shipping,Nao,No,1,Transferencia bancaria,Trimestralmente
 3031,43,Mulher,Tenis,Calcados,24,Maryland,XG,Roxo,Primavera,26,Nao,Frete em 2 dias,Nao,No,23,PayPal,Semanalmente
 3032,61,Mulher,Blusa,Roupas,74,Idaho,G,Verde-azulado,Verao,49,Nao,Frete em 2 dias,Nao,No,30,PayPal,Mensalmente
 3033,26,Mulher,Mochila,Acessorios,58,California,XG,Verde,Verao,35,Nao,Next Day Air,Nao,No,24,Cartao de Debito,Trimestralmente
 3034,22,Mulher,Sueter,Roupas,56,Alabama,G,Laranja,Primavera,26,Nao,Retirado na loja,Nao,No,9,PayPal,Semanalmente
-3035,51,Mulher,Botas,Calcados,37,Utah,G,Peach,Primavera,35,Nao,Frete em 2 dias,Nao,No,25,PayPal,Trimestralmente
+3035,51,Mulher,Botas,Calcados,37,Utah,G,Pessego,Primavera,35,Nao,Frete em 2 dias,Nao,No,25,PayPal,Trimestralmente
 3036,69,Mulher,Bolsa,Acessorios,64,Kentucky,M,Gold,Primavera,45,Nao,Free Shipping,Nao,No,18,Transferencia bancaria,Quinzenalmente
 3037,50,Mulher,Moletom,Roupas,58,Vermont,P,Violeta,Primavera,43,Nao,Next Day Air,Nao,No,7,PayPal,Quinzenalmente
 3038,51,Mulher,Cinto,Acessorios,44,Iowa,G,Carvao,Verao,48,Nao,Next Day Air,Nao,No,2,Cartao de Debito,Anualmente
@@ -3042,7 +3042,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3041,18,Mulher,Bolsa,Acessorios,32,Nebraska,M,Gold,Outono,41,Nao,Expresso,Nao,No,10,PayPal,Quinzenalmente
 3042,48,Mulher,Bolsa,Acessorios,79,Rhode Island,M,Laranja,Inverno,40,Nao,Expresso,Nao,No,27,Cartao de Credito,Mensalmente
 3043,53,Mulher,Casaco,Agasalhos,27,South Dakota,G,Turquesa,Inverno,29,Nao,Next Day Air,Nao,No,14,Cartao de Credito,A cada 3 meses
-3044,45,Mulher,Cinto,Acessorios,98,Illinois,P,Peach,Outono,26,Nao,Retirado na loja,Nao,No,17,Cartao de Debito,Mensalmente
+3044,45,Mulher,Cinto,Acessorios,98,Illinois,P,Pessego,Outono,26,Nao,Retirado na loja,Nao,No,17,Cartao de Debito,Mensalmente
 3045,21,Mulher,Botas,Calcados,67,North Carolina,M,Magenta,Inverno,27,Nao,Free Shipping,Nao,No,10,PayPal,Trimestralmente
 3046,42,Mulher,Socks,Roupas,37,Florida,G,Preto,Inverno,46,Nao,Frete em 2 dias,Nao,No,4,Cartao de Debito,Quinzenalmente
 3047,60,Mulher,Sapatos,Calcados,49,Pennsylvania,M,Branco,Primavera,32,Nao,Retirado na loja,Nao,No,25,Transferencia bancaria,A cada 3 meses
@@ -3071,7 +3071,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3070,62,Mulher,Jeans,Roupas,73,Delaware,G,Magenta,Primavera,46,Nao,Expresso,Nao,No,17,PIX,Trimestralmente
 3071,52,Mulher,Sapatos,Calcados,26,Alabama,XG,Vermelho,Outono,26,Nao,Free Shipping,Nao,No,43,Cartao de Debito,Quinzenalmente
 3072,23,Mulher,Sueter,Roupas,41,New Hampshire,G,Turquesa,Primavera,34,Nao,Next Day Air,Nao,No,6,Cartao de Debito,Mensalmente
-3073,26,Mulher,Joias,Acessorios,98,New York,G,Peach,Primavera,31,Nao,Standard,Nao,No,46,PIX,Trimestralmente
+3073,26,Mulher,Joias,Acessorios,98,New York,G,Pessego,Primavera,31,Nao,Standard,Nao,No,46,PIX,Trimestralmente
 3074,58,Mulher,Shirt,Roupas,63,Oregon,G,Branco,Inverno,36,Nao,Free Shipping,Nao,No,7,PayPal,Quinzenalmente
 3075,26,Mulher,Botas,Calcados,55,Massachusetts,G,Marrom,Inverno,42,Nao,Next Day Air,Nao,No,34,Transferencia bancaria,Quinzenalmente
 3076,54,Mulher,Shorts,Roupas,90,Utah,XG,Bege,Inverno,36,Nao,Standard,Nao,No,21,Cartao de Credito,A cada 3 meses
@@ -3089,7 +3089,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3088,62,Mulher,Shirt,Roupas,84,North Carolina,M,Carvao,Primavera,31,Nao,Free Shipping,Nao,No,29,Em dinheiro,Mensalmente
 3089,34,Mulher,Vestido,Roupas,64,Arkansas,M,Verde-azulado,Primavera,33,Nao,Retirado na loja,Nao,No,35,PayPal,Trimestralmente
 3090,50,Mulher,Sandalhas,Calcados,21,North Carolina,G,Azul,Outono,46,Nao,Free Shipping,Nao,No,23,Cartao de Debito,Quinzenalmente
-3091,29,Mulher,Shirt,Roupas,36,Texas,M,Peach,Verao,49,Nao,Retirado na loja,Nao,No,15,PayPal,Trimestralmente
+3091,29,Mulher,Shirt,Roupas,36,Texas,M,Pessego,Verao,49,Nao,Retirado na loja,Nao,No,15,PayPal,Trimestralmente
 3092,68,Mulher,Vestido,Roupas,81,Nevada,G,Laranja,Inverno,34,Nao,Frete em 2 dias,Nao,No,46,Transferencia bancaria,Anualmente
 3093,52,Mulher,Oculos de sol,Acessorios,54,Utah,G,Prateado,Outono,35,Nao,Next Day Air,Nao,No,14,Em dinheiro,Quinzenalmente
 3094,29,Mulher,Socks,Roupas,63,Pennsylvania,G,Vermelho,Verao,48,Nao,Retirado na loja,Nao,No,17,Transferencia bancaria,A cada 3 meses
@@ -3102,7 +3102,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3101,50,Mulher,Chapeu,Acessorios,85,Vermont,G,Roxo,Inverno,39,Nao,Expresso,Nao,No,3,PIX,Semanalmente
 3102,32,Mulher,Joias,Acessorios,82,Idaho,P,Marrom,Verao,27,Nao,Expresso,Nao,No,9,PayPal,Quinzenalmente
 3103,51,Mulher,Jaqueta,Agasalhos,85,South Dakota,M,Verde,Verao,43,Nao,Standard,Nao,No,29,Transferencia bancaria,Quinzenalmente
-3104,27,Mulher,Shirt,Roupas,37,Illinois,P,Peach,Inverno,30,Nao,Frete em 2 dias,Nao,No,42,PayPal,Semanalmente
+3104,27,Mulher,Shirt,Roupas,37,Illinois,P,Pessego,Inverno,30,Nao,Frete em 2 dias,Nao,No,42,PayPal,Semanalmente
 3105,43,Mulher,Calcas,Roupas,56,Georgia,P,Turquesa,Verao,50,Nao,Frete em 2 dias,Nao,No,41,PayPal,Quinzenalmente
 3106,48,Mulher,Saia,Roupas,33,Oregon,M,Oliva,Outono,27,Nao,Expresso,Nao,No,17,Cartao de Debito,Mensalmente
 3107,62,Mulher,Sandalhas,Calcados,57,Alabama,M,Amarelo,Inverno,47,Nao,Next Day Air,Nao,No,20,PIX,Anualmente
@@ -3123,14 +3123,14 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3122,63,Mulher,Moletom,Roupas,38,Louisiana,G,Preto,Outono,26,Nao,Standard,Nao,No,16,Cartao de Credito,Semanalmente
 3123,23,Mulher,Socks,Roupas,45,Georgia,M,Rosa,Outono,30,Nao,Expresso,Nao,No,34,Cartao de Debito,Quinzenalmente
 3124,57,Mulher,Bolsa,Acessorios,77,Iowa,XG,Vermelho,Outono,33,Nao,Next Day Air,Nao,No,40,PayPal,Quinzenalmente
-3125,57,Mulher,Joias,Acessorios,51,California,M,Peach,Verao,34,Nao,Standard,Nao,No,4,PIX,A cada 3 meses
+3125,57,Mulher,Joias,Acessorios,51,California,M,Pessego,Verao,34,Nao,Standard,Nao,No,4,PIX,A cada 3 meses
 3126,33,Mulher,Casaco,Agasalhos,26,Oregon,G,Lavanda,Primavera,40,Nao,Standard,Nao,No,3,PIX,Trimestralmente
 3127,57,Mulher,Oculos de sol,Acessorios,76,Maine,G,Lavanda,Inverno,26,Nao,Retirado na loja,Nao,No,28,PayPal,Quinzenalmente
 3128,55,Mulher,Gloves,Acessorios,94,Louisiana,M,Bege,Inverno,34,Nao,Free Shipping,Nao,No,43,Cartao de Credito,A cada 3 meses
 3129,65,Mulher,Jaqueta,Agasalhos,32,Arkansas,P,Indigo,Outono,44,Nao,Standard,Nao,No,20,PayPal,Anualmente
 3130,60,Mulher,Sandalhas,Calcados,20,Maryland,P,Ciano,Verao,47,Nao,Expresso,Nao,No,40,PayPal,A cada 3 meses
 3131,52,Mulher,Calcas,Roupas,20,Vermont,M,Amarelo,Verao,45,Nao,Retirado na loja,Nao,No,34,PayPal,A cada 3 meses
-3132,34,Mulher,Jaqueta,Agasalhos,59,North Dakota,M,Peach,Outono,29,Nao,Retirado na loja,Nao,No,11,Em dinheiro,A cada 3 meses
+3132,34,Mulher,Jaqueta,Agasalhos,59,North Dakota,M,Pessego,Outono,29,Nao,Retirado na loja,Nao,No,11,Em dinheiro,A cada 3 meses
 3133,33,Mulher,Sueter,Roupas,97,Michigan,M,Amarelo,Verao,42,Nao,Expresso,Nao,No,26,Em dinheiro,Trimestralmente
 3134,58,Mulher,T-shirt,Roupas,68,Arkansas,M,Laranja,Primavera,41,Nao,Next Day Air,Nao,No,29,Cartao de Credito,Quinzenalmente
 3135,35,Mulher,Botas,Calcados,66,Kentucky,G,Cinza,Primavera,44,Nao,Retirado na loja,Nao,No,47,PIX,Semanalmente
@@ -3139,8 +3139,8 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3138,34,Mulher,Casaco,Agasalhos,44,Louisiana,M,Turquesa,Primavera,27,Nao,Frete em 2 dias,Nao,No,14,Em dinheiro,Mensalmente
 3139,47,Mulher,Blusa,Roupas,95,Kentucky,G,Cinza,Outono,46,Nao,Next Day Air,Nao,No,40,PIX,A cada 3 meses
 3140,35,Mulher,Oculos de sol,Acessorios,85,Georgia,M,Oliva,Inverno,44,Nao,Next Day Air,Nao,No,4,PIX,Semanalmente
-3141,34,Mulher,Gloves,Acessorios,44,Alaska,XG,Peach,Verao,46,Nao,Free Shipping,Nao,No,37,Cartao de Debito,Semanalmente
-3142,36,Mulher,Oculos de sol,Acessorios,30,Mississippi,P,Peach,Inverno,49,Nao,Expresso,Nao,No,47,PIX,Quinzenalmente
+3141,34,Mulher,Gloves,Acessorios,44,Alaska,XG,Pessego,Verao,46,Nao,Free Shipping,Nao,No,37,Cartao de Debito,Semanalmente
+3142,36,Mulher,Oculos de sol,Acessorios,30,Mississippi,P,Pessego,Inverno,49,Nao,Expresso,Nao,No,47,PIX,Quinzenalmente
 3143,23,Mulher,Tenis,Calcados,21,Kansas,G,Magenta,Inverno,40,Nao,Frete em 2 dias,Nao,No,1,PayPal,Trimestralmente
 3144,68,Mulher,Moletom,Roupas,22,Arizona,M,Roxo,Verao,29,Nao,Retirado na loja,Nao,No,26,Cartao de Debito,Trimestralmente
 3145,23,Mulher,Botas,Calcados,70,Maine,G,Bege,Primavera,26,Nao,Free Shipping,Nao,No,12,Transferencia bancaria,Trimestralmente
@@ -3149,7 +3149,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3148,45,Mulher,Sueter,Roupas,99,North Dakota,M,Rosa,Inverno,43,Nao,Expresso,Nao,No,21,Em dinheiro,Semanalmente
 3149,37,Mulher,Shorts,Roupas,35,West Virginia,G,Roxo,Outono,43,Nao,Free Shipping,Nao,No,15,Cartao de Credito,Semanalmente
 3150,18,Mulher,Cinto,Acessorios,40,North Carolina,M,Lavanda,Inverno,46,Nao,Free Shipping,Nao,No,9,Cartao de Debito,Anualmente
-3151,55,Mulher,Blusa,Roupas,25,Georgia,M,Peach,Primavera,26,Nao,Expresso,Nao,No,7,PIX,Quinzenalmente
+3151,55,Mulher,Blusa,Roupas,25,Georgia,M,Pessego,Primavera,26,Nao,Expresso,Nao,No,7,PIX,Quinzenalmente
 3152,52,Mulher,T-shirt,Roupas,64,New Mexico,G,Laranja,Outono,31,Nao,Frete em 2 dias,Nao,No,47,Em dinheiro,Trimestralmente
 3153,49,Mulher,Cinto,Acessorios,90,North Carolina,M,Vermelho,Outono,31,Nao,Retirado na loja,Nao,No,17,PIX,Mensalmente
 3154,56,Mulher,Socks,Roupas,88,Alabama,G,Vermelho,Outono,31,Nao,Next Day Air,Nao,No,46,Transferencia bancaria,Quinzenalmente
@@ -3197,7 +3197,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3196,68,Mulher,Oculos de sol,Acessorios,58,Missouri,P,Vermelho,Primavera,49,Nao,Next Day Air,Nao,No,36,Cartao de Debito,Trimestralmente
 3197,24,Mulher,Cinto,Acessorios,59,Wisconsin,G,Marrom,Inverno,28,Nao,Expresso,Nao,No,21,Cartao de Debito,Quinzenalmente
 3198,27,Mulher,Sueter,Roupas,71,Maine,M,Verde-azulado,Primavera,32,Nao,Free Shipping,Nao,No,29,Transferencia bancaria,A cada 3 meses
-3199,61,Mulher,Gloves,Acessorios,94,Pennsylvania,G,Peach,Inverno,28,Nao,Free Shipping,Nao,No,39,Em dinheiro,Semanalmente
+3199,61,Mulher,Gloves,Acessorios,94,Pennsylvania,G,Pessego,Inverno,28,Nao,Free Shipping,Nao,No,39,Em dinheiro,Semanalmente
 3200,59,Mulher,Bolsa,Acessorios,40,Maine,XG,Rosa,Inverno,42,Nao,Expresso,Nao,No,16,PayPal,Mensalmente
 3201,67,Mulher,Socks,Roupas,24,Missouri,G,Preto,Primavera,48,Nao,Free Shipping,Nao,No,32,PayPal,Mensalmente
 3202,46,Mulher,Calcas,Roupas,38,Vermont,P,Indigo,Outono,28,Nao,Frete em 2 dias,Nao,No,34,Cartao de Credito,Mensalmente
@@ -3208,7 +3208,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3207,36,Mulher,Botas,Calcados,52,California,M,Marrom,Inverno,30,Nao,Free Shipping,Nao,No,49,Cartao de Debito,Mensalmente
 3208,67,Mulher,Socks,Roupas,29,Arizona,XG,Bege,Verao,27,Nao,Next Day Air,Nao,No,14,Cartao de Debito,Anualmente
 3209,61,Mulher,Joias,Acessorios,30,Indiana,G,Indigo,Inverno,33,Nao,Frete em 2 dias,Nao,No,42,PayPal,Semanalmente
-3210,64,Mulher,Sapatos,Calcados,31,Arkansas,G,Peach,Outono,43,Nao,Standard,Nao,No,39,Transferencia bancaria,Anualmente
+3210,64,Mulher,Sapatos,Calcados,31,Arkansas,G,Pessego,Outono,43,Nao,Standard,Nao,No,39,Transferencia bancaria,Anualmente
 3211,30,Mulher,Socks,Roupas,67,Nevada,M,Magenta,Verao,29,Nao,Expresso,Nao,No,43,Cartao de Debito,Quinzenalmente
 3212,53,Mulher,Calcas,Roupas,65,Rhode Island,G,Turquesa,Inverno,49,Nao,Standard,Nao,No,12,Cartao de Credito,Mensalmente
 3213,27,Mulher,Tenis,Calcados,22,Wyoming,M,Indigo,Inverno,36,Nao,Frete em 2 dias,Nao,No,21,Transferencia bancaria,Semanalmente
@@ -3354,7 +3354,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3353,55,Mulher,Cinto,Acessorios,96,Washington,M,Verde-azulado,Verao,29,Nao,Next Day Air,Nao,No,7,Cartao de Credito,Quinzenalmente
 3354,31,Mulher,Vestido,Roupas,66,Ohio,G,Verde-azulado,Outono,46,Nao,Free Shipping,Nao,No,19,Cartao de Debito,A cada 3 meses
 3355,42,Mulher,Saia,Roupas,45,Maryland,M,Laranja,Outono,28,Nao,Next Day Air,Nao,No,15,Em dinheiro,Semanalmente
-3356,40,Mulher,Blusa,Roupas,28,Delaware,M,Peach,Primavera,26,Nao,Retirado na loja,Nao,No,3,Cartao de Debito,Quinzenalmente
+3356,40,Mulher,Blusa,Roupas,28,Delaware,M,Pessego,Primavera,26,Nao,Retirado na loja,Nao,No,3,Cartao de Debito,Quinzenalmente
 3357,39,Mulher,Jeans,Roupas,48,Tennessee,M,Prateado,Verao,35,Nao,Retirado na loja,Nao,No,13,Cartao de Credito,Quinzenalmente
 3358,41,Mulher,Moletom,Roupas,67,Arkansas,M,Rosa,Inverno,35,Nao,Free Shipping,Nao,No,37,PIX,Mensalmente
 3359,56,Mulher,T-shirt,Roupas,59,Tennessee,M,Magenta,Outono,34,Nao,Frete em 2 dias,Nao,No,26,Cartao de Debito,Anualmente
@@ -3363,7 +3363,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3362,47,Mulher,Sapatos,Calcados,26,Florida,M,Prateado,Primavera,41,Nao,Free Shipping,Nao,No,47,Cartao de Credito,Quinzenalmente
 3363,50,Mulher,Bolsa,Acessorios,61,Tennessee,M,Cinza,Verao,30,Nao,Next Day Air,Nao,No,48,Cartao de Credito,Quinzenalmente
 3364,58,Mulher,Sueter,Roupas,23,California,M,Turquesa,Inverno,30,Nao,Next Day Air,Nao,No,46,PayPal,Quinzenalmente
-3365,50,Mulher,Cachecol,Acessorios,33,Oregon,M,Peach,Outono,32,Nao,Standard,Nao,No,7,Em dinheiro,Mensalmente
+3365,50,Mulher,Cachecol,Acessorios,33,Oregon,M,Pessego,Outono,32,Nao,Standard,Nao,No,7,Em dinheiro,Mensalmente
 3366,43,Mulher,Saia,Roupas,58,Tennessee,G,Verde-azulado,Outono,39,Nao,Expresso,Nao,No,45,Transferencia bancaria,A cada 3 meses
 3367,38,Mulher,Gloves,Acessorios,65,North Carolina,M,Vermelho,Primavera,36,Nao,Frete em 2 dias,Nao,No,47,PIX,Trimestralmente
 3368,44,Mulher,T-shirt,Roupas,48,Tennessee,M,Azul,Verao,31,Nao,Retirado na loja,Nao,No,6,Cartao de Credito,Quinzenalmente
@@ -3400,7 +3400,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3399,54,Mulher,Jeans,Roupas,60,Montana,G,Rosa,Inverno,38,Nao,Standard,Nao,No,44,Em dinheiro,Quinzenalmente
 3400,40,Mulher,Calcas,Roupas,55,Montana,XG,Amarelo,Inverno,33,Nao,Standard,Nao,No,36,Cartao de Debito,Anualmente
 3401,39,Mulher,Oculos de sol,Acessorios,51,Nevada,M,Lavanda,Outono,48,Nao,Free Shipping,Nao,No,18,Cartao de Debito,Quinzenalmente
-3402,44,Mulher,Mochila,Acessorios,71,Nevada,G,Peach,Inverno,34,Nao,Standard,Nao,No,39,PIX,Semanalmente
+3402,44,Mulher,Mochila,Acessorios,71,Nevada,G,Pessego,Inverno,34,Nao,Standard,Nao,No,39,PIX,Semanalmente
 3403,22,Mulher,Moletom,Roupas,61,Louisiana,M,Preto,Primavera,44,Nao,Frete em 2 dias,Nao,No,11,PIX,A cada 3 meses
 3404,30,Mulher,Botas,Calcados,65,Illinois,M,Oliva,Verao,39,Nao,Standard,Nao,No,1,Cartao de Credito,Quinzenalmente
 3405,69,Mulher,Gloves,Acessorios,34,South Carolina,G,Oliva,Outono,39,Nao,Frete em 2 dias,Nao,No,34,Em dinheiro,Anualmente
@@ -3435,7 +3435,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3434,62,Mulher,Socks,Roupas,93,Alaska,M,Amarelo,Primavera,45,Nao,Free Shipping,Nao,No,28,Em dinheiro,Anualmente
 3435,31,Mulher,Calcas,Roupas,72,Ohio,P,Laranja,Verao,33,Nao,Frete em 2 dias,Nao,No,6,PayPal,Quinzenalmente
 3436,68,Mulher,Socks,Roupas,91,Montana,M,Bege,Verao,27,Nao,Frete em 2 dias,Nao,No,50,Cartao de Debito,Quinzenalmente
-3437,57,Mulher,Cinto,Acessorios,83,Nebraska,G,Peach,Inverno,28,Nao,Frete em 2 dias,Nao,No,41,PIX,Mensalmente
+3437,57,Mulher,Cinto,Acessorios,83,Nebraska,G,Pessego,Inverno,28,Nao,Frete em 2 dias,Nao,No,41,PIX,Mensalmente
 3438,22,Mulher,Jaqueta,Agasalhos,62,Oklahoma,P,Verde,Inverno,35,Nao,Frete em 2 dias,Nao,No,50,PIX,Anualmente
 3439,26,Mulher,Shirt,Roupas,71,Kentucky,M,Violeta,Outono,30,Nao,Retirado na loja,Nao,No,33,Cartao de Debito,Mensalmente
 3440,43,Mulher,Gloves,Acessorios,93,Idaho,M,Cinza,Verao,45,Nao,Expresso,Nao,No,25,Em dinheiro,Trimestralmente
@@ -3463,7 +3463,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3462,51,Mulher,Sapatos,Calcados,23,Wyoming,P,Marrom,Primavera,44,Nao,Standard,Nao,No,47,PIX,Trimestralmente
 3463,44,Mulher,Jeans,Roupas,73,Michigan,G,Oliva,Primavera,45,Nao,Standard,Nao,No,34,Transferencia bancaria,A cada 3 meses
 3464,27,Mulher,Joias,Acessorios,27,Maine,M,Amarelo,Outono,28,Nao,Frete em 2 dias,Nao,No,45,Cartao de Debito,Quinzenalmente
-3465,36,Mulher,Casaco,Agasalhos,59,Utah,P,Peach,Inverno,27,Nao,Next Day Air,Nao,No,12,Cartao de Debito,Anualmente
+3465,36,Mulher,Casaco,Agasalhos,59,Utah,P,Pessego,Inverno,27,Nao,Next Day Air,Nao,No,12,Cartao de Debito,Anualmente
 3466,19,Mulher,Mochila,Acessorios,53,Iowa,M,Gold,Primavera,34,Nao,Standard,Nao,No,31,Transferencia bancaria,Semanalmente
 3467,49,Mulher,Socks,Roupas,42,Maryland,P,Roxo,Verao,46,Nao,Standard,Nao,No,43,Cartao de Debito,Anualmente
 3468,18,Mulher,Cachecol,Acessorios,45,Texas,M,Carvao,Outono,50,Nao,Next Day Air,Nao,No,5,Transferencia bancaria,Anualmente
@@ -3479,7 +3479,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3478,53,Mulher,Bolsa,Acessorios,85,Kentucky,P,Verde-azulado,Primavera,38,Nao,Retirado na loja,Nao,No,38,PayPal,Quinzenalmente
 3479,36,Mulher,Bolsa,Acessorios,57,Arizona,M,Magenta,Outono,46,Nao,Retirado na loja,Nao,No,42,PayPal,Trimestralmente
 3480,46,Mulher,Sueter,Roupas,56,New York,P,Laranja,Verao,49,Nao,Standard,Nao,No,41,PayPal,Mensalmente
-3481,21,Mulher,Sandalhas,Calcados,79,New Hampshire,G,Peach,Inverno,35,Nao,Free Shipping,Nao,No,45,Em dinheiro,Mensalmente
+3481,21,Mulher,Sandalhas,Calcados,79,New Hampshire,G,Pessego,Inverno,35,Nao,Free Shipping,Nao,No,45,Em dinheiro,Mensalmente
 3482,52,Mulher,Socks,Roupas,67,Ohio,P,Marrom,Verao,34,Nao,Retirado na loja,Nao,No,41,Cartao de Credito,Quinzenalmente
 3483,66,Mulher,Gloves,Acessorios,61,Hawaii,M,Gold,Inverno,39,Nao,Next Day Air,Nao,No,35,PIX,Semanalmente
 3484,19,Mulher,Moletom,Roupas,37,Texas,G,Branco,Inverno,39,Nao,Expresso,Nao,No,21,PIX,A cada 3 meses
@@ -3535,7 +3535,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3534,50,Mulher,Tenis,Calcados,98,Texas,G,Amarelo,Outono,47,Nao,Standard,Nao,No,30,PIX,Quinzenalmente
 3535,65,Mulher,Sapatos,Calcados,83,Delaware,M,Cinza,Outono,32,Nao,Expresso,Nao,No,7,PIX,Semanalmente
 3536,68,Mulher,Shorts,Roupas,51,Mississippi,M,Vermelho,Verao,50,Nao,Expresso,Nao,No,20,Transferencia bancaria,Mensalmente
-3537,55,Mulher,Bolsa,Acessorios,21,Minnesota,G,Peach,Primavera,45,Nao,Expresso,Nao,No,10,PIX,Mensalmente
+3537,55,Mulher,Bolsa,Acessorios,21,Minnesota,G,Pessego,Primavera,45,Nao,Expresso,Nao,No,10,PIX,Mensalmente
 3538,57,Mulher,Bolsa,Acessorios,92,Georgia,M,Cinza,Primavera,35,Nao,Standard,Nao,No,40,PIX,A cada 3 meses
 3539,56,Mulher,Sapatos,Calcados,63,Iowa,P,Branco,Primavera,45,Nao,Retirado na loja,Nao,No,21,PIX,Mensalmente
 3540,29,Mulher,Joias,Acessorios,56,New York,P,Verde,Primavera,32,Nao,Expresso,Nao,No,17,PIX,Quinzenalmente
@@ -3556,7 +3556,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3555,39,Mulher,Vestido,Roupas,55,Louisiana,M,Indigo,Primavera,50,Nao,Free Shipping,Nao,No,5,Transferencia bancaria,Quinzenalmente
 3556,25,Mulher,Blusa,Roupas,23,Delaware,G,Prateado,Primavera,46,Nao,Next Day Air,Nao,No,45,PayPal,Trimestralmente
 3557,70,Mulher,Sueter,Roupas,88,Arizona,M,Marrom,Outono,42,Nao,Expresso,Nao,No,43,Transferencia bancaria,Quinzenalmente
-3558,52,Mulher,Jaqueta,Agasalhos,26,Nevada,M,Peach,Verao,49,Nao,Next Day Air,Nao,No,1,PayPal,A cada 3 meses
+3558,52,Mulher,Jaqueta,Agasalhos,26,Nevada,M,Pessego,Verao,49,Nao,Next Day Air,Nao,No,1,PayPal,A cada 3 meses
 3559,68,Mulher,Mochila,Acessorios,94,Alaska,G,Magenta,Verao,48,Nao,Standard,Nao,No,9,Cartao de Credito,Trimestralmente
 3560,18,Mulher,Shorts,Roupas,25,Utah,M,Bege,Outono,30,Nao,Next Day Air,Nao,No,13,Cartao de Debito,A cada 3 meses
 3561,18,Mulher,Socks,Roupas,96,Kansas,XG,Violeta,Outono,35,Nao,Expresso,Nao,No,5,Em dinheiro,Anualmente
@@ -3598,7 +3598,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3597,28,Mulher,Moletom,Roupas,83,South Carolina,M,Carvao,Primavera,43,Nao,Standard,Nao,No,44,Transferencia bancaria,Quinzenalmente
 3598,29,Mulher,Oculos de sol,Acessorios,71,New Mexico,M,Marrom,Verao,31,Nao,Standard,Nao,No,18,Em dinheiro,Trimestralmente
 3599,23,Mulher,Moletom,Roupas,76,Connecticut,XG,Roxo,Primavera,46,Nao,Retirado na loja,Nao,No,19,Transferencia bancaria,Quinzenalmente
-3600,37,Mulher,Cachecol,Acessorios,34,Kansas,P,Peach,Primavera,46,Nao,Expresso,Nao,No,4,Em dinheiro,Semanalmente
+3600,37,Mulher,Cachecol,Acessorios,34,Kansas,P,Pessego,Primavera,46,Nao,Expresso,Nao,No,4,Em dinheiro,Semanalmente
 3601,67,Mulher,Vestido,Roupas,81,South Carolina,XG,Oliva,Primavera,27,Nao,Free Shipping,Nao,No,25,PayPal,Quinzenalmente
 3602,34,Mulher,T-shirt,Roupas,47,North Carolina,M,Indigo,Verao,30,Nao,Next Day Air,Nao,No,3,Cartao de Debito,Mensalmente
 3603,58,Mulher,Saia,Roupas,36,Wyoming,P,Magenta,Verao,33,Nao,Retirado na loja,Nao,No,40,Transferencia bancaria,Trimestralmente
@@ -3623,14 +3623,14 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3622,38,Mulher,Tenis,Calcados,32,New Jersey,XG,Prateado,Verao,40,Nao,Frete em 2 dias,Nao,No,5,PIX,Quinzenalmente
 3623,46,Mulher,Vestido,Roupas,41,Wisconsin,M,Roxo,Outono,43,Nao,Retirado na loja,Nao,No,12,Transferencia bancaria,Anualmente
 3624,39,Mulher,Joias,Acessorios,89,Arkansas,M,Violeta,Inverno,27,Nao,Frete em 2 dias,Nao,No,4,PIX,Semanalmente
-3625,22,Mulher,Chapeu,Acessorios,82,Texas,XG,Peach,Outono,50,Nao,Retirado na loja,Nao,No,22,PayPal,Quinzenalmente
+3625,22,Mulher,Chapeu,Acessorios,82,Texas,XG,Pessego,Outono,50,Nao,Retirado na loja,Nao,No,22,PayPal,Quinzenalmente
 3626,44,Mulher,Cachecol,Acessorios,99,Illinois,G,Verde,Inverno,44,Nao,Expresso,Nao,No,32,Cartao de Debito,Semanalmente
 3627,69,Mulher,Blusa,Roupas,98,Mississippi,G,Verde-azulado,Outono,35,Nao,Expresso,Nao,No,32,Transferencia bancaria,Trimestralmente
 3628,39,Mulher,Cinto,Acessorios,54,Delaware,M,Prateado,Inverno,33,Nao,Next Day Air,Nao,No,48,Cartao de Credito,A cada 3 meses
 3629,53,Mulher,Blusa,Roupas,88,Georgia,G,Roxo,Verao,38,Nao,Free Shipping,Nao,No,35,Em dinheiro,Mensalmente
 3630,52,Mulher,T-shirt,Roupas,43,Kansas,G,Lavanda,Verao,45,Nao,Standard,Nao,No,44,Cartao de Credito,Quinzenalmente
 3631,65,Mulher,Chapeu,Acessorios,73,Oklahoma,M,Lavanda,Inverno,48,Nao,Retirado na loja,Nao,No,29,Cartao de Credito,Semanalmente
-3632,48,Mulher,Chapeu,Acessorios,50,New Jersey,M,Peach,Outono,29,Nao,Retirado na loja,Nao,No,26,Cartao de Debito,Mensalmente
+3632,48,Mulher,Chapeu,Acessorios,50,New Jersey,M,Pessego,Outono,29,Nao,Retirado na loja,Nao,No,26,Cartao de Debito,Mensalmente
 3633,27,Mulher,Tenis,Calcados,73,Utah,G,Verde,Primavera,32,Nao,Expresso,Nao,No,3,PayPal,Trimestralmente
 3634,39,Mulher,Gloves,Acessorios,51,Montana,M,Laranja,Primavera,28,Nao,Free Shipping,Nao,No,1,PIX,Quinzenalmente
 3635,59,Mulher,Socks,Roupas,22,Ohio,M,Rosa,Inverno,33,Nao,Standard,Nao,No,17,Transferencia bancaria,Anualmente
@@ -3664,7 +3664,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3663,69,Mulher,Shorts,Roupas,80,Rhode Island,M,Indigo,Primavera,49,Nao,Next Day Air,Nao,No,11,PIX,Semanalmente
 3664,65,Mulher,Mochila,Acessorios,59,Florida,M,Verde,Verao,44,Nao,Expresso,Nao,No,49,Em dinheiro,Semanalmente
 3665,63,Mulher,Jaqueta,Agasalhos,68,Missouri,M,Turquesa,Outono,44,Nao,Retirado na loja,Nao,No,1,Em dinheiro,Quinzenalmente
-3666,28,Mulher,Socks,Roupas,77,North Carolina,M,Peach,Outono,34,Nao,Next Day Air,Nao,No,11,Cartao de Credito,Trimestralmente
+3666,28,Mulher,Socks,Roupas,77,North Carolina,M,Pessego,Outono,34,Nao,Next Day Air,Nao,No,11,Cartao de Credito,Trimestralmente
 3667,67,Mulher,Joias,Acessorios,50,Alabama,M,Oliva,Inverno,30,Nao,Frete em 2 dias,Nao,No,47,Cartao de Credito,A cada 3 meses
 3668,51,Mulher,Calcas,Roupas,45,Washington,G,Ciano,Outono,26,Nao,Next Day Air,Nao,No,20,Cartao de Credito,Mensalmente
 3669,59,Mulher,Blusa,Roupas,71,Michigan,XG,Magenta,Verao,32,Nao,Retirado na loja,Nao,No,18,PayPal,Anualmente
@@ -3710,16 +3710,16 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3709,40,Mulher,Moletom,Roupas,96,South Carolina,M,Vermelho,Outono,49,Nao,Expresso,Nao,No,41,Transferencia bancaria,Mensalmente
 3710,31,Mulher,Socks,Roupas,43,Utah,M,Prateado,Outono,36,Nao,Free Shipping,Nao,No,27,Cartao de Debito,Trimestralmente
 3711,60,Mulher,Joias,Acessorios,40,Hawaii,M,Amarelo,Verao,36,Nao,Frete em 2 dias,Nao,No,32,PayPal,Quinzenalmente
-3712,69,Mulher,Chapeu,Acessorios,62,Texas,XG,Peach,Outono,32,Nao,Free Shipping,Nao,No,33,Em dinheiro,Anualmente
+3712,69,Mulher,Chapeu,Acessorios,62,Texas,XG,Pessego,Outono,32,Nao,Free Shipping,Nao,No,33,Em dinheiro,Anualmente
 3713,51,Mulher,Blusa,Roupas,72,Oregon,M,Turquesa,Primavera,37,Nao,Frete em 2 dias,Nao,No,24,PIX,Trimestralmente
-3714,49,Mulher,Sapatos,Calcados,87,Arizona,M,Peach,Primavera,26,Nao,Expresso,Nao,No,31,Em dinheiro,A cada 3 meses
-3715,18,Mulher,Chapeu,Acessorios,31,New York,P,Peach,Inverno,39,Nao,Expresso,Nao,No,35,Em dinheiro,Semanalmente
+3714,49,Mulher,Sapatos,Calcados,87,Arizona,M,Pessego,Primavera,26,Nao,Expresso,Nao,No,31,Em dinheiro,A cada 3 meses
+3715,18,Mulher,Chapeu,Acessorios,31,New York,P,Pessego,Inverno,39,Nao,Expresso,Nao,No,35,Em dinheiro,Semanalmente
 3716,63,Mulher,Oculos de sol,Acessorios,34,Nebraska,P,Laranja,Outono,34,Nao,Free Shipping,Nao,No,2,Cartao de Credito,Mensalmente
 3717,57,Mulher,Shirt,Roupas,53,Vermont,M,Carvao,Outono,34,Nao,Next Day Air,Nao,No,42,Transferencia bancaria,A cada 3 meses
 3718,45,Mulher,T-shirt,Roupas,85,Maryland,XG,Branco,Verao,42,Nao,Expresso,Nao,No,47,PIX,A cada 3 meses
 3719,36,Mulher,Calcas,Roupas,50,Tennessee,G,Turquesa,Outono,29,Nao,Standard,Nao,No,44,Cartao de Credito,Quinzenalmente
 3720,20,Mulher,Calcas,Roupas,91,Pennsylvania,M,Vermelho,Verao,41,Nao,Free Shipping,Nao,No,8,Em dinheiro,A cada 3 meses
-3721,21,Mulher,Chapeu,Acessorios,56,South Carolina,M,Peach,Outono,36,Nao,Free Shipping,Nao,No,13,Cartao de Debito,Trimestralmente
+3721,21,Mulher,Chapeu,Acessorios,56,South Carolina,M,Pessego,Outono,36,Nao,Free Shipping,Nao,No,13,Cartao de Debito,Trimestralmente
 3722,62,Mulher,Casaco,Agasalhos,60,Connecticut,G,Rosa,Outono,40,Nao,Next Day Air,Nao,No,10,Cartao de Credito,Anualmente
 3723,23,Mulher,Jaqueta,Agasalhos,34,Kentucky,XG,Amarelo,Outono,40,Nao,Standard,Nao,No,1,PayPal,Quinzenalmente
 3724,26,Mulher,Sandalhas,Calcados,30,Rhode Island,M,Bege,Primavera,36,Nao,Free Shipping,Nao,No,1,PIX,Mensalmente
@@ -3754,12 +3754,12 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3753,24,Mulher,Casaco,Agasalhos,81,Washington,G,Rosa,Inverno,41,Nao,Frete em 2 dias,Nao,No,43,Cartao de Debito,Semanalmente
 3754,39,Mulher,Oculos de sol,Acessorios,26,Louisiana,P,Turquesa,Inverno,42,Nao,Next Day Air,Nao,No,22,Transferencia bancaria,Quinzenalmente
 3755,46,Mulher,Sapatos,Calcados,41,Nebraska,M,Turquesa,Verao,44,Nao,Expresso,Nao,No,10,PayPal,A cada 3 meses
-3756,64,Mulher,Saia,Roupas,93,Pennsylvania,M,Peach,Outono,34,Nao,Free Shipping,Nao,No,26,Transferencia bancaria,Mensalmente
+3756,64,Mulher,Saia,Roupas,93,Pennsylvania,M,Pessego,Outono,34,Nao,Free Shipping,Nao,No,26,Transferencia bancaria,Mensalmente
 3757,64,Mulher,Saia,Roupas,69,South Carolina,G,Verde-azulado,Primavera,48,Nao,Expresso,Nao,No,42,Cartao de Credito,Quinzenalmente
 3758,61,Mulher,Saia,Roupas,44,California,G,Vermelho,Outono,45,Nao,Frete em 2 dias,Nao,No,33,Cartao de Debito,Semanalmente
 3759,61,Mulher,Sandalhas,Calcados,54,Indiana,P,Preto,Primavera,27,Nao,Retirado na loja,Nao,No,23,Em dinheiro,Trimestralmente
 3760,44,Mulher,Tenis,Calcados,61,Missouri,M,Rosa,Primavera,35,Nao,Retirado na loja,Nao,No,30,Cartao de Credito,Trimestralmente
-3761,65,Mulher,Socks,Roupas,80,Connecticut,M,Peach,Outono,31,Nao,Next Day Air,Nao,No,36,PayPal,Semanalmente
+3761,65,Mulher,Socks,Roupas,80,Connecticut,M,Pessego,Outono,31,Nao,Next Day Air,Nao,No,36,PayPal,Semanalmente
 3762,60,Mulher,Mochila,Acessorios,30,Nevada,M,Verde,Verao,28,Nao,Next Day Air,Nao,No,3,PIX,A cada 3 meses
 3763,65,Mulher,Shorts,Roupas,94,New York,G,Verde,Outono,29,Nao,Retirado na loja,Nao,No,13,PIX,Anualmente
 3764,27,Mulher,Shirt,Roupas,24,Oklahoma,XG,Vermelho,Inverno,45,Nao,Standard,Nao,No,38,PayPal,A cada 3 meses
@@ -3800,16 +3800,16 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3799,63,Mulher,Joias,Acessorios,72,Rhode Island,P,Marrom,Inverno,32,Nao,Next Day Air,Nao,No,23,Cartao de Credito,Anualmente
 3800,60,Mulher,Jaqueta,Agasalhos,26,Oklahoma,G,Violeta,Inverno,26,Nao,Retirado na loja,Nao,No,13,PayPal,Mensalmente
 3801,19,Mulher,Sueter,Roupas,26,Vermont,M,Turquesa,Outono,48,Nao,Next Day Air,Nao,No,12,PIX,Quinzenalmente
-3802,26,Mulher,Blusa,Roupas,84,Kentucky,M,Peach,Primavera,50,Nao,Retirado na loja,Nao,No,36,PayPal,Quinzenalmente
+3802,26,Mulher,Blusa,Roupas,84,Kentucky,M,Pessego,Primavera,50,Nao,Retirado na loja,Nao,No,36,PayPal,Quinzenalmente
 3803,70,Mulher,Cachecol,Acessorios,72,Illinois,P,Turquesa,Primavera,32,Nao,Frete em 2 dias,Nao,No,1,Transferencia bancaria,Mensalmente
 3804,48,Mulher,Bolsa,Acessorios,55,Connecticut,M,Violeta,Primavera,36,Nao,Standard,Nao,No,14,Cartao de Credito,Semanalmente
 3805,37,Mulher,Chapeu,Acessorios,77,Florida,M,Oliva,Outono,27,Nao,Frete em 2 dias,Nao,No,45,PIX,Anualmente
 3806,48,Mulher,Cachecol,Acessorios,57,New Jersey,M,Verde,Outono,31,Nao,Standard,Nao,No,31,Cartao de Debito,Trimestralmente
 3807,18,Mulher,Botas,Calcados,71,Missouri,M,Verde-azulado,Primavera,30,Nao,Standard,Nao,No,41,Em dinheiro,Semanalmente
-3808,38,Mulher,Blusa,Roupas,39,Michigan,G,Peach,Primavera,29,Nao,Next Day Air,Nao,No,36,PayPal,Anualmente
+3808,38,Mulher,Blusa,Roupas,39,Michigan,G,Pessego,Primavera,29,Nao,Next Day Air,Nao,No,36,PayPal,Anualmente
 3809,33,Mulher,Socks,Roupas,28,Washington,M,Rosa,Inverno,47,Nao,Expresso,Nao,No,6,PIX,Quinzenalmente
 3810,57,Mulher,Sapatos,Calcados,33,New York,P,Marrom,Inverno,37,Nao,Standard,Nao,No,28,Transferencia bancaria,Anualmente
-3811,46,Mulher,Saia,Roupas,79,Wisconsin,G,Peach,Outono,39,Nao,Free Shipping,Nao,No,29,Cartao de Debito,Mensalmente
+3811,46,Mulher,Saia,Roupas,79,Wisconsin,G,Pessego,Outono,39,Nao,Free Shipping,Nao,No,29,Cartao de Debito,Mensalmente
 3812,46,Mulher,Cinto,Acessorios,30,Idaho,M,Marrom,Inverno,40,Nao,Standard,Nao,No,14,PIX,Mensalmente
 3813,50,Mulher,Saia,Roupas,75,Michigan,M,Rosa,Primavera,28,Nao,Next Day Air,Nao,No,7,PayPal,A cada 3 meses
 3814,61,Mulher,Calcas,Roupas,89,Georgia,M,Laranja,Verao,41,Nao,Expresso,Nao,No,31,Cartao de Credito,Quinzenalmente
@@ -3838,7 +3838,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3837,62,Mulher,Saia,Roupas,84,Alaska,M,Violeta,Primavera,25,Nao,Free Shipping,Nao,No,38,PIX,Quinzenalmente
 3838,45,Mulher,Moletom,Roupas,100,New Mexico,M,Verde,Primavera,48,Nao,Free Shipping,Nao,No,33,Cartao de Debito,Quinzenalmente
 3839,47,Mulher,Vestido,Roupas,25,Rhode Island,G,Verde,Verao,42,Nao,Expresso,Nao,No,24,Transferencia bancaria,A cada 3 meses
-3840,66,Mulher,Sandalhas,Calcados,29,Connecticut,M,Peach,Primavera,39,Nao,Free Shipping,Nao,No,14,PayPal,Trimestralmente
+3840,66,Mulher,Sandalhas,Calcados,29,Connecticut,M,Pessego,Primavera,39,Nao,Free Shipping,Nao,No,14,PayPal,Trimestralmente
 3841,30,Mulher,Jeans,Roupas,42,Idaho,M,Turquesa,Primavera,37,Nao,Expresso,Nao,No,5,Cartao de Debito,Quinzenalmente
 3842,68,Mulher,Jeans,Roupas,57,Mississippi,G,Rosa,Outono,42,Nao,Frete em 2 dias,Nao,No,8,Em dinheiro,Mensalmente
 3843,35,Mulher,Jaqueta,Agasalhos,84,Colorado,G,Lavanda,Inverno,42,Nao,Next Day Air,Nao,No,42,Em dinheiro,Mensalmente
@@ -3851,7 +3851,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3850,46,Mulher,Moletom,Roupas,68,Florida,P,Ciano,Inverno,26,Nao,Expresso,Nao,No,36,PIX,Quinzenalmente
 3851,27,Mulher,Joias,Acessorios,74,Mississippi,G,Indigo,Verao,44,Nao,Frete em 2 dias,Nao,No,25,Cartao de Credito,A cada 3 meses
 3852,50,Mulher,Cachecol,Acessorios,83,Montana,M,Rosa,Verao,39,Nao,Free Shipping,Nao,No,24,Cartao de Credito,Anualmente
-3853,65,Mulher,Chapeu,Acessorios,79,Mississippi,M,Peach,Outono,40,Nao,Frete em 2 dias,Nao,No,19,Cartao de Credito,Semanalmente
+3853,65,Mulher,Chapeu,Acessorios,79,Mississippi,M,Pessego,Outono,40,Nao,Frete em 2 dias,Nao,No,19,Cartao de Credito,Semanalmente
 3854,61,Mulher,Oculos de sol,Acessorios,76,Tennessee,M,Lavanda,Outono,40,Nao,Retirado na loja,Nao,No,49,Transferencia bancaria,Quinzenalmente
 3855,57,Mulher,T-shirt,Roupas,20,Florida,M,Preto,Primavera,42,Nao,Free Shipping,Nao,No,4,PIX,Anualmente
 3856,40,Mulher,Shirt,Roupas,61,Illinois,XG,Lavanda,Verao,44,Nao,Next Day Air,Nao,No,36,Cartao de Debito,Trimestralmente
@@ -3890,7 +3890,7 @@ ID do Cliente,Idade,Sexo,Item Comprado,Categoria,Valor da Compra (USD),Localizac
 3889,45,Mulher,Tenis,Calcados,69,Virginia,M,Violeta,Primavera,34,Nao,Standard,Nao,No,14,Transferencia bancaria,Quinzenalmente
 3890,57,Mulher,Vestido,Roupas,65,Alaska,P,Amarelo,Primavera,35,Nao,Expresso,Nao,No,49,Cartao de Debito,Anualmente
 3891,35,Mulher,Shirt,Roupas,81,Nebraska,XG,Verde,Inverno,26,Nao,Standard,Nao,No,33,Cartao de Credito,Anualmente
-3892,36,Mulher,Vestido,Roupas,30,Colorado,G,Peach,Inverno,47,Nao,Free Shipping,Nao,No,6,Em dinheiro,Trimestralmente
+3892,36,Mulher,Vestido,Roupas,30,Colorado,G,Pessego,Inverno,47,Nao,Free Shipping,Nao,No,6,Em dinheiro,Trimestralmente
 3893,35,Mulher,Joias,Acessorios,86,Michigan,G,Indigo,Verao,35,Nao,Standard,Nao,No,5,Transferencia bancaria,Quinzenalmente
 3894,21,Mulher,Chapeu,Acessorios,64,Massachusetts,G,Branco,Outono,33,Nao,Retirado na loja,Nao,No,29,Transferencia bancaria,Quinzenalmente
 3895,66,Mulher,Saia,Roupas,78,Connecticut,G,Branco,Primavera,39,Nao,Frete em 2 dias,Nao,No,44,Em dinheiro,A cada 3 meses
