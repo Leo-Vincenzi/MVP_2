@@ -3868,7 +3868,7 @@ ID_Cliente,Idade,Sexo,Item_Vendido,Categoria,Valor_Venda,Localizacao,Tamanho,Cor
 3867,58,Mulher,Bone,Acessorios,32,Alaska,M,Bege,Inverno,33,Nao,Frete em 2 dias,Nao,No,33,PIX,Quinzenalmente
 3868,46,Mulher,Jaqueta,Agasalhos,21,Maryland,G,Lavanda,Verao,27,Nao,Padrao,Nao,No,28,Em dinheiro,Mensalmente
 3869,18,Mulher,Vestido,Roupas,29,Maryland,XG,Magenta,Inverno,33,Nao,Frete em 2 dias,Nao,No,9,PayPal,Anualmente
-3870,26,Mulher,Casaco,Agasalhos,64,Arizona,G,Ciano,Primavera,38,Nao,Frete Gratis,Nao,No,28,Transferencia bancaria,Anualmente
+3870,26,Mulher,Casaco,Agasalhos,64,Arizona,G,Ciano,Primavera,38,Nao,Frete Gratis,Nao,No,,Transferencia bancaria,Anualmente
 3871,61,Mulher,Sandalhas,Calcados,46,Ohio,G,Lavanda,Outono,32,Nao,Aereo Dia Seguinte,Nao,No,19,Transferencia bancaria,A cada 3 meses
 3872,55,Mulher,T-Shirt,Roupas,97,Minnesota,M,Preto,Outono,41,Nao,Frete em 2 dias,Nao,No,20,Cartao de Credito,A cada 3 meses
 3873,41,Mulher,Jaqueta,Agasalhos,94,New Hampshire,M,Verde,Primavera,43,Nao,Padrao,Nao,No,3,Em dinheiro,Mensalmente
@@ -3878,7 +3878,7 @@ ID_Cliente,Idade,Sexo,Item_Vendido,Categoria,Valor_Venda,Localizacao,Tamanho,Cor
 3877,60,Mulher,Sapatos,Calcados,85,Wisconsin,P,Ciano,Outono,26,Nao,Frete em 2 dias,Nao,No,7,Transferencia bancaria,Anualmente
 3878,28,Mulher,Moletom,Roupas,96,Nevada,M,Oliva,Primavera,42,Nao,Aereo Dia Seguinte,Nao,No,46,PIX,Mensalmente
 3879,60,Mulher,Bone,Acessorios,42,South Carolina,M,Rosa,Verao,34,Nao,Frete em 2 dias,Nao,No,24,PIX,Anualmente
-3880,26,Mulher,Saia,Roupas,63,Florida,G,Marrom,Inverno,41,Nao,Frete Gratis,Nao,No,6,Em dinheiro,Trimestralmente
+3880,26,Mulher,Saia,Roupas,63,Florida,G,Marrom,Inverno,,Nao,Frete Gratis,Nao,No,6,Em dinheiro,Trimestralmente
 3881,42,Mulher,Camisa DryFit,Roupas,20,Massachusetts,M,Vermelho,Inverno,39,Nao,Frete Gratis,Nao,No,40,Cartao de Credito,Mensalmente
 3882,56,Mulher,Cachecol,Acessorios,25,Georgia,G,Prateado,Primavera,28,Nao,Frete em 2 dias,Nao,No,17,PayPal,Semanalmente
 3883,35,Mulher,Calca,Roupas,95,North Dakota,G,Azul,Outono,26,Nao,Frete Gratis,Nao,No,24,Cartao de Credito,Quinzenalmente
@@ -3888,7 +3888,7 @@ ID_Cliente,Idade,Sexo,Item_Vendido,Categoria,Valor_Venda,Localizacao,Tamanho,Cor
 3887,37,Mulher,Capacete,Acessorios,92,Iowa,P,Marrom,Verao,39,Nao,Expresso,Nao,No,40,Transferencia bancaria,Trimestralmente
 3888,40,Mulher,Camisa DryFit,Roupas,34,Kansas,M,Carvao,Primavera,27,Nao,Expresso,Nao,No,1,PayPal,Trimestralmente
 3889,45,Mulher,Tenis,Calcados,69,Virginia,M,Violeta,Primavera,34,Nao,Padrao,Nao,No,14,Transferencia bancaria,Quinzenalmente
-3890,57,Mulher,Vestido,Roupas,65,Alaska,P,Amarelo,Primavera,35,Nao,Expresso,Nao,No,49,Cartao de Debito,Anualmente
+3890,57,Mulher,Vestido,Roupas,,Alaska,P,Amarelo,Primavera,35,Nao,Expresso,Nao,No,49,Cartao de Debito,Anualmente
 3891,35,Mulher,Camisa DryFit,Roupas,81,Nebraska,XG,Verde,Inverno,26,Nao,Padrao,Nao,No,33,Cartao de Credito,Anualmente
 3892,36,Mulher,Vestido,Roupas,30,Colorado,G,Pessego,Inverno,47,Nao,Frete Gratis,Nao,No,6,Em dinheiro,Trimestralmente
 3893,35,Mulher,Capacete,Acessorios,86,Michigan,G,Indigo,Verao,35,Nao,Padrao,Nao,No,5,Transferencia bancaria,Quinzenalmente
