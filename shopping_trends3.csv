@@ -3899,4 +3899,4 @@ ID_Cliente,Idade,Sexo,Item_Vendido,Categoria,Valor_Venda,Localizacao,Tamanho,Cor
 3898,46,Mulher,Cinto,Acessorios,33,New Jersey,G,Verde,Primavera,29,Nao,Padrao,Nao,No,24,Cartao de Credito,Trimestralmente
 3899,44,Mulher,Sapatos,Calcados,77,Minnesota,P,Marrom,Verao,38,Nao,Expresso,Nao,No,24,PayPal,Semanalmente
 3900,52,Mulher,Bolsa,Acessorios,81,California,M,Bege,Primavera,31,Nao,Retirado na loja,Nao,No,33,Transferencia bancaria,Trimestralmente
-,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
