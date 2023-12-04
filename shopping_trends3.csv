@@ -3878,7 +3878,7 @@ ID_Cliente,Idade,Sexo,Item_Vendido,Categoria,Valor_Venda,Localizacao,Tamanho,Cor
 3877,60,Mulher,Sapatos,Calcados,85,Wisconsin,P,Ciano,Outono,26,Nao,Frete em 2 dias,Nao,No,7,Transferencia bancaria,Anualmente
 3878,28,Mulher,Moletom,Roupas,96,Nevada,M,Oliva,Primavera,42,Nao,Aereo Dia Seguinte,Nao,No,46,PIX,Mensalmente
 3879,60,Mulher,Bone,Acessorios,42,South Carolina,M,Rosa,Verao,34,Nao,Frete em 2 dias,Nao,No,24,PIX,Anualmente
-3880,26,Mulher,Saia,Roupas,63,Florida,G,Marrom,Inverno,,Nao,Frete Gratis,Nao,No,6,Em dinheiro,Trimestralmente
+3880,26,Mulher,Saia,Roupas,63,Florida,G,Marrom,Inverno,41,Nao,Frete Gratis,Nao,No,6,Em dinheiro,Trimestralmente
 3881,42,Mulher,Camisa DryFit,Roupas,20,Massachusetts,M,Vermelho,Inverno,39,Nao,Frete Gratis,Nao,No,40,Cartao de Credito,Mensalmente
 3882,56,Mulher,Cachecol,Acessorios,25,Georgia,G,Prateado,Primavera,28,Nao,Frete em 2 dias,Nao,No,17,PayPal,Semanalmente
 3883,35,Mulher,Calca,Roupas,95,North Dakota,G,Azul,Outono,26,Nao,Frete Gratis,Nao,No,24,Cartao de Credito,Quinzenalmente
