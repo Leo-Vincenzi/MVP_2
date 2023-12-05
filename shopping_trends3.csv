@@ -1,4 +1,4 @@
-ID_Cliente,Idade,Sexo,Item_Vendido,Categoria,Valor_Venda,Localizacao,Tamanho,Cor,Temporada,Avaliacao,Assinatura,Envio,Desconto,Codigo_Promocional,Vendas_Anteriores,Forma_Pagamento,Frequencia_Vendas
+Cliente,Idade,Sexo,Item,Cat_Item,Valor_Venda,Localizacao,Tamanho,Cor,Temporada,Avaliacao,Assinatura,Envio,Desconto,Codigo_Promocional,Vendas_Anteriores,Forma_Pagamento,Frequencia_Vendas
 1,55,Homem,Camisa,Roupas,53,Kentucky,G,Cinza,Inverno,31,Sim,Expresso,Sim,Sim,14,Cartao de Credito,Quinzenalmente
 2,19,Homem,Sueter,Roupas,64,Maine,G,Marrom,Inverno,31,Sim,Expresso,Sim,Sim,2,Transferencia bancaria,Quinzenalmente
 3,50,Homem,Jeans,Roupas,73,Massachusetts,P,Marrom,Primavera,31,Sim,Frete Gratis,Sim,Sim,23,Em dinheiro,Semanalmente
